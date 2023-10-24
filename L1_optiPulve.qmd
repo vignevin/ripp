@@ -1,0 +1,80 @@
+---
+title: "Fiche Levier : Optimiser sa voûte pneumatique"
+format: 
+  html:
+    toc: true
+  pdf:
+    documentclass: scrreprt
+    number-sections: true
+    colorlinks: true
+---
+
+| Acceptabilité                           | Avantages                            | Contraintes                       | Réduction des impacts                                                 |
+|------------------|------------------|------------------|--------------------|
+| Facile à mettre en œuvre et peu coûteux | Améliore la qualité de pulvérisation | Faible (temps en début de saison) | Faible, la technologie pneumatique ne permet pas de réduire la dérive |
+
+Les voûtes pneumatiques sont très utilisées à l'heure actuelle en vignes larges (près de 70 % des appareils du parc). Le niveau de dérive généré par ce type d'appareil peut être très important à cause de la technologie pneumatique qui impose une vitesse de l'air importante, y compris en début de végétation Il est primordial de bien régler son appareil pour réduire autant que possible les impacts.
+
+![Voute pneumatique Grégoire](images/L1_vouteGregoire.png)
+
+::: callout-warning
+## Attention à la qualité de pulvérisation !
+
+Avec une voûte pneumatique, la qualité de pulvérisation est **correcte en passage tous les 2 rangs et 3 rangs avec main de retour**, mauvaise en passage tous les 3 rangs sans main de retour et médiocre en passage tous les 4 rangs.
+:::
+
+## Comment optimiser son appareil ?
+
+### Entretenir et vérifier son appareil en début de saison
+
+**Étalonner le pulvérisateur** avant chaque campagne et pendant la saison si nécessaire par une mesure du débit de chaque diffuseur pour vérifier le volume/ha réellement appliqué. Veiller à ce que la répartition des débits dans les différents organes du pulvérisateur permette de pulvériser la même dose sur chaque face de rang. Vérifier le bon fonctionnement des organes de protection (grille, prise de force...). N'oubliez pas de réaliser le contrôle technique périodique de votre appareil (tous les 3 ans), qui est obligatoire !
+
+### Traiter dans de bonnes conditions météo
+
+**Effectuer le traitement avec la plus faible vitesse de vent possible.** Un vent soutenu provoque une forte dérive. La réglementation interdit de traiter par vent au-delà de 19 km/h.
+
+**Eviter les interventions aux heures chaudes de la journée**. Plus la température est élevée, plus la vitesse d'évaporation des gouttes avant interception par la végétation est importante, et donc moins il y aura de produit qui atteint la plante.
+
+### Adapter le nombre de diffuseurs à la hauteur de végétation
+
+En début de végétation**, fermer les diffuseurs inutiles**. Cela permet de limiter le gaspillage de bouillie. Dans tous les cas, les voûtes pneumatiques ne sont pas les pulvérisateurs les plus indiqués pour traiter en début de végétation, en raison des risques de dérive.
+
+![Fermer les diffuseurs inutiles !](images/L1_Illustration.png)
+
+### Orienter précisément les diffuseurs
+
+::: {layout="[ 50, 50 ]"}
+::: {#first-column}
+A chaque traitement, **bien orienter les diffuseurs ouverts vers la végétation**. Une pulvérisation d'eau dans la vigne permet de réaliser ce réglage visuellement, éventuellement en s'aidant d'une plaque de fer rouillée. Il est aussi possible de contrôler la répartition du produit dans la végétation à l'aide de papiers hydro-sensibles.
+:::
+
+::: {#second-column}
+![Réglage de l'orientation des diffuseurs à la plaque de fer](images/L1_PlaqueFer.JPG){width="300"}
+:::
+:::
+
+### Réduire le flux d'air
+
+En pneumatique, les gouttelettes sont formées par la fragmentation d'une veine de liquide dans un courant d'air rapide (80-120 m/s), générant de fines gouttelettes (100 à 150 µm). Plus le flux est rapide, plus les gouttelettes générées seront fines. On peut réduire la vitesse du flux d'air, en particulier en début de saison.
+
+## Pour aller plus loin
+
+::: {layout="[ 50, 50 ]"}
+<div>
+
+Avec certains modèles, il est possible de changer de technologie de pulvérisation et de changer votre voûte pneumatique en voûte en jet porté, avec l'ajout de porte buses. Parlez-en à votre constructeur/revendeur qui vous indiquera les différentes options. Ce type d'évolution est encore peu fréquent, mais permet de faire varier la vitesse d'air sans agir sur la taille des gouttes. D'autre part, la possibilité d'utiliser des buses antidérive permet de réduire significativement la dérive sans pénaliser la qualité d'application.
+
+</div>
+
+<div>
+
+![Voute pneumatique équipée en jet porté](images/L1_ModifVouteJetPorté.JPG){width="300"}
+
+</div>
+:::
+
+## Ressources complémentaires
+
+[Fiche pratique sur le réglage du matériel](https://www.vignevin-occitanie.com/fiches-pratiques/le-reglage-du-materiel-de-pulverisation-ou-pulverisateur/)
+
+[Guide pratique de réglage des pulvérisateurs](https://www.vignevin.com/article/guide-pratique-de-reglages-dutilisation-pulverisateurs-viticoles/)

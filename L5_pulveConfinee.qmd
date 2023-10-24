@@ -1,0 +1,79 @@
+---
+title : "Fiche Levier : La Pulvérisation confinée"
+format: 
+  html:
+    toc: true
+  pdf:
+    documentclass: scrreprt
+    number-sections: true
+    colorlinks: true
+---
+
+| Acceptabilité                 | Avantages                                      | Contraintes                                | Réduction des impacts              |
+|------------------|------------------|------------------|-------------------|
+| A prioriser en zone sensibles | Economie de produits, qualité de pulvérisation | Investissement élevé, temps et maniabilité | Fort sur la réduction de la dérive |
+
+Au cours de l'application, avec un pulvérisateur classique, une partie du produit n'atteint pas le feuillage. L'utilisation de panneaux récupérateurs ou de tunnels de traitement permet de :
+
+-   Économiser des produits phytosanitaires en recyclant la bouillie n'ayant pas atteint la cible. L'économie de produit atteint 30 à 40% sur l'année (70 à 80% en début de végétation et 10 à 20% sur végétation bien développée en fonction de la vigueur et de l'état de la parcelle).
+
+-   Réduire la dérive de manière très significative.
+
+![Pulvérisateur à panneaux récupérateurs Dhugues Koléos](images/L5_Dhugues_Piquet.JPG)
+
+## Quelle efficacité sur la réduction de dérive ?
+
+La plupart des pulvérisateurs à panneaux récupérateurs et à jet porté, lorsqu'ils sont équipés de buses antidérive, sont officiellement reconnus sur la liste du ministère de l'agriculture comme réduisant d'au moins 90% le phénomène de dérive.
+
+AJOUTER ILLUSTRATIONS
+
+## Utiliser un pulvérisateur à panneaux récupérateurs
+
+### Optimiser la réduction de la dérive
+
+-   Utiliser des **buses à injection d'air** pour optimiser la réduction de dérive et le taux de récupération. Les buses à fentes sont à préférer aux buses à turbulence pour éviter que le produit ne sorte des panneaux. 5 à 6 hauteurs de buses sont suffisantes pour traiter la végétation, fermer les buses inutiles en début de végétation !
+
+-   Privilégier les panneaux les plus **larges** qui sont les plus performants pour récupérer la bouillie.
+
+::: callout-warning
+-   Eviter les panneaux récupérateurs pneumatiques : la finesse des gouttelettes produites ne permet pas une bonne récupération et pénalise la dérive.
+-   Attention aux pollutions ponctuelles (renversement des bacs de récupération, gestion des fonds de cuve...).
+:::
+
+### Optimiser les temps de chantier
+
+Avec ces pulvérisateurs, il est possible de traiter plus vite (jusqu'à 9km/h) sans affecter la qualité de pulvérisation. Attention la vitesse maximale dépend du terrain (sol plat, sans irrégularité).
+
+Privilégier les parcelles avec des tournières larges (minimum 4.5 à 5m) pour faciliter les manœuvres en bout de rang en tenant compte de l'encombrement des panneaux. Il est nécessaire d'avoir un dispositif de sécurité en cas d'accrochage des panneaux.
+
+Choisir des appareils équipés de dispositifs de repli et réouverture automatique à la largeur souhaitée pour un débit de chantier optimal. Privilégier les attelages articulés et les cardans double-joint homocinétique pour la maniabilité. Privilégier le double essieu ou boggie par rapport au simple essieu pour la stabilité malgré une moins bonne maniabilité.
+
+Dispositifs de ré-aspiration de la bouillie dans les panneaux : Eviter les dispositifs utilisant des hydro-injecteurs afin d'éviter la mousse dans la cuve lors du recyclage de la bouillie (préférer dispositif avec pompe péristaltique ou pompe annexe).
+
+::: callout-note
+## Un bilan économique favorable pour les panneaux !
+
+Les économies de produits phytosanitaires compensent généralement le surcoût à l'achat et les temps de travaux plus importants.
+:::
+
+## Pour aller plus loin
+
+A COMPLETER
+
+## Ressources complémentaires
+
+### En ligne
+
+{{< video https://www.youtube.com/watch?v=EbjgyjnJKDM >}}
+
+-   [Fiche pratique IFV Occitanie](https://www.vignevin-occitanie.com/fiches-pratiques/utilisation-de-panneaux-recuperateurs/)
+
+-   [Article sur la pulvérisation confinée](https://www.vignevin.com/article/la-pulverisation-confinee-en-viticulture/)
+
+### A télécharger
+
+-   [Guide du choix du pulvérisateur en vignes larges (PDF)](https://www.vignevin.com/wp-content/uploads/2021/05/Guide-pulve-2020-BD-2.pdf)
+
+-   [Les panneaux récupérateurs : atouts et limites (PDF)](https://www.vignevin.com/wp-content/uploads/2020/03/2017-Article_panneaux_recuperateurs_IFV-IRSTEA.pdf?_rt=M3wxfHBhbm5lYXV4IHLDqWN1cMOpcmF0ZXVyc3wxNjkzOTc5MzU3&_rt_nonce=1b8b44f349)
+
+-   [Article intégrant la dimension technico-économique sur Matévi (PDF)](https://www.matevi-france.com/uploads/tx_matevibase/Pulve_confinee_Approche_tech_eco_MateVi_2019.pdf)

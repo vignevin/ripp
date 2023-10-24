@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Site Web RIPP"
+  page-navigation: true
+  reader-mode: true
+  sidebar:
+    style: "docked"
+    search: true
+    contents: 
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - section: "Les leviers"
+        contents:
+          - L1_optiPulve.qmd
+          - L5_pulveConfinee.qmd
+      - section: "La stratégie exploitation"
+  page-footer:
+    right: "Projet RIPPviti, 2023"
+    left: "&copy; CC BY-NC-ND"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+lang: fr
+
+
