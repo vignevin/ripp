@@ -2,78 +2,316 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "A propos",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Ce site a été réalisé dans le cadre du projet RIPP-Viti.\nDate de création : 2023\nCrédits : IFV, INRAE"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Fiches RIPP",
     "section": "",
-    "text": "Vous trouverez sur ces pages des fiches pratiques issues du projet RIPP viti."
+    "text": "Vous trouverez sur ces pages des fiches pratiques issues du projet RIPP viti.\n\n\n\n\n\n\nMise en garde\n\n\n\n!!! SITE EN CONSTRUCTION !!! Livraison prévue en mars 2024, soyez patient :) !"
   },
   {
     "objectID": "L1_optiPulve.html",
     "href": "L1_optiPulve.html",
-    "title": "Fiche Levier : Optimiser sa voûte pneumatique",
+    "title": "Optimiser sa voûte pneumatique",
     "section": "",
-    "text": "Acceptabilité\nAvantages\nContraintes\nRéduction des impacts\n\n\n\n\nFacile à mettre en œuvre et peu coûteux\nAméliore la qualité de pulvérisation\nFaible (temps en début de saison)\nFaible, la technologie pneumatique ne permet pas de réduire la dérive\nLes voûtes pneumatiques sont très utilisées à l’heure actuelle en vignes larges (près de 70 % des appareils du parc). Le niveau de dérive généré par ce type d’appareil peut être très important à cause de la technologie pneumatique qui impose une vitesse de l’air importante, y compris en début de végétation Il est primordial de bien régler son appareil pour réduire autant que possible les impacts."
+    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nFaible, la technologie pneumatique ne permet pas de réduire la dérive\nAméliore la qualité de pulvérisation\nFaible (temps en début de saison)\nFacile à mettre en œuvre et peu coûteux\nLes voûtes pneumatiques sont très utilisées à l’heure actuelle en vignes larges (près de 70 % des appareils du parc). Le niveau de dérive généré par ce type d’appareil peut être très important à cause de la technologie pneumatique qui impose une vitesse de l’air importante, y compris en début de végétation Il est primordial de bien régler son appareil pour réduire autant que possible les impacts."
   },
   {
     "objectID": "L1_optiPulve.html#comment-optimiser-son-appareil",
     "href": "L1_optiPulve.html#comment-optimiser-son-appareil",
-    "title": "Fiche Levier : Optimiser sa voûte pneumatique",
+    "title": "Optimiser sa voûte pneumatique",
     "section": "Comment optimiser son appareil ?",
     "text": "Comment optimiser son appareil ?\n\nEntretenir et vérifier son appareil en début de saison\nÉtalonner le pulvérisateur avant chaque campagne et pendant la saison si nécessaire par une mesure du débit de chaque diffuseur pour vérifier le volume/ha réellement appliqué. Veiller à ce que la répartition des débits dans les différents organes du pulvérisateur permette de pulvériser la même dose sur chaque face de rang. Vérifier le bon fonctionnement des organes de protection (grille, prise de force…). N’oubliez pas de réaliser le contrôle technique périodique de votre appareil (tous les 3 ans), qui est obligatoire !\n\n\nTraiter dans de bonnes conditions météo\nEffectuer le traitement avec la plus faible vitesse de vent possible. Un vent soutenu provoque une forte dérive. La réglementation interdit de traiter par vent au-delà de 19 km/h.\nEviter les interventions aux heures chaudes de la journée. Plus la température est élevée, plus la vitesse d’évaporation des gouttes avant interception par la végétation est importante, et donc moins il y aura de produit qui atteint la plante.\n\n\nAdapter le nombre de diffuseurs à la hauteur de végétation\nEn début de végétation, fermer les diffuseurs inutiles. Cela permet de limiter le gaspillage de bouillie. Dans tous les cas, les voûtes pneumatiques ne sont pas les pulvérisateurs les plus indiqués pour traiter en début de végétation, en raison des risques de dérive.\n\n\n\nFermer les diffuseurs inutiles !\n\n\n\n\nOrienter précisément les diffuseurs\n\n\n\nA chaque traitement, bien orienter les diffuseurs ouverts vers la végétation. Une pulvérisation d’eau dans la vigne permet de réaliser ce réglage visuellement, éventuellement en s’aidant d’une plaque de fer rouillée. Il est aussi possible de contrôler la répartition du produit dans la végétation à l’aide de papiers hydro-sensibles.\n\n\n\n\n\nRéglage de l’orientation des diffuseurs à la plaque de fer\n\n\n\n\n\n\n\nRéduire le flux d’air\nEn pneumatique, les gouttelettes sont formées par la fragmentation d’une veine de liquide dans un courant d’air rapide (80-120 m/s), générant de fines gouttelettes (100 à 150 µm). Plus le flux est rapide, plus les gouttelettes générées seront fines. On peut réduire la vitesse du flux d’air, en particulier en début de saison."
   },
   {
     "objectID": "L1_optiPulve.html#pour-aller-plus-loin",
     "href": "L1_optiPulve.html#pour-aller-plus-loin",
-    "title": "Fiche Levier : Optimiser sa voûte pneumatique",
+    "title": "Optimiser sa voûte pneumatique",
     "section": "Pour aller plus loin",
     "text": "Pour aller plus loin\n\n\n\nAvec certains modèles, il est possible de changer de technologie de pulvérisation et de changer votre voûte pneumatique en voûte en jet porté, avec l’ajout de porte buses. Parlez-en à votre constructeur/revendeur qui vous indiquera les différentes options. Ce type d’évolution est encore peu fréquent, mais permet de faire varier la vitesse d’air sans agir sur la taille des gouttes. D’autre part, la possibilité d’utiliser des buses antidérive permet de réduire significativement la dérive sans pénaliser la qualité d’application.\n\n\n\n\n\nVoute pneumatique équipée en jet porté"
   },
   {
     "objectID": "L1_optiPulve.html#ressources-complémentaires",
     "href": "L1_optiPulve.html#ressources-complémentaires",
-    "title": "Fiche Levier : Optimiser sa voûte pneumatique",
+    "title": "Optimiser sa voûte pneumatique",
     "section": "Ressources complémentaires",
     "text": "Ressources complémentaires\nFiche pratique sur le réglage du matériel\nGuide pratique de réglage des pulvérisateurs"
   },
   {
+    "objectID": "L2_haies.html",
+    "href": "L2_haies.html",
+    "title": "Planter des haies antidérive à proximité des habitations",
+    "section": "",
+    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nRéduction de la dérive des produits phytosanitaires\nProtection des sols contre l’érosion, effet brise-vent et régulation thermique, protection de la qualité des eaux. Réservoir de biodiversité\nTemps de travail important à l’installation . Entretien régulier nécessaire\nAméliore l’image et l’acceptabilité sociale du vignoble\nUne haie disposée au niveau de la limite de la parcelle agricole constitue un écran contre la dérive des produits. De plus, une haie apporte plusieurs services agronomiques et environnementaux : protection des sols contre l’érosion, effet brise-vent, régulation thermique, protection de la qualité des eaux. Elle présente également l’intérêt d’être un réservoir de biodiversité."
+  },
+  {
+    "objectID": "L2_haies.html#quelle-efficacité-sur-la-réduction-de-dérive",
+    "href": "L2_haies.html#quelle-efficacité-sur-la-réduction-de-dérive",
+    "title": "Planter des haies antidérive à proximité des habitations",
+    "section": "Quelle efficacité sur la réduction de dérive ?",
+    "text": "Quelle efficacité sur la réduction de dérive ?\nLes haies implantées en bordure de parcelle filtrent le courant d’air portant la dérive. Des mesures effectuées derrière des haies dans les différentes cultures montrent des réductions très significatives des quantités de dérive circulant dans l’air ou se déposant au sol immédiatement derrière la haie. Des études visant à étudier les performances des barrières physiques (haies naturelles et filets “anti-dérive”) sont en cours dans le cadre du projet Ecophyto DriftProtect (2023-2024) conduit par l’UMT ECOTECH (IFV-CTIFL-INRAe Montpellier).\n\n\n\nDispositif de mesure de la dérive en conditions contrôlées (UMT EcoTech)\n\n\nLes mesures réalisées ont montré une réduction de 75% de la dérive aérienne d’une voûte pneumatique en présence d’une haie. Ce taux de réduction peut varier selon les caractéristiques physiques de la haie (hauteur, porosité…).\n\n\n\nRéduction de la dérive arienne d’une voûte pneumatique grâce à une haie"
+  },
+  {
+    "objectID": "L2_haies.html#comment-obtenir-une-haie-anti-dérive-efficace",
+    "href": "L2_haies.html#comment-obtenir-une-haie-anti-dérive-efficace",
+    "title": "Planter des haies antidérive à proximité des habitations",
+    "section": "Comment obtenir une haie anti-dérive efficace ?",
+    "text": "Comment obtenir une haie anti-dérive efficace ?\n\nAssurer la présence de végétation lors des traitements\nIl faut que le feuillage des espèces constituant la haie soit suffisamment dense pour intercepter les gouttelettes de pulvérisation, dès les premiers traitements et jusqu’à la fin de la période d’application. Privilégier les espèces pérennes ou précoces pour les traitements de début du printemps. La haie doit être dense, homogène et sans interruption.\n\n\nAssurer une hauteur minimale\nSa hauteur doit être au moins égale à celle de la vigne. Plus la haie est haute, plus celle-ci sera efficace.\n\n\nChoisir des espèces adaptées\nChoisir des espèces diversifiées, locales, faciles à entretenir et éviter les espèces envahissantes : cela permet d’optimiser les services rendus tout en minimisant l’entretien. Mixer les espèces (4-5 espèces différentes) pour apporter de la biodiversité.\n\n\nEntretenir sa haie\nVeiller à avoir une haie homogène et sans trou avec une taille régulière, en automne ou hiver. Prévoir si nécessaire des apports d’eau les premières années. Remplacer les plants morts pour éviter les trouées dans la haie."
+  },
+  {
+    "objectID": "L2_haies.html#pour-aller-plus-loin",
+    "href": "L2_haies.html#pour-aller-plus-loin",
+    "title": "Planter des haies antidérive à proximité des habitations",
+    "section": "Pour aller plus loin",
+    "text": "Pour aller plus loin\nEn alternative à une haie naturelle, la mise en place de filets en bordure de parcelle permet de limiter la dérive de pulvérisation. Il est possible d’utiliser et de déployer les filets antidérives uniquement pendant les traitements, ce qui permet d’écarter les poteaux de 5 à 10 m au lieu de 2 à 3 m comme pour les brise-vent classiques. Ceci permet un moindre coût en matériel et main d’œuvre."
+  },
+  {
+    "objectID": "L2_haies.html#ressources-complémentaires",
+    "href": "L2_haies.html#ressources-complémentaires",
+    "title": "Planter des haies antidérive à proximité des habitations",
+    "section": "Ressources complémentaires :",
+    "text": "Ressources complémentaires :\nUn article sur l’évaluation de l’efficacité des filets anti-dérive.\nUne plaquette pdf sur les systèmes anti-dérive."
+  },
+  {
+    "objectID": "L2_haies.html#sources",
+    "href": "L2_haies.html#sources",
+    "title": "Planter des haies antidérive à proximité des habitations",
+    "section": "Sources",
+    "text": "Sources\nLes données de dérive ont été obtenues dans le cadre du projet CAPRIV avec le dispositif EoleDrift de l’UMT EcoTech (Montpellier, France)"
+  },
+  {
+    "objectID": "L3_buses.html",
+    "href": "L3_buses.html",
+    "title": "Utiliser des buses antidérive sur les pulvérisateurs à jet porté",
+    "section": "",
+    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nForte réduction de la dérive des produits phytosanitaires\nL’utilisation de buses à injection d’air améliore les quantités de produit déposées sur la cible\nNettoyage du pulvérisateur rigoureux car les buses à injection d’air sont plus sensibles au bouchage. Utiliser les buses aux bonnes pressions pour générer des gouttes de taille optimale.\nSimple à mettre en oeuvre, peu coûteux\nOn distingue les buses classiques des buses à injection d’air, dites antidérive. Les buses à injection d’air génèrent des tailles de gouttes supérieures à celles obtenues avec des buses classiques. Les gouttes étant plus grosses, elles sont moins sensibles à la dérive."
+  },
+  {
+    "objectID": "L3_buses.html#quelle-efficacité-sur-la-réduction-de-dérive",
+    "href": "L3_buses.html#quelle-efficacité-sur-la-réduction-de-dérive",
+    "title": "Utiliser des buses antidérive sur les pulvérisateurs à jet porté",
+    "section": "Quelle efficacité sur la réduction de dérive ?",
+    "text": "Quelle efficacité sur la réduction de dérive ?\nLes buses à injection d’air permettent de limiter la dérive de 50 à 90 % par rapport aux buses classiques. Elles entraînent une réduction significative de la dérive des produits lors des interventions sans baisse d’efficacité de la protection phytosanitaire.\n\n\n\nRéduction du taux de dérive en utilisant des buses anti-dérive"
+  },
+  {
+    "objectID": "L3_buses.html#quels-impacts-agronomiques",
+    "href": "L3_buses.html#quels-impacts-agronomiques",
+    "title": "Utiliser des buses antidérive sur les pulvérisateurs à jet porté",
+    "section": "Quels impacts agronomiques ?",
+    "text": "Quels impacts agronomiques ?\nL’utilisation de buses à injection d’air améliore les quantités de produit déposées sur la cible car les gouttelettes plus grosses sont moins sensibles à la dérive. En corollaire, la densité des impacts de gouttelettes sur la végétation peut être plus faible, surtout si le volume foliaire est important (cas des vignes étroites en particulier). Il faut conserver un volume de bouillie à l’hectare suffisant.\nLes buses à chambre de décompression peuvent constituer un compromis intéressant, en produisant des gouttelettes de taille intermédiaire tout en réduisant la dérive.\n\n\n\n\n\n\nAttention au volume hectare\n\n\n\nLes gouttelettes produites par les buses antidérive étant plus grosses, il est nécessaire d’utiliser des volumes hectares suffisants pour ne pas dégrader la densité des impacts de gouttelettes sur la végétation. En vigne pleine végétation, on privilégiera un minimum de 200-250 L/ha"
+  },
+  {
+    "objectID": "L3_buses.html#bien-utiliser-les-buses-antidérives",
+    "href": "L3_buses.html#bien-utiliser-les-buses-antidérives",
+    "title": "Utiliser des buses antidérive sur les pulvérisateurs à jet porté",
+    "section": "Bien utiliser les buses antidérives",
+    "text": "Bien utiliser les buses antidérives\n\nTraiter en jet projeté en début de saison\nPour les tous premiers traitements en début de végétation, l’assistance d’air est inutile quand les diffuseurs sont positionnés à proximité de la végétation (en particulier dans le cas des pulvérisateurs face par face et panneaux récupérateurs) et peut générer de la dérive : couper la ventilation pour traiter en jet projeté.\n\n\nPulvériser à la bonne pression\nQuel que soit le type de buses (classiques ou injection d’air), il est inutile d’utiliser les buses à des pressions trop élevées qui vont générer des gouttes trop petites qui vont partir en dérive. Dans ces conditions, une partie du produit n’atteint même pas la végétation.\n\n\nAssurer un bon nettoyage de son pulvérisateur\nLes buses à injection d’air sont plus sensibles au bouchage. Nettoyer régulièrement votre pulvérisateur et adapter la filtration avec au minimum un filtre d’aspiration et des filtres de tronçons. En cas de problèmes de bouchage, il est conseillé d’utiliser en plus des filtres de buses. Après chaque journée de pulvérisation, démonter les buses et les filtres, les faire tremper dans de l’eau ou un produit et les remonter avant le traitement. Vérifier l’état des buses et les changer si elles présentent des signes d’usure."
+  },
+  {
+    "objectID": "L3_buses.html#pour-aller-plus-loin",
+    "href": "L3_buses.html#pour-aller-plus-loin",
+    "title": "Utiliser des buses antidérive sur les pulvérisateurs à jet porté",
+    "section": "Pour aller plus loin",
+    "text": "Pour aller plus loin\nEn pleine végétation, un panachage des buses est également possible si on souhaite conserver de fines gouttelettes en face de la zone fructifère. Les buses antidérive seront alors installées sur les diffuseurs supérieurs pour limiter le risque de dérive."
+  },
+  {
+    "objectID": "L3_buses.html#ressources-complémentaires",
+    "href": "L3_buses.html#ressources-complémentaires",
+    "title": "Utiliser des buses antidérive sur les pulvérisateurs à jet porté",
+    "section": "Ressources complémentaires",
+    "text": "Ressources complémentaires\n\nLe projet Toops-Prowadis sur la réduction de la dérive\nPourquoi et comment utiliser des buses antidérive ?\n\n\n\nMaîtrise de la dérive en pulvérisation"
+  },
+  {
+    "objectID": "L3_buses.html#sources-biblio",
+    "href": "L3_buses.html#sources-biblio",
+    "title": "Utiliser des buses antidérive sur les pulvérisateurs à jet porté",
+    "section": "Sources biblio",
+    "text": "Sources biblio"
+  },
+  {
     "objectID": "L5_pulveConfinee.html",
     "href": "L5_pulveConfinee.html",
-    "title": "Fiche Levier : La Pulvérisation confinée",
+    "title": "La Pulvérisation confinée",
     "section": "",
-    "text": "Acceptabilité\nAvantages\nContraintes\nRéduction des impacts\n\n\n\n\nA prioriser en zone sensibles\nEconomie de produits, qualité de pulvérisation\nInvestissement élevé, temps et maniabilité\nFort sur la réduction de la dérive\nAu cours de l’application, avec un pulvérisateur classique, une partie du produit n’atteint pas le feuillage. L’utilisation de panneaux récupérateurs ou de tunnels de traitement permet de :"
+    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nForte réduction de la dérive\nEconomie de produits, qualité de pulvérisation\nInvestissement élevé, temps et maniabilité\nA prioriser en zone sensibles\nAu cours de l’application, avec un pulvérisateur classique, une partie du produit n’atteint pas le feuillage. L’utilisation de panneaux récupérateurs ou de tunnels de traitement permet de :"
   },
   {
     "objectID": "L5_pulveConfinee.html#quelle-efficacité-sur-la-réduction-de-dérive",
     "href": "L5_pulveConfinee.html#quelle-efficacité-sur-la-réduction-de-dérive",
-    "title": "Fiche Levier : La Pulvérisation confinée",
+    "title": "La Pulvérisation confinée",
     "section": "Quelle efficacité sur la réduction de dérive ?",
     "text": "Quelle efficacité sur la réduction de dérive ?\nLa plupart des pulvérisateurs à panneaux récupérateurs et à jet porté, lorsqu’ils sont équipés de buses antidérive, sont officiellement reconnus sur la liste du ministère de l’agriculture comme réduisant d’au moins 90% le phénomène de dérive.\nAJOUTER ILLUSTRATIONS"
   },
   {
     "objectID": "L5_pulveConfinee.html#utiliser-un-pulvérisateur-à-panneaux-récupérateurs",
     "href": "L5_pulveConfinee.html#utiliser-un-pulvérisateur-à-panneaux-récupérateurs",
-    "title": "Fiche Levier : La Pulvérisation confinée",
+    "title": "La Pulvérisation confinée",
     "section": "Utiliser un pulvérisateur à panneaux récupérateurs",
     "text": "Utiliser un pulvérisateur à panneaux récupérateurs\n\nOptimiser la réduction de la dérive\n\nUtiliser des buses à injection d’air pour optimiser la réduction de dérive et le taux de récupération. Les buses à fentes sont à préférer aux buses à turbulence pour éviter que le produit ne sorte des panneaux. 5 à 6 hauteurs de buses sont suffisantes pour traiter la végétation, fermer les buses inutiles en début de végétation !\nPrivilégier les panneaux les plus larges qui sont les plus performants pour récupérer la bouillie.\n\n\n\n\n\n\n\nAvertissement\n\n\n\n\nEviter les panneaux récupérateurs pneumatiques : la finesse des gouttelettes produites ne permet pas une bonne récupération et pénalise la dérive.\nAttention aux pollutions ponctuelles (renversement des bacs de récupération, gestion des fonds de cuve…).\n\n\n\n\n\nOptimiser les temps de chantier\nAvec ces pulvérisateurs, il est possible de traiter plus vite (jusqu’à 9km/h) sans affecter la qualité de pulvérisation. Attention la vitesse maximale dépend du terrain (sol plat, sans irrégularité).\nPrivilégier les parcelles avec des tournières larges (minimum 4.5 à 5m) pour faciliter les manœuvres en bout de rang en tenant compte de l’encombrement des panneaux. Il est nécessaire d’avoir un dispositif de sécurité en cas d’accrochage des panneaux.\nChoisir des appareils équipés de dispositifs de repli et réouverture automatique à la largeur souhaitée pour un débit de chantier optimal. Privilégier les attelages articulés et les cardans double-joint homocinétique pour la maniabilité. Privilégier le double essieu ou boggie par rapport au simple essieu pour la stabilité malgré une moins bonne maniabilité.\nDispositifs de ré-aspiration de la bouillie dans les panneaux : Eviter les dispositifs utilisant des hydro-injecteurs afin d’éviter la mousse dans la cuve lors du recyclage de la bouillie (préférer dispositif avec pompe péristaltique ou pompe annexe).\n\n\n\n\n\n\nUn bilan économique favorable pour les panneaux !\n\n\n\nLes économies de produits phytosanitaires compensent généralement le surcoût à l’achat et les temps de travaux plus importants."
   },
   {
     "objectID": "L5_pulveConfinee.html#pour-aller-plus-loin",
     "href": "L5_pulveConfinee.html#pour-aller-plus-loin",
-    "title": "Fiche Levier : La Pulvérisation confinée",
+    "title": "La Pulvérisation confinée",
     "section": "Pour aller plus loin",
     "text": "Pour aller plus loin\nA COMPLETER"
   },
   {
     "objectID": "L5_pulveConfinee.html#ressources-complémentaires",
     "href": "L5_pulveConfinee.html#ressources-complémentaires",
-    "title": "Fiche Levier : La Pulvérisation confinée",
+    "title": "La Pulvérisation confinée",
     "section": "Ressources complémentaires",
-    "text": "Ressources complémentaires\n\nEn ligne\n\n\nFiche pratique IFV Occitanie\nArticle sur la pulvérisation confinée\n\n\n\nA télécharger\n\nGuide du choix du pulvérisateur en vignes larges (PDF)\nLes panneaux récupérateurs : atouts et limites (PDF)\nArticle intégrant la dimension technico-économique sur Matévi (PDF)"
+    "text": "Ressources complémentaires\n\nEn ligne\n\n\nFiche pratique IFV Occitanie\nArticle sur la pulvérisation confinée\n\n\n\nA télécharger\n\nGuide du choix du pulvérisateur en vignes larges (PDF)\nLes panneaux récupérateurs : atouts et limites (PDF)\nArticle intégrant la dimension technico-économique sur Matévi (PDF)\n\n\n\nGuide choix pulvérisateur"
+  },
+  {
+    "objectID": "L6_choixPulve.html",
+    "href": "L6_choixPulve.html",
+    "title": "Bien choisir son pulvérisateur",
+    "section": "",
+    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nTrès forte réduction de dérive avec les meilleurs appareils\nAméliorer la qualité de pulvérisation\nInvestissement qui peut être élevé\nVariable\nLe choix d’un appareil de traitement impacte le fonctionnement d’une exploitation pour plusieurs années. Les critères de choix sont nombreux, complexes et interdépendants. Dans un contexte d’évolution réglementaire et sociétale rapide, il est nécessaire de prendre en compte les aspects environnementaux dans ce choix"
+  },
+  {
+    "objectID": "L6_choixPulve.html#quelle-efficacité-sur-la-réduction-de-dérive",
+    "href": "L6_choixPulve.html#quelle-efficacité-sur-la-réduction-de-dérive",
+    "title": "Bien choisir son pulvérisateur",
+    "section": "Quelle efficacité sur la réduction de dérive ?",
+    "text": "Quelle efficacité sur la réduction de dérive ?\nLa dérive est très dépendante du matériel de pulvérisation. Le choix d’un appareil est donc primordial et associé à de bons réglages et équipements, peut permettre de réduire la dérive d’un facteur 20.\nLe décret du 01/01/2020 encadre l’utilisation des produits phytosanitaires avec des distances minimales entre les zones de traitement et les zones d’habitations à respecter, dites DSR (Distance de Sécurité Riverains). Ces distances sont adaptables dans le cadre d’une charte d’engagement départementale qui encadre l’utilisation des produits phytosanitaires. Dans ce cas, un pulvérisateur performant équipé de buses anti-dérive peut permettre de réduire les DSR.\n\n\n\nLes critères d’inscriptions sur la liste officielle des appareils réduisant la dérive\n\n\n\n\n\n\n\n\nPour savoir si un appareil est inscrit, consultez la liste officielle !\n\n\n\nConsultez la liste officielle des matériels d’application de produits phytopharmaceutiques équipés d’une technique réductrice de dérive de pulvérisation. Attention, vérifiez qu’il s’agit bien de la dernière version !"
+  },
+  {
+    "objectID": "L6_choixPulve.html#quel-impact-sur-la-qualité-de-pulvérisation",
+    "href": "L6_choixPulve.html#quel-impact-sur-la-qualité-de-pulvérisation",
+    "title": "Bien choisir son pulvérisateur",
+    "section": "Quel impact sur la qualité de pulvérisation ?",
+    "text": "Quel impact sur la qualité de pulvérisation ?\nLa qualité de pulvérisation est très dépendante du pulvérisateur utilisé et de ses réglages. De nombreux essais ont été réalisés sur la vigne artificielle par l’UMT EcoTech (IFV- INRAE, Montpellier) pour évaluer la qualité de pulvérisation de différents types d’appareils et de leurs modes d’utilisation. Un classement a été établi, en prenant comme référence en vignes larges une voûte pneumatique passée tous les deux rang : les modes de pulvérisation permettant de faire tout aussi bien en réduisant les doses de 30% sont classés A, et ceux qui font moins bien sont classés C.\n\n\n\nClassement des principaux modes de pulvérisation selon le stade végétatif\n\n\nCes travaux ont abouti au dispositif Performance Pulvé1 qui décline cette approche pour chaque appareil. Les informations sont disponibles gratuitement sur le site Performance Pulvé."
+  },
+  {
+    "objectID": "L6_choixPulve.html#quels-critères-de-choix",
+    "href": "L6_choixPulve.html#quels-critères-de-choix",
+    "title": "Bien choisir son pulvérisateur",
+    "section": "Quels critères de choix ?",
+    "text": "Quels critères de choix ?\n\nDes outils en ligne\nEn complément de Performance Pulvé, un guide pratique a été rédigé conjointement par l’IFV et les chambres d’agriculture du Gard et de l’Hérault, pour aider les viticulteurs lors du renouvellement de leur pulvérisateur. Pour les différentes catégories d’appareils, ce guide aborde les principales précautions à prendre et les questions à poser au constructeur avant l’achat."
+  },
+  {
+    "objectID": "L6_choixPulve.html#des-aides-pour-les-matériels-performants",
+    "href": "L6_choixPulve.html#des-aides-pour-les-matériels-performants",
+    "title": "Bien choisir son pulvérisateur",
+    "section": "Des aides pour les matériels performants",
+    "text": "Des aides pour les matériels performants\nA ce jour, 3 régions (Occitanie, Grand Est et Pays de la Loire) subventionnent via les aides PCAE (FEADER) l’achat de matériels performants sur la base des classes de Performance Pulvé. En Occitanie, une aide à l’achat de 25% avec bonifications cumulables dans la limite d’un taux de 50% (Jeunes Agriculteurs, mode de production AB) pour les pulvérisateurs de classe Performance Pulvé 1 à 4."
+  },
+  {
+    "objectID": "L6_choixPulve.html#pour-aller-plus-loin",
+    "href": "L6_choixPulve.html#pour-aller-plus-loin",
+    "title": "Bien choisir son pulvérisateur",
+    "section": "Pour aller plus loin",
+    "text": "Pour aller plus loin\nAvec un pulvérisateur performant, bien réglé et bien utilisé, vous pourrez réduire les doses en sécurité en complétant avec un outil d’aide à la décision pour la gestion des traitements phytosanitaires : Utiliser un outil d’aide à la décision pour la protection sanitaire"
+  },
+  {
+    "objectID": "L6_choixPulve.html#ressources-complémentaires",
+    "href": "L6_choixPulve.html#ressources-complémentaires",
+    "title": "Bien choisir son pulvérisateur",
+    "section": "Ressources complémentaires",
+    "text": "Ressources complémentaires\n\nVidéo de présentation du dispositif Performance Pulvé"
+  },
+  {
+    "objectID": "L6_choixPulve.html#sources-biblio",
+    "href": "L6_choixPulve.html#sources-biblio",
+    "title": "Bien choisir son pulvérisateur",
+    "section": "Sources biblio",
+    "text": "Sources biblio"
+  },
+  {
+    "objectID": "L6_choixPulve.html#footnotes",
+    "href": "L6_choixPulve.html#footnotes",
+    "title": "Bien choisir son pulvérisateur",
+    "section": "Notes de bas de page",
+    "text": "Notes de bas de page\n\n\nPerformance Pulvé a été développé par l'IFV et INRAE en collaboration avec les Chambres d'Agriculture, le comité Champagne et le syndicat des agro-équipementiers (AXEMA)↩︎"
+  },
+  {
+    "objectID": "L7_fosses.html",
+    "href": "L7_fosses.html",
+    "title": "Gérer les fossés",
+    "section": "",
+    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nRétention et dégradation des pesticides dans le sol\nGestion des flux d’eau\nTemps disponible\nBonne\nUn fossé est un élément linéaire artificiel de collecte et d’écoulement des eaux (pluie, eaux usées, de ruissellement ou de drainage). Il existe une grande diversité de fossés, selon leur morphologie, nature et abondance, de la végétation et des litières."
+  },
+  {
+    "objectID": "L7_fosses.html#quelle-efficacité-sur-la-réduction-des-contaminations",
+    "href": "L7_fosses.html#quelle-efficacité-sur-la-réduction-des-contaminations",
+    "title": "Gérer les fossés",
+    "section": "Quelle efficacité sur la réduction des contaminations ?",
+    "text": "Quelle efficacité sur la réduction des contaminations ?\nLes fossés jouent un rôle important pour limiter la contamination : ils peuvent retenir de 3 à 99% des molécules lors des crues. D’autre part, ils permettent d’évacuer les eaux excédentaires, et de lutter contre l’érosion, et participent au maintien de la biodiversité."
+  },
+  {
+    "objectID": "L7_fosses.html#comment-optimiser-lefficacité-dun-fossé",
+    "href": "L7_fosses.html#comment-optimiser-lefficacité-dun-fossé",
+    "title": "Gérer les fossés",
+    "section": "Comment optimiser l’efficacité d’un fossé ?",
+    "text": "Comment optimiser l’efficacité d’un fossé ?\nLa rétention varie principalement selon les propriétés des molécules, la capacité du sol et des matériaux présents dans le fossé (végétation vivante, litières) à retenir les pesticides (adsorption) ou encore de la largeur du fossé. Un fossé plus large offre plus de surface de contact pour l’adsorption. Le mode de gestion du fossé permet le contrôle de la nature des matériaux présents dans les fossés et est en conséquence un levier pour moduler la rétention.\n\nLe brûlis\n\n\n\nLe brûlis a un effet très positif sur la rétention de toutes les molécules grâce aux cendres produites.\n\n\n\n\n\n\nAvertissement\n\n\n\nAttention, le brûlis est une pratique soumise à autorisation préfectorale dérogatoire mais est déclassante pour les aides européennes en lien avec les émissions de gaz à effet de serre.\n\n\n\n\n\n\n\nBrûlis d’un fossé\n\n\n\n\n\n\n\nLa fauche\n\n\n\nLa fauche a un effet positif sur la rétention de la majorité des molécules mais limité pour le glyphosate.\n\n\n\n\n\nFauche d’un fossé\n\n\n\n\n\n\n\nLe curage fauche\n\n\n\n\n\n\n\n\n\nAvertissement\n\n\n\nA éviter ! Le curage a un effet négatif sur la rétention de toutes les molécules !\n\n\n\n\n\n\n\nCurage d’un fossé\n\n\n\n\n\n\n\nLe désherbage chimique\n\n\n\nLe désherbage chimique accentue la contamination par l’herbicide utilisé (habituellement le glyphosate) mais peut améliorer la rétention des autres molécules en augmentant la teneur en matière organique des fonds de fossés. Cette pratique n’est plus autorisée dans un nombre croissant de départements (arrêtés préfectoraux “fossés”). Dans l’Hérault, l’épandage est interdit dans et aux abords des fossés figurant en points, traits continus ou discontinus sur les cartes au 1/25 000 les plus récemment éditées par l’Institut Géographique National.\n\n\n\n\n\nDésherbage chimique d’un fossé"
+  },
+  {
+    "objectID": "L7_fosses.html#penser-la-gestion-à-léchelle-du-réseau-de-fossés-et-en-fonction-du-contexte",
+    "href": "L7_fosses.html#penser-la-gestion-à-léchelle-du-réseau-de-fossés-et-en-fonction-du-contexte",
+    "title": "Gérer les fossés",
+    "section": "Penser la gestion à l’échelle du réseau de fossés et en fonction du contexte",
+    "text": "Penser la gestion à l’échelle du réseau de fossés et en fonction du contexte\nSi la cible à protéger en priorité est :\n\nune masse d’eau de surface (rivière, lac, étangs) : bénéficier de fossés à forte capacité de rétention sur la moitié aval du réseau sera plus efficace que si ces mêmes fossés sont localisés sur les parties amont du bassin.\nune masse d’eau souterraine : favoriser les fossés à forte capacité de rétention sur les parties du réseau à la fois les plus infiltrantes et pour lesquelles la nappe est la moins profonde.\nune espèce vivant dans les fossés (ex. arthropodes) : favoriser les fossés à forte rétention à proximité immédiate des parcelles les plus émettrices."
+  },
+  {
+    "objectID": "L7_fosses.html#pour-aller-plus-loin",
+    "href": "L7_fosses.html#pour-aller-plus-loin",
+    "title": "Gérer les fossés",
+    "section": "Pour aller plus loin",
+    "text": "Pour aller plus loin\nA COMPLETER"
+  },
+  {
+    "objectID": "L7_fosses.html#ressources-complémentaires",
+    "href": "L7_fosses.html#ressources-complémentaires",
+    "title": "Gérer les fossés",
+    "section": "Ressources complémentaires",
+    "text": "Ressources complémentaires\nDollinger, J., Dages, C., Bailly, J., Lagacherie, P. and M., Voltz , ONEMA, (eds.) Synthèse bibliographique des différentes fonctions des réseaux de fossés aux échelles du fossé élémentaire et du réseau, ONEMA, 2014.\nCécile Dagès, Jean-Stéphane Bailly, J. Dollinger, P. Lagacherie, Marc Voltz (2016). Méthodologie de diagnostic et de gestion des réseaux de fossés agricoles infiltrants pour la limitation de la contamination des masses d’eau par les pesticides. (Onema), https://hal.inrae.fr/hal-01593744"
+  },
+  {
+    "objectID": "L9_oad.html",
+    "href": "L9_oad.html",
+    "title": "Utiliser un outil d’aide à la décision pour la protection sanitaire",
+    "section": "",
+    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nRéduction des intrants\nSécurisation de la récolte. Traçabilité. Meilleure organisation.\nFiabilité des données météo\nVariable\nUn outil d’aide à la décision (OAD) utilise et analyse différentes sources d’informations (modèles, données météo, bases de données sur les produits phytosanitaires…) afin de proposer la meilleure stratégie de protection, adaptée au contexte de l’année. Au-delà de guider le viticulteur dans les choix de traitement, la plupart des OAD apporte également des informations techniques (choix des produits, gestion de la résistance…) et réglementaires (DSPPR, mélange des produits…)."
+  },
+  {
+    "objectID": "L9_oad.html#réduction-des-impacts-environnementaux",
+    "href": "L9_oad.html#réduction-des-impacts-environnementaux",
+    "title": "Utiliser un outil d’aide à la décision pour la protection sanitaire",
+    "section": "Réduction des impacts environnementaux",
+    "text": "Réduction des impacts environnementaux\nLa réduction des intrants permis par les OAD est très variable selon les habitudes du viticulteur, la pression sanitaire de l’année, le niveau de risque accepté par le décideur… Il se situe généralement entre 10 et 30 %."
+  },
+  {
+    "objectID": "L9_oad.html#impacts-agronomiques",
+    "href": "L9_oad.html#impacts-agronomiques",
+    "title": "Utiliser un outil d’aide à la décision pour la protection sanitaire",
+    "section": "Impacts agronomiques",
+    "text": "Impacts agronomiques\nIl convient de garder à l’esprit qu’un OAD, s’il vise à réduire les traitements en période de faible risque, permet aussi et surtout de sécuriser la récolte en alertant sur les périodes où le risque est fort. L’usage d’un OAD permet d’anticiper pour une meilleure organisation des travaux et permet de respecter la réglementation grâce au suivi du calendrier de traitement."
+  },
+  {
+    "objectID": "L9_oad.html#mise-en-œuvre",
+    "href": "L9_oad.html#mise-en-œuvre",
+    "title": "Utiliser un outil d’aide à la décision pour la protection sanitaire",
+    "section": "Mise en œuvre",
+    "text": "Mise en œuvre\n\nQuel OAD choisir ?\nUn OAD doit nécessairement intégrer un ou des modèles épidémiologiques qui modélisent le développement des maladies à partir de données météo, passées et prévisionnelles.\n\n\n\nSortie de l’OAD Decitrait précisant les périodes de risques\n\n\nPour optimiser la réduction des intrants, préférez les OAD intégrant des règles de modulation de la dose des produits phytosanitaires en cours de saison. Le Vinopôle Bordeaux Aquitaine propose un tableau récapitulatif des différents outils sur cette page et présente l’OAD dédié à la protection de la vigne développé par l’IFV ici.\n\n\nLes limites d’utilisation des OAD\nLes OAD s’appuient sur des modèles épidémiologiques, qui ne sont que des estimations de la réalité et comportent une marge d’erreur. La fiabilité des modèles est à la fois dépendante de leur performance intrinsèque mais également de la qualité des données météorologiques passées et des prévisions météo à venir. Certains OAD nécessitent une station météo installée à proximité, d’autres s’appuient sur des données météo dématérialisées (Météo France, Weather Measure…). Compléter avec des observations terrain pour sécuriser et corriger si besoin l’OAD :\n\nPluviomètre pour la pluie en cas de données météorologiques modélisées (attention à l’entretien),\nObservations sur la parcelle : stades phénologiques, état sanitaire\n\nPour les prévisions météo, comparez les sorties de plusieurs modèles météo pour éviter de prendre trop de risques.\n\n\nQuel coût ?\nLe coût d’un OAD varie entre 75 et 250€ par an (sans station météo), ce qui reste relativement faible au regard des coûts de production et des avantages que procurent ces outils. Certains OAD sont éligibles au CEPP."
+  },
+  {
+    "objectID": "L9_oad.html#pour-aller-plus-loin",
+    "href": "L9_oad.html#pour-aller-plus-loin",
+    "title": "Utiliser un outil d’aide à la décision pour la protection sanitaire",
+    "section": "Pour aller plus loin",
+    "text": "Pour aller plus loin\nPenser à bien régler votre pulvérisateur pour réduire les doses en toute sécurité : Optimiser sa voûte pneumatique\nN’hésitez pas à changer pour un appareil plus performant ! Bien choisir son pulvé"
+  },
+  {
+    "objectID": "L9_oad.html#ressources-complémentaires",
+    "href": "L9_oad.html#ressources-complémentaires",
+    "title": "Utiliser un outil d’aide à la décision pour la protection sanitaire",
+    "section": "Ressources complémentaires",
+    "text": "Ressources complémentaires\n\nFiche sur les OAD du Vinopôle Bordeaux-Aquitaine\nFocus sur les outils pour réduire le nombre de traitements par le Vinopôle Bordeaux-Aquitaine\nLes OAD disponibles sur EcophytoPIC"
   }
 ]

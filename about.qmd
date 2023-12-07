@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "A propos"
 ---
 
-About this site
+Ce site a été réalisé dans le cadre du projet RIPP-Viti.
 
-```{r}
-1 + 1
-```
+Date de création : 2023
+
+Crédits : IFV, INRAE

@@ -1,0 +1,112 @@
+---
+title: "Gérer les fossés"
+format: 
+  html:
+    toc: true
+  pdf:
+    documentclass: scrreprt
+    number-sections: true
+    colorlinks: true
+  docx:
+    toc: true
+---
+
+| Intérêts environnementaux                           | Intérêts agronomiques  | Contraintes de mise en oeuvre | Acceptabilité |
+|-------------------|------------------|------------------|------------------|
+| Rétention et dégradation des pesticides dans le sol | Gestion des flux d'eau | Temps disponible              | Bonne         |
+
+Un fossé est un élément linéaire artificiel de collecte et d'écoulement des eaux (pluie, eaux usées, de ruissellement ou de drainage). Il existe une grande diversité de fossés, selon leur morphologie, nature et abondance, de la végétation et des litières.
+
+## Quelle efficacité sur la réduction des contaminations ?
+
+Les fossés jouent un rôle important pour limiter la contamination : ils peuvent **retenir de 3 à 99%** des molécules lors des crues. D'autre part, ils permettent d'évacuer les eaux excédentaires, et de lutter contre l'érosion, et participent au maintien de la biodiversité.
+
+## Comment optimiser l'efficacité d'un fossé ?
+
+La rétention varie principalement selon les propriétés des molécules, la capacité du sol et des matériaux présents dans le fossé (végétation vivante, litières) à retenir les pesticides (adsorption) ou encore de la largeur du fossé. Un fossé plus large offre plus de surface de contact pour l'adsorption. Le mode de gestion du fossé permet le contrôle de la nature des matériaux présents dans les fossés et est en conséquence un levier pour moduler la rétention.
+
+### Le brûlis
+
+::: {layout="[ 70, 30 ]"}
+::: {#first-column}
+Le brûlis a un effet très positif sur la rétention de toutes les molécules grâce aux cendres produites.
+
+::: callout-warning
+Attention, le brûlis est une pratique soumise à autorisation préfectorale dérogatoire mais est déclassante pour les aides européennes en lien avec les émissions de gaz à effet de serre.
+:::
+:::
+
+::: {#second-column}
+![Brûlis d'un fossé](images/L7_brulis.png)
+:::
+:::
+
+### La fauche
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+La fauche a un effet positif sur la rétention de la majorité des molécules mais limité pour le glyphosate.
+
+</div>
+
+<div>
+
+![Fauche d'un fossé](images/L7_fauche.png)
+
+</div>
+:::
+
+### Le curage fauche
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+::: callout-warning
+A éviter ! Le curage a un effet négatif sur la rétention de toutes les molécules !
+:::
+
+</div>
+
+<div>
+
+![Curage d'un fossé](images/L7_curage.png)
+
+</div>
+:::
+
+### Le désherbage chimique
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+Le désherbage chimique accentue la contamination par l'herbicide utilisé (habituellement le glyphosate) mais peut améliorer la rétention des autres molécules en augmentant la teneur en matière organique des fonds de fossés. Cette pratique n'est plus autorisée dans un nombre croissant de départements (arrêtés préfectoraux "fossés"). Dans l'Hérault, l'épandage est interdit dans et aux abords des fossés figurant en points, traits continus ou discontinus sur les cartes au 1/25 000 les plus récemment éditées par l'Institut Géographique National.
+
+</div>
+
+<div>
+
+![Désherbage chimique d'un fossé](images/L7_desh.png)
+
+</div>
+:::
+
+## Penser la gestion à l'échelle du réseau de fossés et en fonction du contexte
+
+Si la cible à protéger en priorité est :
+
+-   une masse **d'eau de surface** (rivière, lac, étangs) : bénéficier de fossés à forte capacité de rétention sur la moitié aval du réseau sera plus efficace que si ces mêmes fossés sont localisés sur les parties amont du bassin.
+
+-   une masse **d'eau souterraine** : favoriser les fossés à forte capacité de rétention sur les parties du réseau à la fois les plus infiltrantes et pour lesquelles la nappe est la moins profonde.
+
+-   une **espèce** vivant dans les fossés (ex. arthropodes) : favoriser les fossés à forte rétention à proximité immédiate des parcelles les plus émettrices.
+
+## Pour aller plus loin
+
+A COMPLETER
+
+## Ressources complémentaires
+
+Dollinger, J., Dages, C., Bailly, J., Lagacherie, P. and M., Voltz , ONEMA, (eds.) [Synthèse bibliographique](https://professionnels.ofb.fr/sites/default/files/pdf/Dollinger%20at%20al%20(2014).pdf) des différentes fonctions des réseaux de fossés aux échelles du fossé élémentaire et du réseau, ONEMA, 2014.
+
+Cécile Dagès, Jean-Stéphane Bailly, [J. Dollinger,]{.underline} P. Lagacherie, Marc Voltz (2016). *Méthodologie de diagnostic et de gestion des réseaux de fossés agricoles infiltrants pour la limitation de la contamination des masses d'eau par les pesticides.* (Onema), <https://hal.inrae.fr/hal-01593744>

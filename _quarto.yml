@@ -12,12 +12,17 @@ website:
     contents: 
       - href: index.qmd
         text: Home
-      - about.qmd
-      - section: "Les leviers"
+      - section: "Les leviers pour réduire les impacts environnementaux"
         contents:
           - L1_optiPulve.qmd
+          - L2_haies.qmd
+          - L3_buses.qmd
           - L5_pulveConfinee.qmd
+          - L6_choixPulve.qmd
+          - L7_fosses.qmd
+          - L9_oad.qmd
       - section: "La stratégie exploitation"
+      - about.qmd
   page-footer:
     right: "Projet RIPPviti, 2023"
     left: "&copy; CC BY-NC-ND"

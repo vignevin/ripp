@@ -3,3 +3,7 @@ title: "Fiches RIPP"
 ---
 
 Vous trouverez sur ces pages des fiches pratiques issues du projet RIPP viti.
+
+::: callout-caution
+!!! SITE EN CONSTRUCTION !!! Livraison prévue en mars 2024, soyez patient :) !
+:::

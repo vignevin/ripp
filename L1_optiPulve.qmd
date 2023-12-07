@@ -1,5 +1,5 @@
 ---
-title: "Fiche Levier : Optimiser sa voûte pneumatique"
+title: "Optimiser sa voûte pneumatique"
 format: 
   html:
     toc: true
@@ -7,11 +7,13 @@ format:
     documentclass: scrreprt
     number-sections: true
     colorlinks: true
+  docx: 
+    toc: true
 ---
 
-| Acceptabilité                           | Avantages                            | Contraintes                       | Réduction des impacts                                                 |
-|------------------|------------------|------------------|--------------------|
-| Facile à mettre en œuvre et peu coûteux | Améliore la qualité de pulvérisation | Faible (temps en début de saison) | Faible, la technologie pneumatique ne permet pas de réduire la dérive |
+| Intérêts environnementaux                                             | Intérêts agronomiques                | Contraintes de mise en oeuvre     | Acceptabilité                           |
+|--------------------|------------------|------------------|------------------|
+| Faible, la technologie pneumatique ne permet pas de réduire la dérive | Améliore la qualité de pulvérisation | Faible (temps en début de saison) | Facile à mettre en œuvre et peu coûteux |
 
 Les voûtes pneumatiques sont très utilisées à l'heure actuelle en vignes larges (près de 70 % des appareils du parc). Le niveau de dérive généré par ce type d'appareil peut être très important à cause de la technologie pneumatique qui impose une vitesse de l'air importante, y compris en début de végétation Il est primordial de bien régler son appareil pour réduire autant que possible les impacts.
 
@@ -49,7 +51,7 @@ A chaque traitement, **bien orienter les diffuseurs ouverts vers la végétation
 :::
 
 ::: {#second-column}
-![Réglage de l'orientation des diffuseurs à la plaque de fer](images/L1_PlaqueFer.JPG){width="300"}
+![Réglage de l'orientation des diffuseurs à la plaque de fer](images/L1_PlaqueFer.png)
 :::
 :::
 
@@ -68,7 +70,7 @@ Avec certains modèles, il est possible de changer de technologie de pulvérisat
 
 <div>
 
-![Voute pneumatique équipée en jet porté](images/L1_ModifVouteJetPorté.JPG){width="300"}
+![Voute pneumatique équipée en jet porté](images/L1_ModifVouteJetPorté.png)
 
 </div>
 :::
