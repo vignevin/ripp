@@ -12,7 +12,7 @@ format:
 ---
 
 | Intérêts environnementaux                                 | Intérêts agronomiques                                                                            | Contraintes de mise en oeuvre                                                                                                                                                              | Acceptabilité                          |
-|---------------|---------------|---------------------------|---------------|
+|--------------|--------------|------------------------------|--------------|
 | Forte réduction de la dérive des produits phytosanitaires | L'utilisation de buses à injection d'air améliore les quantités de produit déposées sur la cible | Nettoyage du pulvérisateur rigoureux car les buses à injection d'air sont plus sensibles au bouchage. Utiliser les buses aux bonnes pressions pour générer des gouttes de taille optimale. | Simple à mettre en oeuvre, peu coûteux |
 
 On distingue les buses classiques des buses à injection d'air, dites **antidérive**. Les buses à injection d'air génèrent des tailles de gouttes supérieures à celles obtenues avec des buses classiques. Les gouttes étant plus grosses, elles sont moins sensibles à la dérive.
@@ -27,7 +27,7 @@ Les buses à injection d'air permettent de limiter la dérive de 50 à 90 % par 
 
 ## Quels impacts agronomiques ?
 
-L'utilisation de buses à injection d'air améliore les quantités de produit déposées sur la cible car les gouttelettes plus grosses sont moins sensibles à la dérive. En corollaire, la densité des impacts de gouttelettes sur la végétation peut être plus faible, surtout si le volume foliaire est important (cas des vignes étroites en particulier). Il faut conserver un volume de bouillie à l'hectare suffisant. 
+L'utilisation de buses à injection d'air améliore les quantités de produit déposées sur la cible car les gouttelettes plus grosses sont moins sensibles à la dérive. En corollaire, la densité des impacts de gouttelettes sur la végétation peut être plus faible, surtout si le volume foliaire est important (cas des vignes étroites en particulier). Il faut conserver un volume de bouillie à l'hectare suffisant.
 
 Les buses à chambre de décompression peuvent constituer un compromis intéressant, en produisant des gouttelettes de taille intermédiaire tout en réduisant la dérive.
 
@@ -49,7 +49,11 @@ Quel que soit le type de buses (classiques ou injection d'air), il est inutile d
 
 ### Assurer un bon nettoyage de son pulvérisateur
 
-Les buses à injection d'air sont plus sensibles au bouchage. Nettoyer régulièrement votre pulvérisateur et adapter la filtration avec au minimum un filtre d'aspiration et des filtres de tronçons. En cas de problèmes de bouchage, il est conseillé d'utiliser en plus des filtres de buses. Après chaque journée de pulvérisation, démonter les buses et les filtres, les faire tremper dans de l'eau ou un produit et les remonter avant le traitement. Vérifier l'état des buses et les changer si elles présentent des signes d'usure.
+Les buses à injection d'air sont plus sensibles au bouchage. Nettoyer régulièrement votre pulvérisateur et adapter la filtration avec au minimum un filtre d'aspiration et des filtres de tronçons. En cas de problèmes de bouchage, il est conseillé d'utiliser en plus des filtres de buses.
+
+Après chaque journée de pulvérisation, démonter les buses et les filtres, les faire tremper dans de l'eau ou un produit et les remonter avant le traitement.
+
+Vérifier l'état des buses et les changer si elles présentent des signes d'usure.
 
 ## Pour aller plus loin
 

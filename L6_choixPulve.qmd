@@ -12,7 +12,7 @@ format:
 ---
 
 | Intérêts environnementaux                                   | Intérêts agronomiques                 | Contraintes de mise en oeuvre      | Acceptabilité |
-|-------------------|------------------|------------------|------------------|
+|-------------------------------------------------------------|---------------------------------------|------------------------------------|---------------|
 | Très forte réduction de dérive avec les meilleurs appareils | Améliorer la qualité de pulvérisation | Investissement qui peut être élevé | Variable      |
 
 Le choix d'un appareil de traitement impacte le fonctionnement d'une exploitation pour plusieurs années. Les critères de choix sont nombreux, complexes et interdépendants. Dans un contexte d'évolution réglementaire et sociétale rapide, il est nécessaire de prendre en compte les aspects environnementaux dans ce choix
@@ -39,7 +39,7 @@ La qualité de pulvérisation est très dépendante du pulvérisateur utilisé e
 
 Ces travaux ont abouti au dispositif Performance Pulvé[^1] qui décline cette approche pour chaque appareil. Les informations sont disponibles gratuitement sur le site [Performance Pulvé](https://www.performancepulve.fr/).
 
-[^1]: Performance Pulvé a été développé par l\'IFV et INRAE en collaboration avec les Chambres d\'Agriculture, le comité Champagne et le syndicat des agro-équipementiers (AXEMA)
+[^1]: Performance Pulvé a été développé par l'IFV et INRAE en collaboration avec les Chambres d'Agriculture, le comité Champagne et le syndicat des agro-équipementiers (AXEMA)
 
 ## Quels critères de choix ?
 
@@ -47,13 +47,15 @@ Ces travaux ont abouti au dispositif Performance Pulvé[^1] qui décline cette a
 
 En complément de [Performance Pulvé](https://www.performancepulve.fr/), un [guide pratique](https://www.vignevin.com/article/guide-du-pulverisateur-en-vigne-large/) a été rédigé conjointement par l'IFV et les chambres d'agriculture du Gard et de l'Hérault, pour aider les viticulteurs lors du renouvellement de leur pulvérisateur. Pour les différentes catégories d'appareils, ce guide aborde les principales précautions à prendre et les questions à poser au constructeur avant l'achat.
 
-## Des aides pour les matériels performants
+## Des aides pour les matériels les plus performants
 
 A ce jour, 3 régions (Occitanie, Grand Est et Pays de la Loire) subventionnent via les aides PCAE (FEADER) l'achat de matériels performants sur la base des classes de Performance Pulvé. En Occitanie, une aide à l'achat de 25% avec bonifications cumulables dans la limite d'un taux de 50% (Jeunes Agriculteurs, mode de production AB) pour les pulvérisateurs de classe Performance Pulvé 1 à 4.
 
 ## Pour aller plus loin
 
-Avec un pulvérisateur performant, bien réglé et bien utilisé, vous pourrez réduire les doses en sécurité en complétant avec un outil d'aide à la décision pour la gestion des traitements phytosanitaires : [Utiliser un outil d’aide à la décision pour la protection sanitaire](L9_oad.qmd)
+Avec un pulvérisateur performant, bien réglé et bien utilisé, vous pourrez réduire les doses en sécurité en complétant avec un outil d'aide à la décision pour la gestion des traitements phytosanitaires : [Utiliser un outil d'aide à la décision pour la protection sanitaire](L9_oad.qmd)
+
+En jet porté, pour réduire la dérive, utiliser des buses antidérives : [Utiliser des buses antidérive sur les pulvérisateurs à jet porté](L3_buses.qmd)
 
 ## Ressources complémentaires
 

@@ -12,7 +12,7 @@ format:
 ---
 
 | Intérêts environnementaux    | Intérêts agronomiques                          | Contraintes de mise en oeuvre              | Acceptabilité                 |
-|--------------------|-----------------|------------------|-----------------|
+|-------------------|------------------|------------------|------------------|
 | Forte réduction de la dérive | Economie de produits, qualité de pulvérisation | Investissement élevé, temps et maniabilité | A prioriser en zone sensibles |
 
 Au cours de l'application, avec un pulvérisateur classique, une partie du produit n'atteint pas le feuillage. L'utilisation de panneaux récupérateurs ou de tunnels de traitement permet de :
@@ -27,7 +27,7 @@ Au cours de l'application, avec un pulvérisateur classique, une partie du produ
 
 La plupart des pulvérisateurs à panneaux récupérateurs et à jet porté, lorsqu'ils sont équipés de buses antidérive, sont officiellement reconnus sur la liste du ministère de l'agriculture comme réduisant d'au moins 90% le phénomène de dérive.
 
-AJOUTER ILLUSTRATIONS
+![Réduction de la dérive avec un panneau récupérateur](images/L5_graphReducPx.png)
 
 ## Utiliser un pulvérisateur à panneaux récupérateurs
 
@@ -55,12 +55,14 @@ Dispositifs de ré-aspiration de la bouillie dans les panneaux : Eviter les disp
 ::: callout-note
 ## Un bilan économique favorable pour les panneaux !
 
-Les économies de produits phytosanitaires compensent généralement le surcoût à l'achat et les temps de travaux plus importants.
+Les économies de produits phytosanitaires compensent généralement le surcoût à l'achat et les temps de travaux plus importants. Consulter [cet article](https://www.matevi-france.com/uploads/tx_matevibase/Pulve_confinee_Approche_tech_eco_MateVi_2019.pdf) sur Matévi pour en savoir plus.
 :::
 
 ## Pour aller plus loin
 
-A COMPLETER
+Pour réduire la dérive, utiliser des buses antidérives : [Utiliser des buses antidérive sur les pulvérisateurs à jet porté](L3_buses.qmd)
+
+Avec un tel pulvérisateur, bien réglé et bien utilisé, vous pourrez aussi réduire les doses en sécurité en complétant avec un outil d'aide à la décision pour la gestion des traitements phytosanitaires : [Utiliser un outil d'aide à la décision pour la protection sanitaire](L9_oad.qmd)
 
 ## Ressources complémentaires
 

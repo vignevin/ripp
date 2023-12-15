@@ -19,25 +19,33 @@ Un outil d'aide à la décision (OAD) utilise et analyse différentes sources d'
 
 ## Réduction des impacts environnementaux
 
-La réduction des intrants permis par les OAD est très variable selon les habitudes du viticulteur, la pression sanitaire de l'année, le niveau de risque accepté par le décideur... Il se situe généralement entre 10 et 30 %.
+La réduction des intrants permis par les OAD est très variable selon les habitudes du viticulteur, la pression sanitaire de l'année, le niveau de risque accepté par le décideur... On peut espèrer généralement une économie d'intrants entre 10 et 30 %.
 
 ## Impacts agronomiques
 
-Il convient de garder à l'esprit qu'un OAD, s'il vise à réduire les traitements en période de faible risque, permet aussi et surtout de sécuriser la récolte en alertant sur les périodes où le risque est fort. L'usage d'un OAD permet d'anticiper pour une meilleure organisation des travaux et permet de respecter la réglementation grâce au suivi du calendrier de traitement.
+Il convient de garder à l'esprit qu'un OAD, s'il vise à réduire les traitements en période de faible risque, permet aussi et surtout de sécuriser la récolte en alertant sur les périodes où le risque est fort.
+
+L'usage d'un OAD permet d'anticiper pour une meilleure organisation des travaux et permet de respecter la réglementation grâce au suivi du calendrier de traitement.
 
 ## Mise en œuvre
 
 ### Quel OAD choisir ?
 
-Un OAD doit nécessairement intégrer un ou des modèles épidémiologiques qui modélisent le développement des maladies à partir de données météo, passées et prévisionnelles.
+Un OAD doit nécessairement intégrer un ou des **modèles épidémiologiques** qui modélisent le développement des maladies à partir de données météo, passées et prévisionnelles.
 
 ![Sortie de l'OAD Decitrait précisant les périodes de risques](images/L9_decitrait.png)
 
-Pour optimiser la réduction des intrants, préférez les OAD intégrant des règles de modulation de la dose des produits phytosanitaires en cours de saison. Le Vinopôle Bordeaux Aquitaine propose un tableau récapitulatif des différents outils sur [cette page](https://www.vinopole.com/fiches-pratiques/agro-ecologie/diminution-des-intrants/choisir-et-bien-utiliser-un-outil-daide-a-la-decision/) et présente l'OAD dédié à la protection de la vigne développé par l'IFV [ici](https://www.vinopole.com/outils/decitrait-un-oad-dedie-a-la-protection-de-la-vigne/).
+Pour optimiser la réduction des intrants, préférez les OAD intégrant des règles de modulation de la dose des produits phytosanitaires en cours de saison.
+
+Le Vinopôle Bordeaux Aquitaine propose un tableau récapitulatif des différents outils sur [cette page](https://www.vinopole.com/fiches-pratiques/agro-ecologie/diminution-des-intrants/choisir-et-bien-utiliser-un-outil-daide-a-la-decision/) et présente l'OAD dédié à la protection de la vigne développé par l'IFV [ici](https://www.vinopole.com/outils/decitrait-un-oad-dedie-a-la-protection-de-la-vigne/).
 
 ### Les limites d'utilisation des OAD
 
-Les OAD s'appuient sur des modèles épidémiologiques, qui ne sont que des estimations de la réalité et comportent une marge d'erreur. La fiabilité des modèles est à la fois dépendante de leur performance intrinsèque mais également de la qualité des données météorologiques passées et des prévisions météo à venir. Certains OAD nécessitent une station météo installée à proximité, d'autres s'appuient sur des données météo dématérialisées (Météo France, Weather Measure...). Compléter avec des observations terrain pour sécuriser et corriger si besoin l'OAD :
+Les OAD s'appuient sur des modèles épidémiologiques, qui ne sont que des estimations de la réalité et comportent une marge d'erreur.
+
+La fiabilité des modèles est à la fois dépendante de leur performance intrinsèque mais également de la qualité des données météorologiques passées et des prévisions météo à venir. Certains OAD nécessitent une station météo installée à proximité, d'autres s'appuient sur des données météo dématérialisées (Météo France, Weather Measure...).
+
+Compléter avec des observations terrain pour sécuriser et corriger si besoin l'OAD :
 
 -   Pluviomètre pour la pluie en cas de données météorologiques modélisées (attention à l'entretien),
 

@@ -12,7 +12,7 @@ format:
 ---
 
 | Intérêts environnementaux                                             | Intérêts agronomiques                | Contraintes de mise en oeuvre     | Acceptabilité                           |
-|--------------------|------------------|------------------|------------------|
+|-----------------------------------------------------------------------|--------------------------------------|-----------------------------------|-----------------------------------------|
 | Faible, la technologie pneumatique ne permet pas de réduire la dérive | Améliore la qualité de pulvérisation | Faible (temps en début de saison) | Facile à mettre en œuvre et peu coûteux |
 
 Les voûtes pneumatiques sont très utilisées à l'heure actuelle en vignes larges (près de 70 % des appareils du parc). Le niveau de dérive généré par ce type d'appareil peut être très important à cause de la technologie pneumatique qui impose une vitesse de l'air importante, y compris en début de végétation Il est primordial de bien régler son appareil pour réduire autant que possible les impacts.
@@ -29,7 +29,13 @@ Avec une voûte pneumatique, la qualité de pulvérisation est **correcte en pas
 
 ### Entretenir et vérifier son appareil en début de saison
 
-**Étalonner le pulvérisateur** avant chaque campagne et pendant la saison si nécessaire par une mesure du débit de chaque diffuseur pour vérifier le volume/ha réellement appliqué. Veiller à ce que la répartition des débits dans les différents organes du pulvérisateur permette de pulvériser la même dose sur chaque face de rang. Vérifier le bon fonctionnement des organes de protection (grille, prise de force...). N'oubliez pas de réaliser le contrôle technique périodique de votre appareil (tous les 3 ans), qui est obligatoire !
+**Étalonner le pulvérisateur** avant chaque campagne et pendant la saison si nécessaire par une mesure du débit de chaque diffuseur pour vérifier le volume/ha réellement appliqué.
+
+Veiller à ce que la répartition des débits dans les différents organes du pulvérisateur permette de pulvériser la même dose sur chaque face de rang.
+
+Vérifier le bon fonctionnement des organes de protection (grille, prise de force...).
+
+N'oubliez pas de réaliser le contrôle technique périodique de votre appareil (tous les 3 ans), qui est obligatoire !
 
 ### Traiter dans de bonnes conditions météo
 
@@ -64,7 +70,11 @@ En pneumatique, les gouttelettes sont formées par la fragmentation d'une veine 
 ::: {layout="[ 50, 50 ]"}
 <div>
 
-Avec certains modèles, il est possible de changer de technologie de pulvérisation et de changer votre voûte pneumatique en voûte en jet porté, avec l'ajout de porte buses. Parlez-en à votre constructeur/revendeur qui vous indiquera les différentes options. Ce type d'évolution est encore peu fréquent, mais permet de faire varier la vitesse d'air sans agir sur la taille des gouttes. D'autre part, la possibilité d'utiliser des buses antidérive permet de réduire significativement la dérive sans pénaliser la qualité d'application.
+Avec certains modèles, il est possible de changer de technologie de pulvérisation et de changer votre voûte pneumatique en voûte en jet porté, avec l'ajout de porte buses.
+
+Ce type d'évolution est encore peu fréquent, mais permet de faire varier la vitesse d'air sans agir sur la taille des gouttes. D'autre part, la possibilité d'utiliser des buses antidérive permet de réduire significativement la dérive sans pénaliser la qualité d'application.
+
+Parlez-en à votre constructeur/revendeur qui vous indiquera les différentes options.
 
 </div>
 

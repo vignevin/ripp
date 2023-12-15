@@ -1,0 +1,76 @@
+---
+title: "Planter des variétés résistantes"
+format: 
+  html:
+    toc: true
+  pdf:
+    documentclass: scrreprt
+    number-sections: true
+    colorlinks: true
+  docx:
+    toc: true
+---
+
+| Intérêts environnementaux                    | Intérêts agronomiques | Contraintes de mise en oeuvre            | Acceptabilité                  |
+|-------------------|------------------|------------------|------------------|
+| Forte réduction des intrants phytosanitaires | Gain de productivité  | Investissement élevé. Contraintes en AOP | A prioriser en zones sensibles |
+
+Une variété résistante est le fruit d'un long processus de création combinant hybridation (fécondation avec un résistant) et introgression (rétrocroisements) afin d'insérer les caractères de résistance des vignes américaines et asiatiques dans le fond génétique des vignes européennes. La plantation de variétés résistantes à certaines maladies cryptogamiques (mildiou et oïdium) permet de réduire significativement l'utilisation de produits phytosanitaires.
+
+![Grappe de Floréal à maturité, réseau OSCAR](images/L4_FlorealGrappe.png)
+
+## Quelle efficacité sur la réduction de l'utilisation des produits phytosanitaires ?
+
+Ces nouvelles variétés possèdent un comportement identique à toutes espèces de *Vitis vinifera*, résistance au mildiou et à l'oïdium en plus.
+
+Afin d'éviter un contournement des résistances, il est préconisé d'appliquer des traitements fongicides de façon réduite (1 à 2 traitements annuels). De plus, d'autres maladies sont à prendre en compte et peuvent resurgir en l'absence totale de traitement (black rot, anthracnose).
+
+Dans certaines situations de forte pression, un traitement fongicide en post-récolte peut être pertinent : discutez-en avec votre conseiller technique.
+
+L'IFT fongicides a été en moyenne réduit de 83% en 2022 sur le réseau [OSCAR](https://observatoire-cepages-resistants.fr/), l'observatoire national du déploiement des cépages résistants.
+
+![Réduction moyenne de l'IFT sur le réseau OSCAR en 2022](images/L4_reducOscar.png)
+
+En corolaire, la diminution du recours aux produits phytosanitaires sur la parcelle limite la contamination du sol et de l'air lors des traitements.
+
+À l'échelle du paysage, le déploiement de cépages moins sensibles à certaines maladies permet de limiter leur propagation.
+
+Observer régulièrement vos parcelles et signalez toute anomalie à votre conseiller. Vous pouvez aussi partager vos observations sur le réseau OSCAR.
+
+## Quels impacts agronomiques et sur les vins ?
+
+Ces variétés étant relativement nouvelles, les références sur leur comportement et les vins produits sont en cours d'acquisition. Consultez les fiches en lignes [ici](https://observatoire-cepages-resistants.fr/les-fiches-cepages-resistants/) ou [là](https://www.vignevin-occitanie.com/fiches-pratiques/les-varietes-resistantes/) pour connaitre leurs caractéristiques agronomiques et leur aptitude œnologiques.
+
+## Planter des variétés résistantes
+
+### Choisir une variété adaptée
+
+Favoriser les variétés polygéniques, c'est-à-dire possédant plusieurs gènes de résistance au mildiou et à l'oïdium afin d'éviter un risque de contournement de la résistance par les champignons.
+
+### La plantation
+
+Sélectionner en priorité les parcelles à enjeux (zones sensibles). La plantation est mise en œuvre de façon classique.
+
+::: callout-warning
+## Attention aux autres maladies !
+
+Il est possible de constater la réapparition de maladies normalement gérées par les couvertures mildiou/oïdium (Anthracnose, black rot, érinose). Maintenir une protection minimale !
+:::
+
+## Pour aller plus loin
+
+Lors des traitements recommandés, utilisez un appareil bien réglé et respecter les bonnes pratiques de pulvérisation.
+
+En jet porté, pour réduire la dérive, utiliser des buses antidérives : [Utiliser des buses antidérive sur les pulvérisateurs à jet porté](L3_buses.qmd)
+
+Dans les zones sensibles, la plantation de haies peut venir en complément pour limiter les risques de dérive : [Planter des haies antidérive à proximité des habitations](L2_haies.qmd)
+
+## Ressources complémentaires
+
+-   [Fiches pratiques sur vignevin-occitanie](https://www.vignevin-occitanie.com/fiches-pratiques/les-varietes-resistantes/)
+
+-   [Fiche pratique sur techniloire](https://techniloire.com/fiche-technique/les-varietes-resistantes-au-mildiou-et-loidium)
+
+-   [Site de l'observatoire des cépages résistants OSCAR](https://observatoire-cepages-resistants.fr/)
+
+-   [Guide technique de l'ICV](https://www.icv.fr/mediatheque-viti-vinicole/guide-technique-cepages-resistants)

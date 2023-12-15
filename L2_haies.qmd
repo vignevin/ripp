@@ -19,7 +19,7 @@ Une haie disposée au niveau de la limite de la parcelle agricole constitue un �
 
 ## Quelle efficacité sur la réduction de dérive ?
 
-Les haies implantées en bordure de parcelle filtrent le courant d'air portant la dérive. Des mesures effectuées derrière des haies dans les différentes cultures montrent des réductions très significatives des quantités de dérive circulant dans l'air ou se déposant au sol immédiatement derrière la haie. Des études visant à étudier les performances des barrières physiques (haies naturelles et filets "anti-dérive") sont en cours dans le cadre du projet Ecophyto DriftProtect (2023-2024) conduit par l'UMT ECOTECH (IFV-CTIFL-INRAe Montpellier).
+Les haies implantées en bordure de parcelle filtrent le courant d'air portant la dérive. Des mesures effectuées derrière des haies dans les différentes cultures montrent des réductions très significatives des quantités de dérive circulant dans l'air ou se déposant au sol immédiatement derrière la haie. Des études visant à étudier les performances des barrières physiques (haies naturelles et filets "antidérive") sont en cours dans le cadre du projet Ecophyto DriftProtect (2023-2024) conduit par l'UMT ECOTECH (IFV-CTIFL-INRAe Montpellier).
 
 ![Dispositif de mesure de la dérive en conditions contrôlées (UMT EcoTech)](images/L2_dispoEoleDriftHaie.png)
 
@@ -27,7 +27,7 @@ Les mesures réalisées ont montré une **réduction de 75% de la dérive aérie
 
 ![Réduction de la dérive arienne d'une voûte pneumatique grâce à une haie](images/L2_graphHaie.png)
 
-## Comment obtenir une haie anti-dérive efficace ?
+## Comment obtenir une haie antidérive efficace ?
 
 ### Assurer la présence de végétation lors des traitements
 
@@ -39,11 +39,17 @@ Sa hauteur doit être au moins égale à celle de la vigne. Plus la haie est hau
 
 ### Choisir des espèces adaptées
 
-Choisir des espèces diversifiées, locales, faciles à entretenir et éviter les espèces envahissantes : cela permet d'optimiser les services rendus tout en minimisant l'entretien. Mixer les espèces (4-5 espèces différentes) pour apporter de la biodiversité.
+Choisir des espèces diversifiées, locales, faciles à entretenir et éviter les espèces envahissantes : cela permet d'optimiser les services rendus tout en minimisant l'entretien.
+
+Mixer les espèces (4-5 espèces différentes) pour apporter de la biodiversité.
 
 ### Entretenir sa haie
 
-Veiller à avoir une haie homogène et sans trou avec une taille régulière, en automne ou hiver. Prévoir si nécessaire des apports d'eau les premières années. Remplacer les plants morts pour éviter les trouées dans la haie.
+Veiller à avoir une haie homogène et sans trou avec une taille régulière, en automne ou hiver.
+
+Prévoir si nécessaire des apports d'eau les premières années.
+
+Remplacer les plants morts pour éviter les trouées dans la haie.
 
 ## Pour aller plus loin
 
@@ -51,9 +57,9 @@ En alternative à une haie naturelle, la mise en place de filets en bordure de p
 
 ## Ressources complémentaires :
 
-Un [article](https://www.vignevin.com/article/filets-anti-derive-evaluation-de-efficacite/) sur l'évaluation de l'efficacité des filets anti-dérive.
+Un [article](https://www.vignevin.com/article/filets-anti-derive-evaluation-de-efficacite/) sur l'évaluation de l'efficacité des filets antidérives.
 
-Une [plaquette pdf](https://www.vinipole-sud-bourgogne.fr/uploads/mce/docs/Plaquette.pdf) sur les systèmes anti-dérive.
+Une [plaquette pdf](https://www.vinipole-sud-bourgogne.fr/uploads/mce/docs/Plaquette.pdf) sur les systèmes antidérives.
 
 ## Sources
 

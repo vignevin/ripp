@@ -12,7 +12,7 @@ format:
 ---
 
 | Intérêts environnementaux                           | Intérêts agronomiques  | Contraintes de mise en oeuvre | Acceptabilité |
-|-------------------|------------------|------------------|------------------|
+|-----------------------------------------------------|------------------------|-------------------------------|---------------|
 | Rétention et dégradation des pesticides dans le sol | Gestion des flux d'eau | Temps disponible              | Bonne         |
 
 Un fossé est un élément linéaire artificiel de collecte et d'écoulement des eaux (pluie, eaux usées, de ruissellement ou de drainage). Il existe une grande diversité de fossés, selon leur morphologie, nature et abondance, de la végétation et des litières.
