@@ -11,11 +11,11 @@ format:
     toc: true
 ---
 
-| Intérêts environnementaux                                             | Intérêts agronomiques                | Contraintes de mise en oeuvre     | Acceptabilité                           |
-|-----------------------------------------------------------------------|--------------------------------------|-----------------------------------|-----------------------------------------|
-| Faible, la technologie pneumatique ne permet pas de réduire la dérive | Améliore la qualité de pulvérisation | Faible (temps en début de saison) | Facile à mettre en œuvre et peu coûteux |
+| Intérêts environnementaux                                             | Intérêts agronomiques                                                                 | Contraintes de mise en oeuvre     | Acceptabilité                           |
+|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------|-----------------------------------------|
+| Faible, la technologie pneumatique ne permet pas de réduire la dérive | Un bon réglage et un bon entretien permettent d'améliorer la qualité de pulvérisation | Faible (temps en début de saison) | Facile à mettre en œuvre et peu coûteux |
 
-Les voûtes pneumatiques sont très utilisées à l'heure actuelle en vignes larges (près de 70 % des appareils du parc). Le niveau de dérive généré par ce type d'appareil peut être très important à cause de la technologie pneumatique qui impose une vitesse de l'air importante, y compris en début de végétation Il est primordial de bien régler son appareil pour réduire autant que possible les impacts.
+Les voûtes pneumatiques sont très utilisées à l'heure actuelle en vignes larges (près de 70 % des appareils du parc dans les vignobles du pourtour méditerranéen). Le niveau de dérive généré par ce type d'appareil peut être très important à cause de la technologie pneumatique qui impose une vitesse de l'air importante, y compris en début de végétation Il est primordial de bien régler son appareil pour réduire autant que possible les impacts.
 
 ![Voute pneumatique Grégoire](images/L1_vouteGregoire.png)
 
@@ -27,9 +27,9 @@ Avec une voûte pneumatique, la qualité de pulvérisation est **correcte en pas
 
 ## Comment optimiser son appareil ?
 
-### Entretenir et vérifier son appareil en début de saison
+### Entretenir et régler son appareil en début et en cours de saison
 
-**Étalonner le pulvérisateur** avant chaque campagne et pendant la saison si nécessaire par une mesure du débit de chaque diffuseur pour vérifier le volume/ha réellement appliqué.
+**Étalonner le pulvérisateur** avant chaque campagne et pendant la saison par une mesure du débit de chaque diffuseur pour vérifier le volume/ha réellement appliqué.
 
 Veiller à ce que la répartition des débits dans les différents organes du pulvérisateur permette de pulvériser la même dose sur chaque face de rang.
 
@@ -41,7 +41,7 @@ N'oubliez pas de réaliser le contrôle technique périodique de votre appareil 
 
 **Effectuer le traitement avec la plus faible vitesse de vent possible.** Un vent soutenu provoque une forte dérive. La réglementation interdit de traiter par vent au-delà de 19 km/h.
 
-**Eviter les interventions aux heures chaudes de la journée**. Plus la température est élevée, plus la vitesse d'évaporation des gouttes avant interception par la végétation est importante, et donc moins il y aura de produit qui atteint la plante.
+**Eviter les interventions aux heures chaudes de la journée**. Plus la température est élevée, plus la vitesse d'évaporation des gouttes avant interception par la végétation est importante, surtout pour les faces de rangs traitées par les canons, et donc moins il y aura de produit qui atteint la plante.
 
 ### Adapter le nombre de diffuseurs à la hauteur de végétation
 

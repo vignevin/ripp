@@ -31,13 +31,13 @@ L'usage d'un OAD permet d'anticiper pour une meilleure organisation des travaux 
 
 ### Quel OAD choisir ?
 
-Un OAD doit nécessairement intégrer un ou des **modèles épidémiologiques** qui modélisent le développement des maladies à partir de données météo, passées et prévisionnelles.
+Un OAD doit nécessairement intégrer un ou des **modèles épidémiologiques** qui modélisent le développement des maladies à partir de données météorologiques, passées et prévisionnelles.
 
 ![Sortie de l'OAD Decitrait précisant les périodes de risques](images/L9_decitrait.png)
 
 Pour optimiser la réduction des intrants, préférez les OAD intégrant des règles de modulation de la dose des produits phytosanitaires en cours de saison.
 
-Le Vinopôle Bordeaux Aquitaine propose un tableau récapitulatif des différents outils sur [cette page](https://www.vinopole.com/fiches-pratiques/agro-ecologie/diminution-des-intrants/choisir-et-bien-utiliser-un-outil-daide-a-la-decision/) et présente l'OAD dédié à la protection de la vigne développé par l'IFV [ici](https://www.vinopole.com/outils/decitrait-un-oad-dedie-a-la-protection-de-la-vigne/).
+Le Vinopôle Bordeaux Aquitaine propose un tableau récapitulatif des différents outils sur [cette page](https://www.vinopole.com/fiches-pratiques/agro-ecologie/diminution-des-intrants/choisir-et-bien-utiliser-un-outil-daide-a-la-decision/) et présente l'OAD DECIDTRAIT dédié à la protection de la vigne développé par l'IFV [ici](https://www.vinopole.com/outils/decitrait-un-oad-dedie-a-la-protection-de-la-vigne/).
 
 ### Les limites d'utilisation des OAD
 
@@ -49,13 +49,11 @@ Compléter avec des observations terrain pour sécuriser et corriger si besoin l
 
 -   Pluviomètre pour la pluie en cas de données météorologiques modélisées (attention à l'entretien),
 
--   Observations sur la parcelle : stades phénologiques, état sanitaire
-
-Pour les prévisions météo, comparez les sorties de plusieurs modèles météo pour éviter de prendre trop de risques.
+-   Observations sur la parcelle : relevés des stades phénologiques et de l'état sanitaire
 
 ### Quel coût ?
 
-Le coût d'un OAD varie entre 75 et 250€ par an (sans station météo), ce qui reste relativement faible au regard des coûts de production et des avantages que procurent ces outils. Certains OAD sont éligibles au CEPP.
+Le coût d'un OAD varie entre 75 et 250€ par an (sans station météo), ce qui reste relativement faible au regard des coûts de production et des avantages que procurent ces outils. Certains OAD comme DECITRAIT sont éligibles au CEPP.
 
 ## Pour aller plus loin
 

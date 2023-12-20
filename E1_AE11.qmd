@@ -38,7 +38,7 @@ Les inter-rangs sont labourés, environ 4 passages par an dont 1 labour d'automn
 ### Des leviers simples et peu contraignants à mettre en œuvre
 
 | Objectif                                       | Pratique                                                                                                                                                              |
-|------------------------|--------------------------------------------|
+|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Réduire l'IFT                                  | Mieux raisonner les traitements et optimiser les réglages de son pulvérisateur                                                                                        |
 | Réduire les risques de transfert dans les eaux | Mettre en œuvre l'enherbement systématique des tournières, supprimer le labour d'automne et sur les parcelles où c'est possible, enherber une partie des inter-rangs. |
 | Protéger les riverains                         | Planter des haies à proximité des habitations                                                                                                                         |

@@ -11,19 +11,19 @@ format:
     toc: true
 ---
 
-| Intérêts environnementaux                           | Intérêts agronomiques                                                                                                                        | Contraintes de mise en oeuvre                                               | Acceptabilité                                           |
-|-------------------|------------------|------------------|------------------|
-| Réduction de la dérive des produits phytosanitaires | Protection des sols contre l'érosion, effet brise-vent et régulation thermique, protection de la qualité des eaux. Réservoir de biodiversité | Temps de travail important à l'installation . Entretien régulier nécessaire | Améliore l'image et l'acceptabilité sociale du vignoble |
+| Intérêts environnementaux                           | Intérêts agronomiques                              | Contraintes de mise en oeuvre                                               | Acceptabilité                                           |
+|-----------------|-----------------|----------------------|-----------------|
+| Réduction de la dérive des produits phytosanitaires | Services agronomiques et réservoir de biodiversité | Temps de travail important à l'installation . Entretien régulier nécessaire | Améliore l'image et l'acceptabilité sociale du vignoble |
 
 Une haie disposée au niveau de la limite de la parcelle agricole constitue un écran contre la dérive des produits. De plus, une haie apporte plusieurs services agronomiques et environnementaux : protection des sols contre l'érosion, effet brise-vent, régulation thermique, protection de la qualité des eaux. Elle présente également l'intérêt d'être un réservoir de biodiversité.
 
 ## Quelle efficacité sur la réduction de dérive ?
 
-Les haies implantées en bordure de parcelle filtrent le courant d'air portant la dérive. Des mesures effectuées derrière des haies dans les différentes cultures montrent des réductions très significatives des quantités de dérive circulant dans l'air ou se déposant au sol immédiatement derrière la haie. Des études visant à étudier les performances des barrières physiques (haies naturelles et filets "antidérive") sont en cours dans le cadre du projet Ecophyto DriftProtect (2023-2024) conduit par l'UMT ECOTECH (IFV-CTIFL-INRAe Montpellier).
+Les haies implantées en bordure de parcelle filtrent le courant d'air portant la dérive. Des mesures effectuées derrière des haies dans les différentes cultures montrent des réductions très significatives des quantités de dérive circulant dans l'air ou se déposant au sol derrière la haie. Des études visant à étudier les performances des barrières physiques (haies naturelles et filets "antidérive") sont en cours dans le cadre du projet Ecophyto DriftProtect (2023-2024) conduit par l'UMT ECOTECH (IFV-CTIFL-INRAe Montpellier).
 
 ![Dispositif de mesure de la dérive en conditions contrôlées (UMT EcoTech)](images/L2_dispoEoleDriftHaie.png)
 
-Les mesures réalisées ont montré une **réduction de 75% de la dérive aérienne** d'une voûte pneumatique en présence d'une haie. Ce taux de réduction peut varier selon les caractéristiques physiques de la haie (hauteur, porosité...).
+Différentes mesures de dérive réalisées pour évaluer l'effet des haies ont montré une réduction de dérive comprise entre 74 et 96% en fonction du pulvérisateur utilisée pour une haie de 2,7m de haut située à 2m du dernier rang. L'efficacité pour la réduction de la dérive peut varier selon les caractéristiques physiques de la haie (hauteur, porosité...).
 
 ![Réduction de la dérive arienne d'une voûte pneumatique grâce à une haie](images/L2_graphHaie.png)
 

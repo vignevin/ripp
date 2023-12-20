@@ -12,7 +12,7 @@ format:
 ---
 
 | Intérêts environnementaux                    | Intérêts agronomiques | Contraintes de mise en oeuvre            | Acceptabilité                  |
-|-------------------|------------------|------------------|------------------|
+|----------------------------------------------|-----------------------|------------------------------------------|--------------------------------|
 | Forte réduction des intrants phytosanitaires | Gain de productivité  | Investissement élevé. Contraintes en AOP | A prioriser en zones sensibles |
 
 Une variété résistante est le fruit d'un long processus de création combinant hybridation (fécondation avec un résistant) et introgression (rétrocroisements) afin d'insérer les caractères de résistance des vignes américaines et asiatiques dans le fond génétique des vignes européennes. La plantation de variétés résistantes à certaines maladies cryptogamiques (mildiou et oïdium) permet de réduire significativement l'utilisation de produits phytosanitaires.

@@ -13,11 +13,11 @@ format:
 
 | Intérêts environnementaux    | Intérêts agronomiques                          | Contraintes de mise en oeuvre              | Acceptabilité                 |
 |-------------------|------------------|------------------|------------------|
-| Forte réduction de la dérive | Economie de produits, qualité de pulvérisation | Investissement élevé, temps et maniabilité | A prioriser en zone sensibles |
+| Forte réduction de la dérive | Economie de produits, qualité de pulvérisation | Investissement élevé, temps de chantier et maniabilité | A prioriser en zone sensibles |
 
 Au cours de l'application, avec un pulvérisateur classique, une partie du produit n'atteint pas le feuillage. L'utilisation de panneaux récupérateurs ou de tunnels de traitement permet de :
 
--   Économiser des produits phytosanitaires en recyclant la bouillie n'ayant pas atteint la cible. L'économie de produit atteint 30 à 40% sur l'année (70 à 80% en début de végétation et 10 à 20% sur végétation bien développée en fonction de la vigueur et de l'état de la parcelle).
+-   Économiser des produits phytosanitaires en recyclant la bouillie n'ayant pas atteint la cible. L'économie d'intrant phytosanitaire atteint 30 à 40% sur l'année (70 à 80% en début de végétation et 10 à 20% sur végétation bien développée en fonction de la vigueur et de l'état de la parcelle).
 
 -   Réduire la dérive de manière très significative.
 
@@ -33,13 +33,13 @@ La plupart des pulvérisateurs à panneaux récupérateurs et à jet porté, lor
 
 ### Optimiser la réduction de la dérive
 
--   Utiliser des **buses à injection d'air** pour optimiser la réduction de dérive et le taux de récupération. Les buses à fentes sont à préférer aux buses à turbulence pour éviter que le produit ne sorte des panneaux. 5 à 6 hauteurs de buses sont suffisantes pour traiter la végétation, fermer les buses inutiles en début de végétation !
+-   Utiliser des **buses à injection d'air** pour optimiser la réduction de dérive et le taux de récupération. Les buses à fentes à injection d'air sont à préférer aux buses à turbulence pour éviter que le produit ne sorte des panneaux. 5 à 6 hauteurs de buses sont suffisantes pour traiter la végétation, fermer les buses inutiles en début de végétation !
 
 -   Privilégier les panneaux les plus **larges** qui sont les plus performants pour récupérer la bouillie.
 
 ::: callout-warning
 -   Eviter les panneaux récupérateurs pneumatiques : la finesse des gouttelettes produites ne permet pas une bonne récupération et pénalise la dérive.
--   Attention aux pollutions ponctuelles (renversement des bacs de récupération, gestion des fonds de cuve...).
+-   Attention aux pollutions ponctuelles (renversement des bacs de récupération, gestion des fonds de cuve, lavage de l'appareil...).
 :::
 
 ### Optimiser les temps de chantier
