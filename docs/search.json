@@ -7,6 +7,27 @@
     "text": "Ce site a été réalisé dans le cadre du projet RIPP-Viti.\nDate de création : 2023\nCrédits : IFV, INRAE"
   },
   {
+    "objectID": "biblio.html",
+    "href": "biblio.html",
+    "title": "Bibliographie",
+    "section": "",
+    "text": "Vous trouverez ci-dessous une liste de références bibliographiques utilisées pour la rédaction des fiches."
+  },
+  {
+    "objectID": "biblio.html#fiche-sur-les-fossés",
+    "href": "biblio.html#fiche-sur-les-fossés",
+    "title": "Bibliographie",
+    "section": "Fiche sur les fossés",
+    "text": "Fiche sur les fossés\n\nDagès et al. (2016)\nDagès et al. (2023)\nDages et al. (2015)\nDollinger et al. (2015)\nDollinger et al. (2014)\nCarluer et al. (2017)"
+  },
+  {
+    "objectID": "biblio.html#fiche-sur-lenherbement",
+    "href": "biblio.html#fiche-sur-lenherbement",
+    "title": "Bibliographie",
+    "section": "Fiche sur l’enherbement",
+    "text": "Fiche sur l’enherbement\n\nGarcia et al. (2020)\nAbad et al. (2021a)\nAbad et al. (2021b)"
+  },
+  {
     "objectID": "E1_AE11.html",
     "href": "E1_AE11.html",
     "title": "Comment changer sans tout bouleverser ?",
@@ -158,7 +179,7 @@
     "href": "L4_varietes.html",
     "title": "Planter des variétés résistantes",
     "section": "",
-    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nForte réduction des intrants phytosanitaires\nGain de productivité\nInvestissement élevé. Contraintes en AOP\nA prioriser en zones sensibles\nUne variété résistante est le fruit d’un long processus de création combinant hybridation (fécondation avec un résistant) et introgression (rétrocroisements) afin d’insérer les caractères de résistance des vignes américaines et asiatiques dans le fond génétique des vignes européennes. La plantation de variétés résistantes à certaines maladies cryptogamiques (mildiou et oïdium) permet de réduire significativement l’utilisation de produits phytosanitaires."
+    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nForte réduction des intrants phytosanitaires\nGain de productivité\nInvestissement élevé. Contraintes en AOP\nA prioriser en zones sensibles"
   },
   {
     "objectID": "L4_varietes.html#quelle-efficacité-sur-la-réduction-de-lutilisation-des-produits-phytosanitaires",
@@ -182,18 +203,18 @@
     "text": "Planter des variétés résistantes\n\nChoisir une variété adaptée\nFavoriser les variétés polygéniques, c’est-à-dire possédant plusieurs gènes de résistance au mildiou et à l’oïdium afin d’éviter un risque de contournement de la résistance par les champignons.\n\n\nLa plantation\nSélectionner en priorité les parcelles à enjeux (zones sensibles). La plantation est mise en œuvre de façon classique.\n\n\n\n\n\n\nAttention aux autres maladies !\n\n\n\nIl est possible de constater la réapparition de maladies normalement gérées par les couvertures mildiou/oïdium (Anthracnose, black rot, érinose). Maintenir une protection minimale !"
   },
   {
-    "objectID": "L4_varietes.html#pour-aller-plus-loin",
-    "href": "L4_varietes.html#pour-aller-plus-loin",
+    "objectID": "L4_varietes.html#actions-complémentaires",
+    "href": "L4_varietes.html#actions-complémentaires",
     "title": "Planter des variétés résistantes",
-    "section": "Pour aller plus loin",
-    "text": "Pour aller plus loin\nLors des traitements recommandés, utilisez un appareil bien réglé et respecter les bonnes pratiques de pulvérisation.\nEn jet porté, pour réduire la dérive, utiliser des buses antidérives : Utiliser des buses antidérive sur les pulvérisateurs à jet porté\nDans les zones sensibles, la plantation de haies peut venir en complément pour limiter les risques de dérive : Planter des haies antidérive à proximité des habitations"
+    "section": "Actions complémentaires",
+    "text": "Actions complémentaires\nLors des traitements recommandés, utilisez un appareil bien réglé et respecter les bonnes pratiques de pulvérisation.\nEn jet porté, pour réduire la dérive, utiliser des buses antidérives : Utiliser des buses antidérive sur les pulvérisateurs à jet porté\nDans les zones sensibles, la plantation de haies peut venir en complément pour limiter les risques de dérive : Planter des haies antidérive à proximité des habitations"
   },
   {
-    "objectID": "L4_varietes.html#ressources-complémentaires",
-    "href": "L4_varietes.html#ressources-complémentaires",
+    "objectID": "L4_varietes.html#pour-approfondir-le-sujet",
+    "href": "L4_varietes.html#pour-approfondir-le-sujet",
     "title": "Planter des variétés résistantes",
-    "section": "Ressources complémentaires",
-    "text": "Ressources complémentaires\n\nFiches pratiques sur vignevin-occitanie\nFiche pratique sur techniloire\nSite de l’observatoire des cépages résistants OSCAR\nGuide technique de l’ICV"
+    "section": "Pour approfondir le sujet",
+    "text": "Pour approfondir le sujet\n\nFiches pratiques sur vignevin-occitanie\nFiche pratique sur techniloire\nSite de l’observatoire des cépages résistants OSCAR\nGuide technique de l’ICV"
   },
   {
     "objectID": "L5_pulveConfinee.html",
@@ -298,21 +319,21 @@
     "href": "L7_fosses.html",
     "title": "Gérer les fossés",
     "section": "",
-    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nRétention et dégradation des pesticides dans le sol\nGestion des flux d’eau\nTemps disponible\nBonne\nUn fossé est un élément linéaire artificiel de collecte et d’écoulement des eaux (pluie, eaux usées, de ruissellement ou de drainage). Il existe une grande diversité de fossés, selon leur morphologie, nature et abondance, de la végétation et des litières."
+    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nRétention et dégradation des pesticides\nGestion des flux d’eau\nAssainissement agricole\nLimitation de l’érosion ravinaire\nTemps\nSoumis à réglementation\nBonne\nUn fossé est un élément linéaire artificiel de collecte et d’écoulement des eaux (pluie, eaux usées, de ruissellement ou de drainage). Il existe une grande diversité des fossés selon leur morphologie, nature et abondance de la végétation et des litières."
   },
   {
     "objectID": "L7_fosses.html#quelle-efficacité-sur-la-réduction-des-contaminations",
     "href": "L7_fosses.html#quelle-efficacité-sur-la-réduction-des-contaminations",
     "title": "Gérer les fossés",
     "section": "Quelle efficacité sur la réduction des contaminations ?",
-    "text": "Quelle efficacité sur la réduction des contaminations ?\nLes fossés jouent un rôle important pour limiter la contamination : ils peuvent retenir de 3 à 99% des molécules lors des crues. D’autre part, ils permettent d’évacuer les eaux excédentaires, et de lutter contre l’érosion, et participent au maintien de la biodiversité."
+    "text": "Quelle efficacité sur la réduction des contaminations ?\nLes fossés jouent un rôle important pour limiter la contamination de surface et souterraine. Ils peuvent retenir selon leur état et selon les molécules de 3 à 99% de la quantité des molécules circulant dans les fossés. Cette capacité de rétention des fossés contribue à abattre la concentration dans les masses d’eau aval et favorise la dégradation des molécules. Elle peut en revanche provoquer un allongement de la durée de contamination par relargage des quantités de pesticides stockés par le fossé, mais cela s’effectue alors à faible concentration. D’autre part, ils permettent d’évacuer les eaux excédentaires, de lutter contre l’érosion, et participent au maintien de la biodiversité."
   },
   {
     "objectID": "L7_fosses.html#comment-optimiser-lefficacité-dun-fossé",
     "href": "L7_fosses.html#comment-optimiser-lefficacité-dun-fossé",
     "title": "Gérer les fossés",
     "section": "Comment optimiser l’efficacité d’un fossé ?",
-    "text": "Comment optimiser l’efficacité d’un fossé ?\nLa rétention varie principalement selon les propriétés des molécules, la capacité du sol et des matériaux présents dans le fossé (végétation vivante, litières) à retenir les pesticides (adsorption) ou encore de la largeur du fossé. Un fossé plus large offre plus de surface de contact pour l’adsorption. Le mode de gestion du fossé permet le contrôle de la nature des matériaux présents dans les fossés et est en conséquence un levier pour moduler la rétention.\n\nLe brûlis\n\n\n\nLe brûlis a un effet très positif sur la rétention de toutes les molécules grâce aux cendres produites.\n\n\n\n\n\n\nAvertissement\n\n\n\nAttention, le brûlis est une pratique soumise à autorisation préfectorale dérogatoire mais est déclassante pour les aides européennes en lien avec les émissions de gaz à effet de serre.\n\n\n\n\n\n\n\nBrûlis d’un fossé\n\n\n\n\n\n\n\nLa fauche\n\n\n\nLa fauche a un effet positif sur la rétention de la majorité des molécules mais limité pour le glyphosate.\n\n\n\n\n\nFauche d’un fossé\n\n\n\n\n\n\n\nLe curage fauche\n\n\n\n\n\n\n\n\n\nAvertissement\n\n\n\nA éviter ! Le curage a un effet négatif sur la rétention de toutes les molécules !\n\n\n\n\n\n\n\nCurage d’un fossé\n\n\n\n\n\n\n\nLe désherbage chimique\n\n\n\nLe désherbage chimique accentue la contamination par l’herbicide utilisé (habituellement le glyphosate) mais peut améliorer la rétention des autres molécules en augmentant la teneur en matière organique des fonds de fossés. Cette pratique n’est plus autorisée dans un nombre croissant de départements (arrêtés préfectoraux “fossés”). Dans l’Hérault, l’épandage est interdit dans et aux abords des fossés figurant en points, traits continus ou discontinus sur les cartes au 1/25 000 les plus récemment éditées par l’Institut Géographique National.\n\n\n\n\n\nDésherbage chimique d’un fossé"
+    "text": "Comment optimiser l’efficacité d’un fossé ?\nLa rétention varie principalement selon les propriétés des molécules, la capacité du sol et des matériaux présents dans le fossé (végétation vivante, litières) à retenir les pesticides (adsorption) ou encore de la largeur du fossé. Un fossé plus large offre plus de surface de contact pour l’adsorption. Le mode de gestion du fossé permet le contrôle de la nature des matériaux présents dans les fossés et est en conséquence un levier pour moduler la rétention.\n\nLe brûlis\n\n\n\nLe brûlis a un effet très positif sur la rétention de toutes les molécules grâce aux cendres produites.\n\n\n\n\n\n\nAvertissement\n\n\n\nAttention, le brûlis est une pratique soumise à autorisation préfectorale dérogatoire et est déclassante pour les aides européennes en raison des émissions de gaz à effet de serre qu’il provoque.\n\n\n\n\n\n\n\nBrûlis d’un fossé\n\n\n\n\n\n\n\nLa fauche\n\n\n\nLa fauche a en général un effet positif sur la rétention car elle augmente la quantité de matières végétales en décomposition dans le fossé qui sont des adsorbants importants de nombreuses molécules. Mais cet effet est limité pour certaines molécules, comme le glyphosate, qui s’adsorbent peu sur la matière végétale.\n\n\n\n\n\nFauche d’un fossé\n\n\n\n\n\n\n\nLe curage\n\n\n\n\n\n\n\n\n\nAvertissement\n\n\n\nA éviter ! Le curage a un effet négatif sur la rétention de toutes les molécules car ce sont les matériaux les plus favorables à la rétention et dégradation (riches en matières organiques et organismes du sol) qui sont excavés.\n\n\n\n\n\n\n\nCurage d’un fossé\n\n\n\n\n\n\n\nLe désherbage chimique\n\n\n\nLe désherbage chimique accentue la contamination par l’herbicide utilisé (habituellement le glyphosate) mais peut améliorer la rétention des autres molécules en augmentant la teneur en matière organique des fonds de fossés. Cette pratique n’est plus autorisée dans un nombre croissant de départements (arrêtés préfectoraux “fossés”).\nDans l’Hérault, l’épandage est interdit dans et aux abords des fossés figurant en points, traits continus ou discontinus sur les cartes au 1/25 000 les plus récemment éditées par l’Institut Géographique National.\n\n\n\n\n\nDésherbage chimique d’un fossé"
   },
   {
     "objectID": "L7_fosses.html#penser-la-gestion-à-léchelle-du-réseau-de-fossés-et-en-fonction-du-contexte",
@@ -322,18 +343,60 @@
     "text": "Penser la gestion à l’échelle du réseau de fossés et en fonction du contexte\nSi la cible à protéger en priorité est :\n\nune masse d’eau de surface (rivière, lac, étangs) : bénéficier de fossés à forte capacité de rétention sur la moitié aval du réseau sera plus efficace que si ces mêmes fossés sont localisés sur les parties amont du bassin.\nune masse d’eau souterraine : favoriser les fossés à forte capacité de rétention sur les parties du réseau à la fois les plus infiltrantes et pour lesquelles la nappe est la moins profonde.\nune espèce vivant dans les fossés (ex. arthropodes) : favoriser les fossés à forte rétention à proximité immédiate des parcelles les plus émettrices."
   },
   {
-    "objectID": "L7_fosses.html#pour-aller-plus-loin",
-    "href": "L7_fosses.html#pour-aller-plus-loin",
+    "objectID": "L7_fosses.html#actions-complémentaires",
+    "href": "L7_fosses.html#actions-complémentaires",
     "title": "Gérer les fossés",
-    "section": "Pour aller plus loin",
-    "text": "Pour aller plus loin\nA COMPLETER"
+    "section": "Actions complémentaires",
+    "text": "Actions complémentaires\nD’autres éléments du paysage permettent de tamponner les eaux de surface et peuvent être associés aux fossés pour une meilleure rétention : bandes enherbées ou boisées, zones tampons humides artificielles… Leur possibilité d’implantation et de gestion dépend du contexte pédoclimatique et agronomique. Comme pour les fossés, leur performance varie selon les molécules et leur position dans le paysage.\nVous pouvez en savoir plus sur les zones tampons sur leur gestion en cliquant sur les liens dans le texte."
   },
   {
-    "objectID": "L7_fosses.html#ressources-complémentaires",
-    "href": "L7_fosses.html#ressources-complémentaires",
+    "objectID": "L7_fosses.html#pour-approfondir-le-sujet",
+    "href": "L7_fosses.html#pour-approfondir-le-sujet",
     "title": "Gérer les fossés",
-    "section": "Ressources complémentaires",
-    "text": "Ressources complémentaires\nDollinger, J., Dages, C., Bailly, J., Lagacherie, P. and M., Voltz , ONEMA, (eds.) Synthèse bibliographique des différentes fonctions des réseaux de fossés aux échelles du fossé élémentaire et du réseau, ONEMA, 2014.\nCécile Dagès, Jean-Stéphane Bailly, J. Dollinger, P. Lagacherie, Marc Voltz (2016). Méthodologie de diagnostic et de gestion des réseaux de fossés agricoles infiltrants pour la limitation de la contamination des masses d’eau par les pesticides. (Onema), https://hal.inrae.fr/hal-01593744"
+    "section": "Pour approfondir le sujet",
+    "text": "Pour approfondir le sujet\nDollinger, J., Dages, C., Bailly, J., Lagacherie, P. and M., Voltz , ONEMA, (eds.) Synthèse bibliographique des différentes fonctions des réseaux de fossés aux échelles du fossé élémentaire et du réseau, ONEMA, 2014.\nCécile Dagès, Jean-Stéphane Bailly, J. Dollinger, P. Lagacherie, Marc Voltz (2016). Méthodologie de diagnostic et de gestion des réseaux de fossés agricoles infiltrants pour la limitation de la contamination des masses d’eau par les pesticides. (Onema), https://hal.inrae.fr/hal-01593744"
+  },
+  {
+    "objectID": "L8_enh.html",
+    "href": "L8_enh.html",
+    "title": "Enherber une partie des inter-rangs",
+    "section": "",
+    "text": "Intérêts environnementaux\nIntérêts agronomiques\nContraintes de mise en oeuvre\nAcceptabilité\n\n\n\n\nDiminution d’usage des herbicides\nRéduction du ruissellement et de l’érosion\nRestitution de matière organique\nNécessite un pilotage fin pour éviter la concurrence hydrique\nCroissance très variable\nÉlevée si les adventices ou les couverts sont faciles à gérées\nL’enherbement des inter-rangs consiste à gérer ou implanter une couverture végétale entre les rangs de vignes."
+  },
+  {
+    "objectID": "L8_enh.html#quelle-réduction-des-impacts-environnementaux",
+    "href": "L8_enh.html#quelle-réduction-des-impacts-environnementaux",
+    "title": "Enherber une partie des inter-rangs",
+    "section": "Quelle réduction des impacts environnementaux ?",
+    "text": "Quelle réduction des impacts environnementaux ?\nL’enherbement peut représenter une source importante de matières organiques aériennes et racinaires qui favorisent l’activité vie biologique du sol Figure 1. Par son rôle structurant, il augmente la stabilité structurale, la porosité et la portance du sol. L’enherbement en favorisant l’infiltration, diminue le ruissellement et limite donc l’érosion et les transferts de pesticides provoqués par la pluie. Cette pratique représente donc un atout non négligeable pour la biodiversité et propose un véritable panel de services pour l’environnement.\n\n\n\nFigure 1: Services et dysservices des cultures de services. Violet : services d’approvisionnement ; vert : services de régulation et conservation ; bleu : services culturels ; rouge : dysservices. Garcia et al., 2020"
+  },
+  {
+    "objectID": "L8_enh.html#quels-impacts-agronomiques",
+    "href": "L8_enh.html#quels-impacts-agronomiques",
+    "title": "Enherber une partie des inter-rangs",
+    "section": "Quels impacts agronomiques ?",
+    "text": "Quels impacts agronomiques ?\nL’enherbement des inter-rangs viticoles offre des avantages agronomiques notables en améliorant la biodiversité du sol et en favorisant une microflore bénéfique.\nL’enherbement entre les rangs de vigne contribue à la réduction de l’érosion du sol et à l’amélioration de la structure du sol, favorisant ainsi une meilleure infiltration de l’eau, particulièrement souhaitable en contexte méditerranéen.\nEnfin, l’enherbement des inter-rangs viticoles sur le cycle de l’azote est la promotion de la fixation biologique de l’azote atmosphérique, via l’introduction de légumineuses. L’enherbement des inter-rangs viticoles peut également avoir un effet positif sur le cycle de l’azote en favorisant la minéralisation de la matière organique du sol.\n\n\n\n\n\n\nAvertissement\n\n\n\nAttention, l’enherbement peut générer une concurrence hydro-azotée qui peut se traduire par une réduction de la vigueur et éventuellement une baisse du rendement de la vigne, particulièrement en contexte méditerranéen. Pour être durable, une stratégie d’enherbement doit donc être adaptée au contexte de la parcelle."
+  },
+  {
+    "objectID": "L8_enh.html#comment-mettre-en-oeuvre-un-enherbement",
+    "href": "L8_enh.html#comment-mettre-en-oeuvre-un-enherbement",
+    "title": "Enherber une partie des inter-rangs",
+    "section": "Comment mettre en oeuvre un enherbement ?",
+    "text": "Comment mettre en oeuvre un enherbement ?\n\nQuelles parcelles enherber ?\nLa majorité des parcelles âgées d’au-moins 3 ans peuvent être enherbées, à l’exception des parcelles non-mécanisables et celles aux sols superficiels souffrant d’un important stress hydrique. La décision d’enherber doit se faire au niveau de la parcelle, en définissant au préalable les objectifs recherchés (concurrence, structure du sol, érosion…). On fait l’hypothèse qu’au-delà de trois ans, le système racinaire de la vigne est bien installé.\nLes parcelles gélives peuvent également être enherbées à condition de réaliser une tonte avant le débourrement.\n\n\nComment gérer la concurrence ?\nUne stratégie d’enherbement doit être définie en fonction des principaux services attendus à l’échelle de la parcelle viticole (en premier lieu le service de production) et des contraintes (notamment pédoclimatiques) de production. La Figure 2 résume les différents choix à réaliser pour définir cette stratégie :\n\nChoix de l’espèce à semer (et densité et période de semis)\nStructure spatiale de l’implantation de l’espèce (tous les inter-rangs, 1 inter-rang sur 2 par exemple)\nPériode de présence (hivernale/ temporaire/ permanente)\nOutil de destruction (incluant la gestion des résidus).\n\n\n\n\nFigure 2: Cadre d’analyse pour le pilotage des cultures de services dans les vignobles. R : récolte, CF : chute des feuilles, D : débourrement, F : floraison, N : nouaison, V : véraison. (d’après Garcia et al., 2020)\n\n\nEn fonction du climat observé, responsable de la croissance des plantes et des risques de compétition avec la vigne, des ajustements tactiques peuvent être réalisés afin de fournir les services visés et atteindre les objectifs de production.\n\n\nComment démarrer ?\nLes contraintes et objectifs permettent de définir la stratégie suivie du semis à la destruction. Il est conseillé d’introduire progressivement l’enherbement sur la parcelle et sur l’exploitation. Par exemple, on peut commencer par un enherbement un inter-rang sur deux, ou tout simplement les rangs de passage.\nL’enherbement spontané est souvent l’option la plus simple à mettre en œuvre : pas besoin de semis et les espèces sont, par définition, adaptées au climat et au sol. Leur facilité de destruction est aussi un avantage dans la gestion de la concurrence et facilite la mise en place de l’itinéraire technique, toutefois ce n’est pas le cas de toutes les espèces spontanées (chiendent notamment)."
+  },
+  {
+    "objectID": "L8_enh.html#actions-complémentaires",
+    "href": "L8_enh.html#actions-complémentaires",
+    "title": "Enherber une partie des inter-rangs",
+    "section": "Actions complémentaires",
+    "text": "Actions complémentaires\nIl est possible d’enherber les fossés. Des bandes enherbées peuvent aussi être mise en place pour préserver les cours d’eau."
+  },
+  {
+    "objectID": "L8_enh.html#pour-approfondir-le-sujet",
+    "href": "L8_enh.html#pour-approfondir-le-sujet",
+    "title": "Enherber une partie des inter-rangs",
+    "section": "Pour approfondir le sujet",
+    "text": "Pour approfondir le sujet\nL’enherbement de la vigne en 10 questions réponses\nDes fiches pratiques sur l’enherbement permanent sur le site de l’IFV Occitanie"
   },
   {
     "objectID": "L9_oad.html",

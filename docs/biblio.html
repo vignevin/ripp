@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Site Web RIPP - Gérer les fossés</title>
+<title>Site Web RIPP - Bibliographie</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./L8_enh.html" rel="next">
-<link href="./L6_choixPulve.html" rel="prev">
+<link href="./about.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -75,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Basculer la barre latérale" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./L1_optiPulve.html">Les leviers pour réduire les impacts environnementaux</a></li><li class="breadcrumb-item"><a href="./L7_fosses.html">Gérer les fossés</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./biblio.html">Bibliographie</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Basculer la barre latérale" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -160,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./L7_fosses.html" class="sidebar-item-text sidebar-link active">
+  <a href="./L7_fosses.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Gérer les fossés</span></a>
   </div>
 </li>
@@ -203,7 +221,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./biblio.html" class="sidebar-item-text sidebar-link">
+  <a href="./biblio.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Bibliographie</span></a>
   </div>
 </li>
@@ -217,26 +235,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Sur cette page</h2>
    
   <ul>
-  <li><a href="#quelle-efficacité-sur-la-réduction-des-contaminations" id="toc-quelle-efficacité-sur-la-réduction-des-contaminations" class="nav-link active" data-scroll-target="#quelle-efficacité-sur-la-réduction-des-contaminations">Quelle efficacité sur la réduction des contaminations ?</a></li>
-  <li><a href="#comment-optimiser-lefficacité-dun-fossé" id="toc-comment-optimiser-lefficacité-dun-fossé" class="nav-link" data-scroll-target="#comment-optimiser-lefficacité-dun-fossé">Comment optimiser l’efficacité d’un fossé ?</a>
-  <ul class="collapse">
-  <li><a href="#le-brûlis" id="toc-le-brûlis" class="nav-link" data-scroll-target="#le-brûlis">Le brûlis</a></li>
-  <li><a href="#la-fauche" id="toc-la-fauche" class="nav-link" data-scroll-target="#la-fauche">La fauche</a></li>
-  <li><a href="#le-curage" id="toc-le-curage" class="nav-link" data-scroll-target="#le-curage">Le curage</a></li>
-  <li><a href="#le-désherbage-chimique" id="toc-le-désherbage-chimique" class="nav-link" data-scroll-target="#le-désherbage-chimique">Le désherbage chimique</a></li>
-  </ul></li>
-  <li><a href="#penser-la-gestion-à-léchelle-du-réseau-de-fossés-et-en-fonction-du-contexte" id="toc-penser-la-gestion-à-léchelle-du-réseau-de-fossés-et-en-fonction-du-contexte" class="nav-link" data-scroll-target="#penser-la-gestion-à-léchelle-du-réseau-de-fossés-et-en-fonction-du-contexte">Penser la gestion à l’échelle du réseau de fossés et en fonction du contexte</a></li>
-  <li><a href="#actions-complémentaires" id="toc-actions-complémentaires" class="nav-link" data-scroll-target="#actions-complémentaires">Actions complémentaires</a></li>
-  <li><a href="#pour-approfondir-le-sujet" id="toc-pour-approfondir-le-sujet" class="nav-link" data-scroll-target="#pour-approfondir-le-sujet">Pour approfondir le sujet</a></li>
+  <li><a href="#fiche-sur-les-fossés" id="toc-fiche-sur-les-fossés" class="nav-link active" data-scroll-target="#fiche-sur-les-fossés">Fiche sur les fossés</a></li>
+  <li><a href="#fiche-sur-lenherbement" id="toc-fiche-sur-lenherbement" class="nav-link" data-scroll-target="#fiche-sur-lenherbement">Fiche sur l’enherbement</a></li>
   </ul>
-<div class="quarto-alternate-formats"><h2>Autres formats</h2><ul><li><a href="L7_fosses.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="L7_fosses.docx"><i class="bi bi-file-word"></i>MS Word</a></li></ul></div></nav>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Gérer les fossés</h1>
+<h1 class="title">Bibliographie</h1>
 </div>
 
 
@@ -251,163 +260,59 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<table class="table">
-<colgroup>
-<col style="width: 32%">
-<col style="width: 28%">
-<col style="width: 25%">
-<col style="width: 12%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Intérêts environnementaux</th>
-<th>Intérêts agronomiques</th>
-<th>Contraintes de mise en oeuvre</th>
-<th>Acceptabilité</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Rétention et dégradation des pesticides</td>
-<td><p>Gestion des flux d’eau</p>
-<p>Assainissement agricole</p>
-<p>Limitation de l’érosion ravinaire</p></td>
-<td><p>Temps</p>
-<p>Soumis à réglementation</p></td>
-<td>Bonne</td>
-</tr>
-</tbody>
-</table>
-<p>Un fossé est un élément linéaire artificiel de collecte et d’écoulement des eaux (pluie, eaux usées, de ruissellement ou de drainage). Il existe une grande diversité des fossés selon leur morphologie, nature et abondance de la végétation et des litières.</p>
-<section id="quelle-efficacité-sur-la-réduction-des-contaminations" class="level2">
-<h2 class="anchored" data-anchor-id="quelle-efficacité-sur-la-réduction-des-contaminations">Quelle efficacité sur la réduction des contaminations ?</h2>
-<p>Les fossés jouent un rôle important pour limiter la contamination de surface et souterraine. Ils peuvent <strong>retenir selon leur état et selon les molécules de 3 à 99% de la quantité des molécules circulant dans les fossés</strong>. Cette capacité de rétention des fossés contribue à abattre la concentration dans les masses d’eau aval et favorise la dégradation des molécules. Elle peut en revanche provoquer un allongement de la durée de contamination par relargage des quantités de pesticides stockés par le fossé, mais cela s’effectue alors à faible concentration. D’autre part, ils permettent d’évacuer les eaux excédentaires, de lutter contre l’érosion, et participent au maintien de la biodiversité.</p>
-</section>
-<section id="comment-optimiser-lefficacité-dun-fossé" class="level2">
-<h2 class="anchored" data-anchor-id="comment-optimiser-lefficacité-dun-fossé">Comment optimiser l’efficacité d’un fossé ?</h2>
-<p>La rétention varie principalement selon les propriétés des molécules, la capacité du sol et des matériaux présents dans le fossé (végétation vivante, litières) à retenir les pesticides (adsorption) ou encore de la largeur du fossé. Un fossé plus large offre plus de surface de contact pour l’adsorption. Le mode de gestion du fossé permet le contrôle de la nature des matériaux présents dans les fossés et est en conséquence un levier pour moduler la rétention.</p>
-<section id="le-brûlis" class="level3">
-<h3 class="anchored" data-anchor-id="le-brûlis">Le brûlis</h3>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div id="first-column" class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
-<p>Le brûlis a un effet <strong>très positif sur la rétention de toutes les molécules grâce aux cendres produites</strong>.</p>
-<div class="callout callout-style-default callout-warning callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Avertissement
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Attention, le brûlis est une pratique soumise à autorisation préfectorale dérogatoire et est déclassante pour les aides européennes en raison des émissions de gaz à effet de serre qu’il provoque.</p>
-</div>
-</div>
-</div>
-<div id="second-column" class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/L7_brulis.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Brûlis d’un fossé</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="la-fauche" class="level3">
-<h3 class="anchored" data-anchor-id="la-fauche">La fauche</h3>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
-<p>La fauche a en général un <strong>effet positif sur la rétention</strong> car elle augmente la quantité de matières végétales en décomposition dans le fossé qui sont des adsorbants importants de nombreuses molécules. Mais cet effet est limité pour certaines molécules, comme le glyphosate, qui s’adsorbent peu sur la matière végétale.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/L7_fauche.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Fauche d’un fossé</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="le-curage" class="level3">
-<h3 class="anchored" data-anchor-id="le-curage">Le curage</h3>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
-<div class="callout callout-style-default callout-warning callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Avertissement
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A éviter ! Le <strong>curage a un effet négatif</strong> sur la rétention de toutes les molécules car ce sont les matériaux les plus favorables à la rétention et dégradation (riches en matières organiques et organismes du sol) qui sont excavés.</p>
-</div>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/L7_curage.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Curage d’un fossé</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="le-désherbage-chimique" class="level3">
-<h3 class="anchored" data-anchor-id="le-désherbage-chimique">Le désherbage chimique</h3>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
-<p>Le désherbage chimique accentue la contamination par l’herbicide utilisé (habituellement le glyphosate) mais peut améliorer la rétention des autres molécules en augmentant la teneur en matière organique des fonds de fossés. Cette pratique n’est plus autorisée dans un nombre croissant de départements (arrêtés préfectoraux “fossés”).</p>
-<p>Dans l’Hérault, l’épandage est interdit dans et aux abords des fossés figurant en points, traits continus ou discontinus sur les cartes au 1/25 000 les plus récemment éditées par l’Institut Géographique National.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/L7_desh.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Désherbage chimique d’un fossé</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-</section>
-<section id="penser-la-gestion-à-léchelle-du-réseau-de-fossés-et-en-fonction-du-contexte" class="level2">
-<h2 class="anchored" data-anchor-id="penser-la-gestion-à-léchelle-du-réseau-de-fossés-et-en-fonction-du-contexte">Penser la gestion à l’échelle du réseau de fossés et en fonction du contexte</h2>
-<p>Si la cible à protéger en priorité est :</p>
+<p>Vous trouverez ci-dessous une liste de références bibliographiques utilisées pour la rédaction des fiches.</p>
+<section id="fiche-sur-les-fossés" class="level2">
+<h2 class="anchored" data-anchor-id="fiche-sur-les-fossés">Fiche sur les fossés</h2>
 <ul>
-<li><p>une masse <strong>d’eau de surface</strong> (rivière, lac, étangs) : bénéficier de fossés à forte capacité de rétention sur la moitié aval du réseau sera plus efficace que si ces mêmes fossés sont localisés sur les parties amont du bassin.</p></li>
-<li><p>une masse <strong>d’eau souterraine</strong> : favoriser les fossés à forte capacité de rétention sur les parties du réseau à la fois les plus infiltrantes et pour lesquelles la nappe est la moins profonde.</p></li>
-<li><p>une <strong>espèce</strong> vivant dans les fossés (ex. arthropodes) : favoriser les fossés à forte rétention à proximité immédiate des parcelles les plus émettrices.</p></li>
+<li><span class="citation" data-cites="dages:hal-01593744">Dagès et al. (<a href="#ref-dages:hal-01593744" role="doc-biblioref">2016</a>)</span></li>
+<li><span class="citation" data-cites="dages:hal-04178090">Dagès et al. (<a href="#ref-dages:hal-04178090" role="doc-biblioref">2023</a>)</span></li>
+<li><span class="citation" data-cites="DAGES2015120">Dages et al. (<a href="#ref-DAGES2015120" role="doc-biblioref">2015</a>)</span></li>
+<li><span class="citation" data-cites="dollinger:hal-01306444">Dollinger et al. (<a href="#ref-dollinger:hal-01306444" role="doc-biblioref">2015</a>)</span></li>
+<li><span class="citation" data-cites="dollinger2014synthese">Dollinger et al. (<a href="#ref-dollinger2014synthese" role="doc-biblioref">2014</a>)</span></li>
+<li><span class="citation" data-cites="carluer:hal-01656661">Carluer et al. (<a href="#ref-carluer:hal-01656661" role="doc-biblioref">2017</a>)</span></li>
 </ul>
 </section>
-<section id="actions-complémentaires" class="level2">
-<h2 class="anchored" data-anchor-id="actions-complémentaires">Actions complémentaires</h2>
-<p>D’autres éléments du paysage permettent de tamponner les eaux de surface et peuvent être associés aux fossés pour une meilleure rétention : bandes enherbées ou boisées, zones tampons humides artificielles… Leur possibilité d’implantation et de gestion dépend du contexte pédoclimatique et agronomique. Comme pour les fossés, leur performance varie selon les molécules et leur position dans le paysage.</p>
-<p>Vous pouvez en savoir plus sur les <a href="https://professionnels.ofb.fr/fr/node/1191">zones tampons</a> sur leur <a href="https://hal.inrae.fr/ARINRAE-INNOVAGRO/hal-01656661">gestion</a> en cliquant sur les liens dans le texte.</p>
+<section id="fiche-sur-lenherbement" class="level2">
+<h2 class="anchored" data-anchor-id="fiche-sur-lenherbement">Fiche sur l’enherbement</h2>
+<ul>
+<li><span class="citation" data-cites="garcia:hal-03004389">Garcia et al. (<a href="#ref-garcia:hal-03004389" role="doc-biblioref">2020</a>)</span></li>
+<li><span class="citation" data-cites="Abad_Hermoso_de_Mendoza_Marín_Orcaray_Santesteban_2021">Abad et al. (<a href="#ref-Abad_Hermoso_de_Mendoza_Marín_Orcaray_Santesteban_2021" role="doc-biblioref">2021a</a>)</span></li>
+<li><span class="citation" data-cites="Abad_Hermoso_de_Mendoza_Marín_Orcaray_Santesteban_2021b">Abad et al. (<a href="#ref-Abad_Hermoso_de_Mendoza_Marín_Orcaray_Santesteban_2021b" role="doc-biblioref">2021b</a>)</span></li>
+</ul>
+
+
+
 </section>
-<section id="pour-approfondir-le-sujet" class="level2">
-<h2 class="anchored" data-anchor-id="pour-approfondir-le-sujet">Pour approfondir le sujet</h2>
-<p>Dollinger, J., Dages, C., Bailly, J., Lagacherie, P. and M., Voltz , ONEMA, (eds.) <a href="https://professionnels.ofb.fr/sites/default/files/pdf/Dollinger%20at%20al%20(2014).pdf">Synthèse bibliographique</a> des différentes fonctions des réseaux de fossés aux échelles du fossé élémentaire et du réseau, ONEMA, 2014.</p>
-<p>Cécile Dagès, Jean-Stéphane Bailly, <u>J. Dollinger,</u> P. Lagacherie, Marc Voltz (2016). <em>Méthodologie de diagnostic et de gestion des réseaux de fossés agricoles infiltrants pour la limitation de la contamination des masses d’eau par les pesticides.</em> (Onema), <a href="https://hal.inrae.fr/hal-01593744" class="uri">https://hal.inrae.fr/hal-01593744</a></p>
 
-
-</section>
-
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">Les références</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-Abad_Hermoso_de_Mendoza_Marín_Orcaray_Santesteban_2021" class="csl-entry" role="listitem">
+Abad, Javier, Iranzu Hermoso de Mendoza, Diana Marín, Luis Orcaray, et Luis Gonzaga Santesteban. 2021a. <span>«&nbsp;Cover crops in viticulture. A systematic review (1): Implications on soil characteristics and biodiversity in vineyard&nbsp;»</span>. <em>OENO One</em> 55 (1): 295‑312. <a href="https://doi.org/10.20870/oeno-one.2021.55.1.3599">https://doi.org/10.20870/oeno-one.2021.55.1.3599</a>.
+</div>
+<div id="ref-Abad_Hermoso_de_Mendoza_Marín_Orcaray_Santesteban_2021b" class="csl-entry" role="listitem">
+———. 2021b. <span>«&nbsp;Cover crops in viticulture. A systematic review (2): Implications on vineyard agronomic performance&nbsp;»</span>. <em>OENO One</em> 55 (2): 1‑27. <a href="https://doi.org/10.20870/oeno-one.2021.55.2.4481">https://doi.org/10.20870/oeno-one.2021.55.2.4481</a>.
+</div>
+<div id="ref-carluer:hal-01656661" class="csl-entry" role="listitem">
+Carluer, Nadia, Clotaire Catalogne, Cécile Dagès, et Julien Tournebize. 2017. <span>«&nbsp;<span>Am<span>é</span>nager le territoire et g<span>é</span>rer les am<span>é</span>nagements : les zones tampons s<span>è</span>ches et humides, les foss<span>é</span>s pour lutter contre les pollutions diffuses par les produits phytosanitaires dans les aires de captage.</span>&nbsp;»</span> <em><span>Innovations Agronomiques</span></em> 57: 117‑39. <a href="https://doi.org/10.15454/1.5137822668081328E12">https://doi.org/10.15454/1.5137822668081328E12</a>.
+</div>
+<div id="ref-DAGES2015120" class="csl-entry" role="listitem">
+Dages, C., A. Samouëlian, S. Negro, V. Storck, O. Huttel, et M. Voltz. 2015. <span>«&nbsp;Seepage patterns of Diuron in a ditch bed during a sequence of flood events&nbsp;»</span>. <em>Science of The Total Environment</em> 537: 120‑28. https://doi.org/<a href="https://doi.org/10.1016/j.scitotenv.2015.07.130">https://doi.org/10.1016/j.scitotenv.2015.07.130</a>.
+</div>
+<div id="ref-dages:hal-01593744" class="csl-entry" role="listitem">
+Dagès, Cécile, Jean-Stéphane Bailly, Jeanne Dollinger, Philippe Lagacherie, et Marc Voltz. 2016. <span>«&nbsp;<span>M<span>é</span>thodologie de diagnostic et de gestion des r<span>é</span>seaux de foss<span>é</span>s agricoles infiltrants pour la limitation de la contamination des masses d’eau par les pesticides</span>&nbsp;»</span>. Contract. <span>Onema ; Inra</span>. <a href="https://hal.science/hal-01593744">https://hal.science/hal-01593744</a>.
+</div>
+<div id="ref-dages:hal-04178090" class="csl-entry" role="listitem">
+Dagès, Cécile, Marc Voltz, Jean-Stéphane Bailly, David Crevoisier, Jeanne Dollinger, et Christelle Margoum. 2023. <span>«&nbsp;<span>PITCH: A model simulating the transfer and retention of pesticides in infiltrating ditches and channel networks for management design purposes</span>&nbsp;»</span>. <em><span>Science of the Total Environment</span></em> 891 (septembre): 164602. <a href="https://doi.org/10.1016/j.scitotenv.2023.164602">https://doi.org/10.1016/j.scitotenv.2023.164602</a>.
+</div>
+<div id="ref-dollinger:hal-01306444" class="csl-entry" role="listitem">
+Dollinger, Jeanne, Cécile Dagès, Jean-Stéphane Bailly, Philippe Lagacherie, et Marc Voltz. 2015. <span>«&nbsp;<span>Managing ditches for agroecological engineering of landscape. A review</span>&nbsp;»</span>. <em><span>Agronomy for Sustainable Development</span></em> 35 (3): 999‑1020. <a href="https://doi.org/10.1007/s13593-015-0301-6">https://doi.org/10.1007/s13593-015-0301-6</a>.
+</div>
+<div id="ref-dollinger2014synthese" class="csl-entry" role="listitem">
+Dollinger, Jeanne, Cécile Dagès, Jean-Stéphane Bailly, Philippe Lagacherie, Marc Voltz, et Mois Année. 2014. <span>«&nbsp;Synth<span>è</span>se bibliographique des diff<span>é</span>rentes fonctions des r<span>é</span>seaux de foss<span>é</span>s aux <span>é</span>chelles du foss<span>é</span> <span>é</span>l<span>é</span>mentaire et du r<span>é</span>seau&nbsp;»</span>. <em>Office National de l’Eau et des Milieux Aquatiques (ONEMA)</em>.
+</div>
+<div id="ref-garcia:hal-03004389" class="csl-entry" role="listitem">
+Garcia, Léo, Florian Celette, Christian Gary, Raphaël Metral, et Aurelie Metay. 2020. <span>«&nbsp;<span>Vers des syst<span>è</span>mes de culture agro<span>é</span>cologiques - Usage des couverts v<span>é</span>g<span>é</span>taux sem<span>é</span>s ou spontan<span>é</span>s comme cultures de services dans les vignobles – Comment raisonner leur pilotage en viticulture ?</span>&nbsp;»</span> <em><span>Revue des Oenologues et des Techniques Vitivinicoles et Oenologiques</span></em>, nᵒ 177 (octobre): 28‑31. <a href="https://hal.inrae.fr/hal-03004389">https://hal.inrae.fr/hal-03004389</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -643,14 +548,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./L6_choixPulve.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Bien choisir son pulvérisateur</span>
+      <a href="./about.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">A propos</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./L8_enh.html" class="pagination-link">
-        <span class="nav-page-text">Enherber une partie des inter-rangs</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
