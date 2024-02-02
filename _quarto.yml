@@ -21,11 +21,13 @@ website:
           - L5_pulveConfinee.qmd
           - L6_choixPulve.qmd
           - L7_fosses.qmd
+          - L8_enh.qmd
           - L9_oad.qmd
       - section: "La stratégie exploitation"
         contents:
           - E1_AE11.qmd
       - about.qmd
+      - biblio.qmd
   page-footer:
     right: "Projet RIPPviti, 2023"
     left: "&copy; CC BY-NC-ND"

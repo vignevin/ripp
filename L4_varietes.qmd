@@ -12,12 +12,23 @@ format:
 ---
 
 | Intérêts environnementaux                    | Intérêts agronomiques | Contraintes de mise en oeuvre            | Acceptabilité                  |
-|----------------------------------------------|-----------------------|------------------------------------------|--------------------------------|
+|---------------------|----------------|-------------------|----------------|
 | Forte réduction des intrants phytosanitaires | Gain de productivité  | Investissement élevé. Contraintes en AOP | A prioriser en zones sensibles |
+
+
+::: {layout="[ 70, 30 ]"}
+::: {#first-column}
 
 Une variété résistante est le fruit d'un long processus de création combinant hybridation (fécondation avec un résistant) et introgression (rétrocroisements) afin d'insérer les caractères de résistance des vignes américaines et asiatiques dans le fond génétique des vignes européennes. La plantation de variétés résistantes à certaines maladies cryptogamiques (mildiou et oïdium) permet de réduire significativement l'utilisation de produits phytosanitaires.
 
-![Grappe de Floréal à maturité, réseau OSCAR](images/L4_FlorealGrappe.png)
+:::
+
+::: {#second-column}
+![Grappe de Floréal à maturité, réseau OSCAR](images/L4_FlorealGrappe.png){width="225"}
+
+:::
+:::
+
 
 ## Quelle efficacité sur la réduction de l'utilisation des produits phytosanitaires ?
 
@@ -57,7 +68,7 @@ Sélectionner en priorité les parcelles à enjeux (zones sensibles). La plantat
 Il est possible de constater la réapparition de maladies normalement gérées par les couvertures mildiou/oïdium (Anthracnose, black rot, érinose). Maintenir une protection minimale !
 :::
 
-## Pour aller plus loin
+## Actions complémentaires
 
 Lors des traitements recommandés, utilisez un appareil bien réglé et respecter les bonnes pratiques de pulvérisation.
 
@@ -65,7 +76,7 @@ En jet porté, pour réduire la dérive, utiliser des buses antidérives : [Util
 
 Dans les zones sensibles, la plantation de haies peut venir en complément pour limiter les risques de dérive : [Planter des haies antidérive à proximité des habitations](L2_haies.qmd)
 
-## Ressources complémentaires
+## Pour approfondir le sujet
 
 -   [Fiches pratiques sur vignevin-occitanie](https://www.vignevin-occitanie.com/fiches-pratiques/les-varietes-resistantes/)
 

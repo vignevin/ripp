@@ -1,0 +1,77 @@
+---
+title: "Enherber une partie des inter-rangs"
+format: 
+  html:
+    toc: true
+  pdf:
+    documentclass: scrreprt
+    number-sections: true
+    colorlinks: true
+  docx:
+    toc: true
+---
+
++-----------------------------------+--------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------------+
+| Intérêts environnementaux         | Intérêts agronomiques                      | Contraintes de mise en oeuvre                                 | Acceptabilité                                                  |
++===================================+============================================+===============================================================+================================================================+
+| Diminution d'usage des herbicides | Réduction du ruissellement et de l'érosion | Nécessite un pilotage fin pour éviter la concurrence hydrique | Élevée si les adventices ou les couverts sont faciles à gérées |
+|                                   |                                            |                                                               |                                                                |
+|                                   | Restitution de matière organique           | Croissance très variable                                      |                                                                |
++-----------------------------------+--------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------------+
+
+L'enherbement des inter-rangs consiste à gérer ou implanter une couverture végétale entre les rangs de vignes.
+
+## Quelle réduction des impacts environnementaux ?
+
+L'enherbement peut représenter une source importante de matières organiques aériennes et racinaires qui favorisent l'activité vie biologique du sol @fig-services. Par son rôle structurant, il augmente la stabilité structurale, la porosité et la portance du sol. L'enherbement en favorisant l'infiltration, diminue le ruissellement et limite donc l'érosion et les transferts de pesticides provoqués par la pluie. Cette pratique représente donc un atout non négligeable pour la biodiversité et propose un véritable panel de services pour l'environnement.
+
+![Services et dysservices des cultures de services. Violet : services d'approvisionnement ; vert : services de régulation et conservation ; bleu : services culturels ; rouge : dysservices. Garcia et al., 2020](images/L8_services.png){#fig-services width="654"}
+
+## Quels impacts agronomiques ?
+
+L'enherbement des inter-rangs viticoles offre des avantages agronomiques notables en **améliorant la biodiversité du sol et en favorisant une microflore bénéfique.**
+
+L'enherbement entre les rangs de vigne contribue à la réduction de l'érosion du sol et à l'amélioration de la structure du sol, favorisant ainsi une meilleure infiltration de l'eau, particulièrement souhaitable en contexte méditerranéen.
+
+Enfin, l'enherbement des inter-rangs viticoles sur le cycle de l'azote est la promotion de la fixation biologique de l'azote atmosphérique, via l'introduction de légumineuses. L'enherbement des inter-rangs viticoles peut également avoir un effet positif sur le cycle de l'azote en favorisant la minéralisation de la matière organique du sol.
+
+::: callout-warning
+Attention, l'enherbement peut générer une concurrence hydro-azotée qui peut se traduire par une réduction de la vigueur et éventuellement une baisse du rendement de la vigne, particulièrement en contexte méditerranéen. Pour être durable, une stratégie d'enherbement doit donc être adaptée au contexte de la parcelle.
+:::
+
+## Comment mettre en oeuvre un enherbement ?
+
+### Quelles parcelles enherber ?
+
+La majorité des parcelles âgées d'au-moins 3 ans peuvent être enherbées, à l'exception des parcelles non-mécanisables et celles aux sols superficiels souffrant d'un important stress hydrique. La décision d'enherber doit se faire au niveau de la parcelle, en définissant au préalable les objectifs recherchés (concurrence, structure du sol, érosion...). On fait l'hypothèse qu'au-delà de trois ans, le système racinaire de la vigne est bien installé.
+
+Les parcelles gélives peuvent également être enherbées à condition de réaliser une tonte avant le débourrement.
+
+### Comment gérer la concurrence ?
+
+Une stratégie d'enherbement doit être définie en fonction des principaux services attendus à l'échelle de la parcelle viticole (en premier lieu le service de production) et des contraintes (notamment pédoclimatiques) de production. La @fig-pilotage résume les différents choix à réaliser pour définir cette stratégie :
+
+1.  Choix de l'espèce à semer (et densité et période de semis)
+2.  Structure spatiale de l'implantation de l'espèce (tous les inter-rangs, 1 inter-rang sur 2 par exemple)
+3.  Période de présence (hivernale/ temporaire/ permanente)
+4.  Outil de destruction (incluant la gestion des résidus).
+
+![Cadre d'analyse pour le pilotage des cultures de services dans les vignobles. R : récolte, CF : chute des feuilles, D : débourrement, F : floraison, N : nouaison, V : véraison. (d'après Garcia et al., 2020)](images/L8_pilotage.png){#fig-pilotage fig-align="center" width="629"}
+
+En fonction du climat observé, responsable de la croissance des plantes et des risques de compétition avec la vigne, des ajustements tactiques peuvent être réalisés afin de fournir les services visés et atteindre les objectifs de production.
+
+### Comment démarrer ?
+
+Les contraintes et objectifs permettent de définir la stratégie suivie du semis à la destruction. Il est conseillé d'introduire progressivement l'enherbement sur la parcelle et sur l'exploitation. Par exemple, on peut commencer par un enherbement un inter-rang sur deux, ou tout simplement les rangs de passage.
+
+L'enherbement spontané est souvent l'option la plus simple à mettre en œuvre : pas besoin de semis et les espèces sont, par définition, adaptées au climat et au sol. Leur facilité de destruction est aussi un avantage dans la gestion de la concurrence et facilite la mise en place de l'itinéraire technique, toutefois ce n'est pas le cas de toutes les espèces spontanées (chiendent notamment).
+
+## Actions complémentaires
+
+Il est possible [d'enherber les fossés](L7_fosses.qmd). Des [bandes enherbées](https://professionnels.ofb.fr/fr/node/1196#bande) peuvent aussi être mise en place pour préserver les cours d'eau.
+
+## Pour approfondir le sujet
+
+L'enherbement de la vigne en [10 questions réponses](https://www.vignevin.com/article/lenherbement-de-la-vigne/)
+
+Des [fiches pratiques](https://www.vignevin-occitanie.com/fiches-pratiques/enherbement-permanent/) sur l'enherbement permanent sur le site de l'IFV Occitanie
