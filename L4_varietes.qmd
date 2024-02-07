@@ -12,27 +12,22 @@ format:
 ---
 
 | Intérêts environnementaux                    | Intérêts agronomiques | Contraintes de mise en oeuvre            | Acceptabilité                  |
-|---------------------|----------------|-------------------|----------------|
+|--------------------|-----------------|------------------|-----------------|
 | Forte réduction des intrants phytosanitaires | Gain de productivité  | Investissement élevé. Contraintes en AOP | A prioriser en zones sensibles |
-
 
 ::: {layout="[ 70, 30 ]"}
 ::: {#first-column}
-
-Une variété résistante est le fruit d'un long processus de création combinant hybridation (fécondation avec un résistant) et introgression (rétrocroisements) afin d'insérer les caractères de résistance des vignes américaines et asiatiques dans le fond génétique des vignes européennes. La plantation de variétés résistantes à certaines maladies cryptogamiques (mildiou et oïdium) permet de réduire significativement l'utilisation de produits phytosanitaires.
-
+L'obtention d'une variété résistante vis-à-vis d'un pathogène est le résultat d'un long processus de plusieurs cycles d'hybridation afin d'insérer les caractères de résistance des vignes américaines et asiatiques dans le fond génétique des vignes européennes. L'objectif est de mêler résistances aux pathogènes et qualités organoleptiques et gustatives. La plantation de variétés résistantes à certaines maladies cryptogamiques (mildiou et oïdium) permet de réduire significativement l'utilisation de produits phytosanitaires.
 :::
 
 ::: {#second-column}
 ![Grappe de Floréal à maturité, réseau OSCAR](images/L4_FlorealGrappe.png){width="225"}
-
 :::
 :::
-
 
 ## Quelle efficacité sur la réduction de l'utilisation des produits phytosanitaires ?
 
-Ces nouvelles variétés possèdent un comportement identique à toutes espèces de *Vitis vinifera*, résistance au mildiou et à l'oïdium en plus.
+Ces nouvelles variétés possèdent un comportement identique aux autres variétés de l'espèce *Vitis vinifera*, résistances au mildiou et à l'oïdium en plus.
 
 Afin d'éviter un contournement des résistances, il est préconisé d'appliquer des traitements fongicides de façon réduite (1 à 2 traitements annuels). De plus, d'autres maladies sont à prendre en compte et peuvent resurgir en l'absence totale de traitement (black rot, anthracnose).
 
@@ -44,13 +39,11 @@ L'IFT fongicides a été en moyenne réduit de 83% en 2022 sur le réseau [OSCAR
 
 En corolaire, la diminution du recours aux produits phytosanitaires sur la parcelle limite la contamination du sol et de l'air lors des traitements.
 
-À l'échelle du paysage, le déploiement de cépages moins sensibles à certaines maladies permet de limiter leur propagation.
-
 Observer régulièrement vos parcelles et signalez toute anomalie à votre conseiller. Vous pouvez aussi partager vos observations sur le réseau OSCAR.
 
 ## Quels impacts agronomiques et sur les vins ?
 
-Ces variétés étant relativement nouvelles, les références sur leur comportement et les vins produits sont en cours d'acquisition. Consultez les fiches en lignes [ici](https://observatoire-cepages-resistants.fr/les-fiches-cepages-resistants/) ou [là](https://www.vignevin-occitanie.com/fiches-pratiques/les-varietes-resistantes/) pour connaitre leurs caractéristiques agronomiques et leur aptitude œnologiques.
+Ces variétés étant relativement nouvelles, les références sur leur comportement et les vins produits sont en cours d'acquisition. Consultez les fiches en lignes [ici](https://observatoire-cepages-resistants.fr/les-fiches-cepages-resistants/) ou [là](https://www.vignevin-occitanie.com/fiches-pratiques/les-varietes-resistantes/) pour connaitre leurs caractéristiques agronomiques et leurs aptitudes œnologiques.
 
 ## Planter des variétés résistantes
 
@@ -60,7 +53,7 @@ Favoriser les variétés polygéniques, c'est-à-dire possédant plusieurs gène
 
 ### La plantation
 
-Sélectionner en priorité les parcelles à enjeux (zones sensibles). La plantation est mise en œuvre de façon classique.
+Sélectionner en priorité les parcelles à enjeux (zones sensibles, hors ZNT). La plantation est mise en œuvre de façon classique.
 
 ::: callout-warning
 ## Attention aux autres maladies !
