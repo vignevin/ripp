@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "A propos",
     "section": "",
-    "text": "Ce site a été réalisé dans le cadre du projet RIPP-Viti.\nDate de création : 2023\nCrédits : IFV, INRAE"
+    "text": "Ce site a été réalisé dans le cadre du projet RIPP-Viti.\nDate de création : 2023\nContributeurs :\n\nINRAE : Marc Voltz, Cécile Dagès, Aurélie Metay, Raphaël Métral, Carole Bedos, Laure Hossard, Jean-Paul Douzals, Sonia Grimbuhler\nIFV : Xavier Delpuech, Sébastien Codis, Adrien Vergès, Alexandre Davy, Loic Lecunff\n\nCrédits : IFV, INRAE"
   },
   {
     "objectID": "biblio.html",
@@ -14,46 +14,53 @@
     "text": "Vous trouverez ci-dessous une liste de références bibliographiques utilisées pour la rédaction des fiches."
   },
   {
-    "objectID": "biblio.html#fiche-sur-les-fossés",
-    "href": "biblio.html#fiche-sur-les-fossés",
+    "objectID": "biblio.html#fiche-gérer-les-fossés",
+    "href": "biblio.html#fiche-gérer-les-fossés",
     "title": "Bibliographie",
-    "section": "Fiche sur les fossés",
-    "text": "Fiche sur les fossés\n\nDagès et al. (2016)\nDagès et al. (2023)\nDages et al. (2015)\nDollinger et al. (2015)\nDollinger et al. (2014)\nCarluer et al. (2017)"
+    "section": "Fiche “Gérer les fossés”",
+    "text": "Fiche “Gérer les fossés”\n\nDagès et al. (2016)\nDagès et al. (2023)\nDages et al. (2015)\nDollinger et al. (2015)\nDollinger et al. (2014)\nCarluer et al. (2017)"
   },
   {
-    "objectID": "biblio.html#fiche-sur-lenherbement",
-    "href": "biblio.html#fiche-sur-lenherbement",
+    "objectID": "biblio.html#fiche-enherber-une-partie-des-inter-rangs",
+    "href": "biblio.html#fiche-enherber-une-partie-des-inter-rangs",
     "title": "Bibliographie",
-    "section": "Fiche sur l’enherbement",
-    "text": "Fiche sur l’enherbement\n\nGarcia et al. (2020)\nAbad et al. (2021a)\nAbad et al. (2021b)"
+    "section": "Fiche “Enherber une partie des inter-rangs”",
+    "text": "Fiche “Enherber une partie des inter-rangs”\n\nGarcia et al. (2020)\nAbad et al. (2021a)\nAbad et al. (2021b)"
+  },
+  {
+    "objectID": "biblio.html#fiches-sur-les-stratégies-dexploitations",
+    "href": "biblio.html#fiches-sur-les-stratégies-dexploitations",
+    "title": "Bibliographie",
+    "section": "Fiches sur les stratégies d’exploitations",
+    "text": "Fiches sur les stratégies d’exploitations\n\nHossard, Schneider, et Voltz (2022)"
   },
   {
     "objectID": "E1_AE11.html",
     "href": "E1_AE11.html",
-    "title": "Comment changer sans tout bouleverser ?",
+    "title": "Stratégies d’évolutions des pratiques et impacts potentiels sur la durabilité",
     "section": "",
-    "text": "Avec un vignoble majoritairement IGP (75% de la production), l’exploitation est labellisée HVE et livre son raisin à la cave coopérative. Rajouter gamme de SAU\nL’exploitation mobilise environ 2 équivalents temps plein à l’année, dispose d’une voûte pneumatique pour les traitements. Elle n’est pas équipée en intercep.\nSa capacité d’investissement est d’environ 15 000 € par an."
+    "text": "L'exploitation est labellisée HVE et livre son raisin à la cave coopérative. Sa surface est d'une vingtaine d'hectares avec un vignoble majoritairement IGP.\nL’exploitation mobilise environ 2 équivalents temps plein à l’année, dispose d’une voûte pneumatique pour les traitements. Elle n’est pas équipée en intercep pour le désherbage mécanique.\nSa capacité d’investissement est d’environ 15 000 € par an."
   },
   {
     "objectID": "E1_AE11.html#les-pratiques-actuelles-de-lexploitation",
     "href": "E1_AE11.html#les-pratiques-actuelles-de-lexploitation",
-    "title": "Comment changer sans tout bouleverser ?",
+    "title": "Stratégies d’évolutions des pratiques et impacts potentiels sur la durabilité",
     "section": "Les pratiques actuelles de l’exploitation",
-    "text": "Les pratiques actuelles de l’exploitation\n\nLa protection phytosanitaire\nL’exploitation pratique le sous-dosage pour les traitements en début de saison lorsqu’il y a peu de végétation à protéger.\nPour gérer les cicadelles et les vers de la grappe 2 à 3 traitements insecticides sont appliqués par an (produits double cible) .\n\n\n\nIFT moyen sur l’exploitation\n\n\n\n\nGestion de l’herbe\nLes inter-rangs sont labourés, environ 4 passages par an dont 1 labour d’automne. Sur le rang, l’exploitation a recours au désherbage chimique, avec 2 passages de glyphosate et 1 anti-germinatif."
+    "text": "Les pratiques actuelles de l’exploitation\n\nLa protection phytosanitaire\nL’exploitation pratique le sous-dosage pour les traitements en début de saison lorsqu’il y a peu de végétation à protéger.\nPour gérer les cicadelles et les vers de la grappe 2 à 3 traitements insecticides sont appliqués par an (produits double cible).\n\n\n\nIFT moyen sur l’exploitation\n\n\n\n\nGestion de l’herbe\nLes inter-rangs sont labourés, environ 4 passages par an dont 1 labour d’automne. Sur le rang, l’exploitation a recours au désherbage chimique, avec 2 passages de glyphosate et 1 anti-germinatif."
   },
   {
     "objectID": "E1_AE11.html#quelles-évolutions-des-pratiques",
     "href": "E1_AE11.html#quelles-évolutions-des-pratiques",
-    "title": "Comment changer sans tout bouleverser ?",
+    "title": "Stratégies d’évolutions des pratiques et impacts potentiels sur la durabilité",
     "section": "Quelles évolutions des pratiques ?",
     "text": "Quelles évolutions des pratiques ?\n\nDes leviers simples et peu contraignants à mettre en œuvre\n\nDes Leviers simples et peu contraignants\n\n\n\n\n\n\nObjectif\nPratique\n\n\n\n\nRéduire l’IFT\nMieux raisonner les traitements et optimiser les réglages de son pulvérisateur\n\n\nRéduire les risques de transfert dans les eaux\nMettre en œuvre l’enherbement systématique des tournières, supprimer le labour d’automne et sur les parcelles où c’est possible, enherber une partie des inter-rangs.\n\n\nProtéger les riverains\nPlanter des haies à proximité des habitations\n\n\n\n\n\n\nMise en oeuvre des leviers sur le parcellaire de l’exploitation\n\n\n\n\nRéduction des impacts\nto be continued…"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Fiches RIPP",
+    "title": "Introduction",
     "section": "",
-    "text": "Vous trouverez sur ces pages des fiches pratiques issues du projet RIPP viti.\n\n\n\n\n\n\nMise en garde\n\n\n\n!!! SITE EN CONSTRUCTION !!! Livraison prévue en mars 2024, soyez patient :) !"
+    "text": "Mise en garde\n\n\n\n!!! SITE EN CONSTRUCTION !!! Livraison prévue en mars 2024, soyez patient :) !\n\n\nVous trouverez sur ces pages des fiches pratiques issues du projet RIPP viti “Réduire les impacts des produits phytosanitaires en viticulture méridionale à l’échelle territoriale”, (Ecophyto Recherche & Innovation 2020 - 2023)\nObjectifs\nMalgré les différentes incitations à réduire l’usage des produits phytosanitaires (PP), le secteur viticole reste très consommateur en pesticides.\nL’objectif de ce projet est l’élaboration de nouvelles stratégies de réduction d’usage et d’impact des PP en milieu viticole, qui soient territorialisées, durables et acceptables par la diversité des acteurs agricoles. Les stratégies envisagées reposent sur trois principes :\n\nla combinaison de leviers de réduction d’usage à l’échelle parcellaire (ex.: conduite bas-intrants, biocontrôle) avec l’implantation de zones tampons limitant la dispersion des PP à l’échelle paysagère,\nla modulation territoriale des leviers parcellaires en fonction des contraintes d’exploitation viticole (ex. sol, climat, objectifs de rendements) afin de favoriser l’acceptabilité et la durabilité des leviers envisagés,\nla mise en place d’une approche participative à l’échelle territoriale pour définir les règles de modulation des leviers ainsi que les objectifs de réduction d’impact collectif sur les écosystèmes et les riverains. Le projet est expérimenté sur le bassin versant du Rieutort (Hérault).\n\nLa démarche participative associe un groupe d’acteurs viticoles et un groupe d’experts (agronomes, hydrologues…), qui élaborent en interaction les stratégies selon les principes précédents. Elle s’appuie sur un diagnostic :\n\nd’impact environnemental des stratégies élaborées par simulation numérique de l’exposition des riverains et des contaminations hydrologiques,\nd’impact agronomique (évaluation des risques de pertes de rendement).\n\nPartenaires :\n\nUMR LISAH\nUMR Absys\nUMR Ecosys\nUMR ITAP\nChambre Régionale d’Agriculture Occitanie\nCaptages Occitanie EPTB Orb & Libron\nAgence de l’Eau Rhône-Méditerranée-Corse\nInstitut Français de la Vigne et du Vin\n\nFinancement : Ecophyto Recherche & Innovation, Office Français de la Biodiversité."
   },
   {
     "objectID": "L1_optiPulve.html",
@@ -70,18 +77,18 @@
     "text": "Comment optimiser son appareil ?\n\nEntretenir et régler son appareil en début et en cours de saison\nÉtalonner le pulvérisateur avant chaque campagne et pendant la saison par une mesure du débit de chaque diffuseur pour vérifier le volume/ha réellement appliqué.\nVeiller à ce que la répartition des débits dans les différents organes du pulvérisateur permette de pulvériser la même dose sur chaque face de rang.\nVérifier le bon fonctionnement des organes de protection (grille, prise de force…).\nN’oubliez pas de réaliser le contrôle technique périodique de votre appareil (tous les 3 ans), qui est obligatoire !\n\n\nTraiter dans de bonnes conditions météo\nEffectuer le traitement avec la plus faible vitesse de vent possible. Un vent soutenu provoque une forte dérive. La réglementation interdit de traiter par vent au-delà de 19 km/h.\nEviter les interventions aux heures chaudes de la journée. Plus la température est élevée, plus la vitesse d’évaporation des gouttes avant interception par la végétation est importante, surtout pour les faces de rangs traitées par les canons, et donc moins il y aura de produit qui atteint la plante.\n\n\nAdapter le nombre de diffuseurs à la hauteur de végétation\nEn début de végétation, fermer les diffuseurs inutiles. Cela permet de limiter le gaspillage de bouillie. Dans tous les cas, les voûtes pneumatiques ne sont pas les pulvérisateurs les plus indiqués pour traiter en début de végétation, en raison des risques de dérive.\n\n\n\nFermer les diffuseurs inutiles !\n\n\n\n\nOrienter précisément les diffuseurs\n\n\n\nA chaque traitement, bien orienter les diffuseurs ouverts vers la végétation. Une pulvérisation d’eau dans la vigne permet de réaliser ce réglage visuellement, éventuellement en s’aidant d’une plaque de fer rouillée. Il est aussi possible de contrôler la répartition du produit dans la végétation à l’aide de papiers hydro-sensibles.\n\n\n\n\n\nRéglage de l’orientation des diffuseurs à la plaque de fer\n\n\n\n\n\n\n\nRéduire le flux d’air\nEn pneumatique, les gouttelettes sont formées par la fragmentation d’une veine de liquide dans un courant d’air rapide (80-120 m/s), générant de fines gouttelettes (100 à 150 µm). Plus le flux est rapide, plus les gouttelettes générées seront fines. On peut réduire la vitesse du flux d’air, en particulier en début de saison."
   },
   {
-    "objectID": "L1_optiPulve.html#pour-aller-plus-loin",
-    "href": "L1_optiPulve.html#pour-aller-plus-loin",
+    "objectID": "L1_optiPulve.html#actions-complémentaires",
+    "href": "L1_optiPulve.html#actions-complémentaires",
     "title": "Optimiser sa voûte pneumatique",
-    "section": "Pour aller plus loin",
-    "text": "Pour aller plus loin\n\n\n\nAvec certains modèles, il est possible de changer de technologie de pulvérisation et de changer votre voûte pneumatique en voûte en jet porté, avec l’ajout de porte buses.\nCe type d’évolution est encore peu fréquent, mais permet de faire varier la vitesse d’air sans agir sur la taille des gouttes. D’autre part, la possibilité d’utiliser des buses antidérive permet de réduire significativement la dérive sans pénaliser la qualité d’application.\nParlez-en à votre constructeur/revendeur qui vous indiquera les différentes options.\n\n\n\n\n\nVoute pneumatique équipée en jet porté"
+    "section": "Actions complémentaires",
+    "text": "Actions complémentaires\n\n\n\nAvec certains modèles, il est possible de changer de technologie de pulvérisation et de changer votre voûte pneumatique en voûte en jet porté, avec l’ajout de porte buses.\nCe type d’évolution est encore peu fréquent, mais permet de faire varier la vitesse d’air sans agir sur la taille des gouttes. D’autre part, la possibilité d’utiliser des buses antidérive permet de réduire significativement la dérive sans pénaliser la qualité d’application.\nParlez-en à votre constructeur/revendeur qui vous indiquera les différentes options.\n\n\n\n\n\nVoute pneumatique équipée en jet porté"
   },
   {
-    "objectID": "L1_optiPulve.html#ressources-complémentaires",
-    "href": "L1_optiPulve.html#ressources-complémentaires",
+    "objectID": "L1_optiPulve.html#pour-approfondir-le-sujet",
+    "href": "L1_optiPulve.html#pour-approfondir-le-sujet",
     "title": "Optimiser sa voûte pneumatique",
-    "section": "Ressources complémentaires",
-    "text": "Ressources complémentaires\nFiche pratique sur le réglage du matériel\nGuide pratique de réglage des pulvérisateurs"
+    "section": "Pour approfondir le sujet",
+    "text": "Pour approfondir le sujet\nFiche pratique sur le réglage du matériel\nGuide pratique de réglage des pulvérisateurs"
   },
   {
     "objectID": "L2_haies.html",
@@ -105,25 +112,18 @@
     "text": "Comment obtenir une haie antidérive efficace ?\n\nAssurer la présence de végétation lors des traitements\nIl faut que le feuillage des espèces constituant la haie soit suffisamment dense pour intercepter les gouttelettes de pulvérisation, dès les premiers traitements et jusqu’à la fin de la période d’application. Privilégier les espèces pérennes ou précoces pour les traitements de début du printemps. La haie doit être dense, homogène et sans interruption.\n\n\nAssurer une hauteur minimale\nSa hauteur doit être au moins égale à celle de la vigne. Plus la haie est haute, plus celle-ci sera efficace.\n\n\nChoisir des espèces adaptées\nChoisir des espèces diversifiées, locales, faciles à entretenir et éviter les espèces envahissantes : cela permet d’optimiser les services rendus tout en minimisant l’entretien.\nMixer les espèces (4-5 espèces différentes) pour apporter de la biodiversité.\n\n\nEntretenir sa haie\nVeiller à avoir une haie homogène et sans trou avec une taille régulière, en automne ou hiver.\nPrévoir si nécessaire des apports d’eau les premières années.\nRemplacer les plants morts pour éviter les trouées dans la haie."
   },
   {
-    "objectID": "L2_haies.html#pour-aller-plus-loin",
-    "href": "L2_haies.html#pour-aller-plus-loin",
+    "objectID": "L2_haies.html#actions-complémentaires",
+    "href": "L2_haies.html#actions-complémentaires",
     "title": "Planter des haies antidérive à proximité des habitations",
-    "section": "Pour aller plus loin",
-    "text": "Pour aller plus loin\nEn alternative à une haie naturelle, la mise en place de filets en bordure de parcelle permet de limiter la dérive de pulvérisation. Il est possible d’utiliser et de déployer les filets antidérives uniquement pendant les traitements, ce qui permet d’écarter les poteaux de 5 à 10 m au lieu de 2 à 3 m comme pour les brise-vent classiques. Ceci permet un moindre coût en matériel et main d’œuvre."
+    "section": "Actions complémentaires",
+    "text": "Actions complémentaires\nEn alternative à une haie naturelle, la mise en place de filets en bordure de parcelle permet de limiter la dérive de pulvérisation. Il est possible d’utiliser et de déployer les filets antidérives uniquement pendant les traitements, ce qui permet d’écarter les poteaux de 5 à 10 m au lieu de 2 à 3 m comme pour les brise-vent classiques. Ceci permet un moindre coût en matériel et main d’œuvre."
   },
   {
-    "objectID": "L2_haies.html#ressources-complémentaires",
-    "href": "L2_haies.html#ressources-complémentaires",
+    "objectID": "L2_haies.html#pour-approfondir-le-sujet",
+    "href": "L2_haies.html#pour-approfondir-le-sujet",
     "title": "Planter des haies antidérive à proximité des habitations",
-    "section": "Ressources complémentaires :",
-    "text": "Ressources complémentaires :\nUn article sur l’évaluation de l’efficacité des filets antidérives.\nUne plaquette pdf sur les systèmes antidérives."
-  },
-  {
-    "objectID": "L2_haies.html#sources",
-    "href": "L2_haies.html#sources",
-    "title": "Planter des haies antidérive à proximité des habitations",
-    "section": "Sources",
-    "text": "Sources\nLes données de dérive ont été obtenues dans le cadre du projet CAPRIV avec le dispositif EoleDrift de l’UMT EcoTech (Montpellier, France)"
+    "section": "Pour approfondir le sujet",
+    "text": "Pour approfondir le sujet\nUn article sur l’évaluation de l’efficacité des filets antidérives.\nUne plaquette pdf sur les systèmes antidérives.\nLe guide complet du projet REPP’AIR (Fiches n°23 et n°24)."
   },
   {
     "objectID": "L3_buses.html",
@@ -154,25 +154,18 @@
     "text": "Bien utiliser les buses antidérives\n\nTraiter en jet projeté en début de saison avec les buses à injection d’air\nPour les tous premiers traitements en début de végétation, en l’absence de vent fort, l’assistance d’air est inutile quand les diffuseurs sont positionnés à proximité de la végétation (en particulier dans le cas des pulvérisateurs face par face et panneaux récupérateurs) et peut générer de la dérive : couper la ventilation pour traiter en jet projeté avec des buses à injection d’air.\n\n\nPulvériser à la bonne pression\nQuel que soit le type de buses (classiques ou injection d’air), il est inutile d’utiliser les buses à des pressions trop élevées qui vont générer des gouttes trop petites qui vont partir en dérive. Dans ces conditions, une partie du produit n’atteint même pas la végétation.\n\n\nAssurer un bon nettoyage de son pulvérisateur\nLes buses à injection d’air sont plus sensibles au bouchage. Nettoyer régulièrement votre pulvérisateur et adapter la filtration avec au minimum un filtre d’aspiration et des filtres de tronçons.\nAprès chaque journée de pulvérisation, démonter les buses et les filtres, les faire tremper dans de l’eau ou un produit et les remonter avant le traitement.\nVérifier l’état des buses et les changer si elles présentent des signes d’usure."
   },
   {
-    "objectID": "L3_buses.html#pour-aller-plus-loin",
-    "href": "L3_buses.html#pour-aller-plus-loin",
+    "objectID": "L3_buses.html#actions-complémentaires",
+    "href": "L3_buses.html#actions-complémentaires",
     "title": "Utiliser des buses antidérive sur les pulvérisateurs à jet porté",
-    "section": "Pour aller plus loin",
-    "text": "Pour aller plus loin\nEn pleine végétation, un panachage des buses est également possible si on souhaite conserver de fines gouttelettes en face de la zone fructifère. Les buses antidérive seront alors installées sur les diffuseurs supérieurs pour limiter le risque de dérive."
+    "section": "Actions complémentaires",
+    "text": "Actions complémentaires\nEn pleine végétation, un panachage des buses est également possible si on souhaite conserver de fines gouttelettes en face de la zone fructifère. Les buses antidérive seront alors installées sur les diffuseurs supérieurs pour limiter le risque de dérive."
   },
   {
-    "objectID": "L3_buses.html#ressources-complémentaires",
-    "href": "L3_buses.html#ressources-complémentaires",
+    "objectID": "L3_buses.html#pour-approfondir-le-sujet",
+    "href": "L3_buses.html#pour-approfondir-le-sujet",
     "title": "Utiliser des buses antidérive sur les pulvérisateurs à jet porté",
-    "section": "Ressources complémentaires",
-    "text": "Ressources complémentaires\n\nLe projet Topps-Prowadis sur la réduction de la dérive\nPourquoi et comment utiliser des buses antidérive ?\n\n\n\nMaîtrise de la dérive en pulvérisation"
-  },
-  {
-    "objectID": "L3_buses.html#sources-biblio",
-    "href": "L3_buses.html#sources-biblio",
-    "title": "Utiliser des buses antidérive sur les pulvérisateurs à jet porté",
-    "section": "Sources biblio",
-    "text": "Sources biblio"
+    "section": "Pour approfondir le sujet",
+    "text": "Pour approfondir le sujet\n\nLe guide complet du projet REPP’AIR (Fiches n°16).\nLe projet Topps-Prowadis sur la réduction de la dérive\nPourquoi et comment utiliser des buses antidérive ?\n\n\n\nMaîtrise de la dérive en pulvérisation"
   },
   {
     "objectID": "L4_varietes.html",
@@ -186,21 +179,21 @@
     "href": "L4_varietes.html#quelle-efficacité-sur-la-réduction-de-lutilisation-des-produits-phytosanitaires",
     "title": "Planter des variétés résistantes",
     "section": "Quelle efficacité sur la réduction de l’utilisation des produits phytosanitaires ?",
-    "text": "Quelle efficacité sur la réduction de l’utilisation des produits phytosanitaires ?\nCes nouvelles variétés possèdent un comportement identique à toutes espèces de Vitis vinifera, résistance au mildiou et à l’oïdium en plus.\nAfin d’éviter un contournement des résistances, il est préconisé d’appliquer des traitements fongicides de façon réduite (1 à 2 traitements annuels). De plus, d’autres maladies sont à prendre en compte et peuvent resurgir en l’absence totale de traitement (black rot, anthracnose).\nDans certaines situations de forte pression, un traitement fongicide en post-récolte peut être pertinent : discutez-en avec votre conseiller technique.\nL’IFT fongicides a été en moyenne réduit de 83% en 2022 sur le réseau OSCAR, l’observatoire national du déploiement des cépages résistants.\n\n\n\nRéduction moyenne de l’IFT sur le réseau OSCAR en 2022\n\n\nEn corolaire, la diminution du recours aux produits phytosanitaires sur la parcelle limite la contamination du sol et de l’air lors des traitements.\nÀ l’échelle du paysage, le déploiement de cépages moins sensibles à certaines maladies permet de limiter leur propagation.\nObserver régulièrement vos parcelles et signalez toute anomalie à votre conseiller. Vous pouvez aussi partager vos observations sur le réseau OSCAR."
+    "text": "Quelle efficacité sur la réduction de l’utilisation des produits phytosanitaires ?\nCes nouvelles variétés possèdent un comportement identique aux autres variétés de l’espèce Vitis vinifera, résistances au mildiou et à l’oïdium en plus.\nAfin d’éviter un contournement des résistances, il est préconisé d’appliquer des traitements fongicides de façon réduite (1 à 2 traitements annuels). De plus, d’autres maladies sont à prendre en compte et peuvent resurgir en l’absence totale de traitement (black rot, anthracnose).\nDans certaines situations de forte pression, un traitement fongicide en post-récolte peut être pertinent : discutez-en avec votre conseiller technique.\nL’IFT fongicides a été en moyenne réduit de 83% en 2022 sur le réseau OSCAR, l’observatoire national du déploiement des cépages résistants.\n\n\n\nRéduction moyenne de l’IFT sur le réseau OSCAR en 2022\n\n\nEn corolaire, la diminution du recours aux produits phytosanitaires sur la parcelle limite la contamination du sol et de l’air lors des traitements.\nObserver régulièrement vos parcelles et signalez toute anomalie à votre conseiller. Vous pouvez aussi partager vos observations sur le réseau OSCAR."
   },
   {
     "objectID": "L4_varietes.html#quels-impacts-agronomiques-et-sur-les-vins",
     "href": "L4_varietes.html#quels-impacts-agronomiques-et-sur-les-vins",
     "title": "Planter des variétés résistantes",
     "section": "Quels impacts agronomiques et sur les vins ?",
-    "text": "Quels impacts agronomiques et sur les vins ?\nCes variétés étant relativement nouvelles, les références sur leur comportement et les vins produits sont en cours d’acquisition. Consultez les fiches en lignes ici ou là pour connaitre leurs caractéristiques agronomiques et leur aptitude œnologiques."
+    "text": "Quels impacts agronomiques et sur les vins ?\nCes variétés étant relativement nouvelles, les références sur leur comportement et les vins produits sont en cours d’acquisition. Consultez les fiches en lignes ici ou là pour connaitre leurs caractéristiques agronomiques et leurs aptitudes œnologiques."
   },
   {
     "objectID": "L4_varietes.html#planter-des-variétés-résistantes",
     "href": "L4_varietes.html#planter-des-variétés-résistantes",
     "title": "Planter des variétés résistantes",
     "section": "Planter des variétés résistantes",
-    "text": "Planter des variétés résistantes\n\nChoisir une variété adaptée\nFavoriser les variétés polygéniques, c’est-à-dire possédant plusieurs gènes de résistance au mildiou et à l’oïdium afin d’éviter un risque de contournement de la résistance par les champignons.\n\n\nLa plantation\nSélectionner en priorité les parcelles à enjeux (zones sensibles). La plantation est mise en œuvre de façon classique.\n\n\n\n\n\n\nAttention aux autres maladies !\n\n\n\nIl est possible de constater la réapparition de maladies normalement gérées par les couvertures mildiou/oïdium (Anthracnose, black rot, érinose). Maintenir une protection minimale !"
+    "text": "Planter des variétés résistantes\n\nChoisir une variété adaptée\nFavoriser les variétés polygéniques, c’est-à-dire possédant plusieurs gènes de résistance au mildiou et à l’oïdium afin d’éviter un risque de contournement de la résistance par les champignons.\n\n\nLa plantation\nSélectionner en priorité les parcelles à enjeux (zones sensibles, hors ZNT). La plantation est mise en œuvre de façon classique.\n\n\n\n\n\n\nAttention aux autres maladies !\n\n\n\nIl est possible de constater la réapparition de maladies normalement gérées par les couvertures mildiou/oïdium (Anthracnose, black rot, érinose). Maintenir une protection minimale !"
   },
   {
     "objectID": "L4_varietes.html#actions-complémentaires",
@@ -238,18 +231,18 @@
     "text": "Utiliser un pulvérisateur à panneaux récupérateurs\n\nOptimiser la réduction de la dérive\n\nUtiliser des buses à injection d’air pour optimiser la réduction de dérive et le taux de récupération. Les buses à fentes à injection d’air sont à préférer aux buses à turbulence pour éviter que le produit ne sorte des panneaux. 5 à 6 hauteurs de buses sont suffisantes pour traiter la végétation, fermer les buses inutiles en début de végétation !\nPrivilégier les panneaux les plus larges qui sont les plus performants pour récupérer la bouillie.\n\n\n\n\n\n\n\nAvertissement\n\n\n\n\nEviter les panneaux récupérateurs pneumatiques : la finesse des gouttelettes produites ne permet pas une bonne récupération et pénalise la dérive.\nAttention aux pollutions ponctuelles (renversement des bacs de récupération, gestion des fonds de cuve, lavage de l’appareil…).\n\n\n\n\n\nOptimiser les temps de chantier\nAvec ces pulvérisateurs, il est possible de traiter plus vite (jusqu’à 9km/h) sans affecter la qualité de pulvérisation. Attention la vitesse maximale dépend du terrain (sol plat, sans irrégularité).\nPrivilégier les parcelles avec des tournières larges (minimum 4.5 à 5m) pour faciliter les manœuvres en bout de rang en tenant compte de l’encombrement des panneaux. Il est nécessaire d’avoir un dispositif de sécurité en cas d’accrochage des panneaux.\nChoisir des appareils équipés de dispositifs de repli et réouverture automatique à la largeur souhaitée pour un débit de chantier optimal. Privilégier les attelages articulés et les cardans double-joint homocinétique pour la maniabilité. Privilégier le double essieu ou boggie par rapport au simple essieu pour la stabilité malgré une moins bonne maniabilité.\nDispositifs de ré-aspiration de la bouillie dans les panneaux : Eviter les dispositifs utilisant des hydro-injecteurs afin d’éviter la mousse dans la cuve lors du recyclage de la bouillie (préférer dispositif avec pompe péristaltique ou pompe annexe).\n\n\n\n\n\n\nUn bilan économique favorable pour les panneaux !\n\n\n\nLes économies de produits phytosanitaires compensent généralement le surcoût à l’achat et les temps de travaux plus importants. Consulter cet article sur Matévi pour en savoir plus."
   },
   {
-    "objectID": "L5_pulveConfinee.html#pour-aller-plus-loin",
-    "href": "L5_pulveConfinee.html#pour-aller-plus-loin",
+    "objectID": "L5_pulveConfinee.html#actions-complémentaires",
+    "href": "L5_pulveConfinee.html#actions-complémentaires",
     "title": "La Pulvérisation confinée",
-    "section": "Pour aller plus loin",
-    "text": "Pour aller plus loin\nPour réduire la dérive, utiliser des buses antidérives : Utiliser des buses antidérive sur les pulvérisateurs à jet porté\nAvec un tel pulvérisateur, bien réglé et bien utilisé, vous pourrez aussi réduire les doses en sécurité en complétant avec un outil d’aide à la décision pour la gestion des traitements phytosanitaires : Utiliser un outil d’aide à la décision pour la protection sanitaire"
+    "section": "Actions complémentaires",
+    "text": "Actions complémentaires\nPour réduire la dérive, utiliser des buses antidérives : Utiliser des buses antidérive sur les pulvérisateurs à jet porté\nAvec un tel pulvérisateur, bien réglé et bien utilisé, vous pourrez aussi réduire les doses en sécurité en complétant avec un outil d’aide à la décision pour la gestion des traitements phytosanitaires : Utiliser un outil d’aide à la décision pour la protection sanitaire"
   },
   {
-    "objectID": "L5_pulveConfinee.html#ressources-complémentaires",
-    "href": "L5_pulveConfinee.html#ressources-complémentaires",
+    "objectID": "L5_pulveConfinee.html#pour-approfondir-le-sujet",
+    "href": "L5_pulveConfinee.html#pour-approfondir-le-sujet",
     "title": "La Pulvérisation confinée",
-    "section": "Ressources complémentaires",
-    "text": "Ressources complémentaires\n\nEn ligne\n\n\nFiche pratique IFV Occitanie\nArticle sur la pulvérisation confinée\n\n\n\nA télécharger\n\nGuide du choix du pulvérisateur en vignes larges (PDF)\nLes panneaux récupérateurs : atouts et limites (PDF)\nArticle intégrant la dimension technico-économique sur Matévi (PDF)\n\n\n\nGuide choix pulvérisateur"
+    "section": "Pour approfondir le sujet",
+    "text": "Pour approfondir le sujet\n\n\nFiche pratique IFV Occitanie\nArticle sur la pulvérisation confinée\nGuide du choix du pulvérisateur en vignes larges (PDF)\nLes panneaux récupérateurs : atouts et limites (PDF)\nArticle intégrant la dimension technico-économique sur Matévi (PDF)\n\n\n\nGuide choix pulvérisateur\n\n\nLe guide complet du projet REPP’AIR (Fiches n°16)."
   },
   {
     "objectID": "L6_choixPulve.html",
@@ -287,25 +280,18 @@
     "text": "Des aides pour les matériels les plus performants\nA ce jour, 3 régions (Occitanie, Grand Est et Pays de la Loire) subventionnent via les aides PCAE (FEADER) l’achat de matériels performants sur la base des classes de Performance Pulvé. En Occitanie, une aide à l’achat de 25% avec bonifications cumulables dans la limite d’un taux de 50% (Jeunes Agriculteurs, mode de production AB) pour les pulvérisateurs de classe Performance Pulvé 1 à 4."
   },
   {
-    "objectID": "L6_choixPulve.html#pour-aller-plus-loin",
-    "href": "L6_choixPulve.html#pour-aller-plus-loin",
+    "objectID": "L6_choixPulve.html#actions-complémentaires",
+    "href": "L6_choixPulve.html#actions-complémentaires",
     "title": "Bien choisir son pulvérisateur",
-    "section": "Pour aller plus loin",
-    "text": "Pour aller plus loin\nAvec un pulvérisateur performant, bien réglé et bien utilisé, vous pourrez réduire les doses en sécurité en complétant avec un outil d’aide à la décision pour la gestion des traitements phytosanitaires : Utiliser un outil d’aide à la décision pour la protection sanitaire\nEn jet porté, pour réduire la dérive, utiliser des buses antidérive : Utiliser des buses antidérive sur les pulvérisateurs à jet porté"
+    "section": "Actions complémentaires",
+    "text": "Actions complémentaires\nAvec un pulvérisateur performant, bien réglé et bien utilisé, vous pourrez réduire les doses en sécurité en complétant avec un outil d’aide à la décision pour la gestion des traitements phytosanitaires : Utiliser un outil d’aide à la décision pour la protection sanitaire\nEn jet porté, pour réduire la dérive, utiliser des buses antidérive : Utiliser des buses antidérive sur les pulvérisateurs à jet porté"
   },
   {
-    "objectID": "L6_choixPulve.html#ressources-complémentaires",
-    "href": "L6_choixPulve.html#ressources-complémentaires",
+    "objectID": "L6_choixPulve.html#pour-approfondir-le-sujet",
+    "href": "L6_choixPulve.html#pour-approfondir-le-sujet",
     "title": "Bien choisir son pulvérisateur",
-    "section": "Ressources complémentaires",
-    "text": "Ressources complémentaires\n\nVidéo de présentation du dispositif Performance Pulvé"
-  },
-  {
-    "objectID": "L6_choixPulve.html#sources-biblio",
-    "href": "L6_choixPulve.html#sources-biblio",
-    "title": "Bien choisir son pulvérisateur",
-    "section": "Sources biblio",
-    "text": "Sources biblio"
+    "section": "Pour approfondir le sujet",
+    "text": "Pour approfondir le sujet\n\nVidéo de présentation du dispositif Performance Pulvé"
   },
   {
     "objectID": "L6_choixPulve.html#footnotes",
@@ -427,17 +413,17 @@
     "text": "Mise en œuvre\n\nQuel OAD choisir ?\nUn OAD doit nécessairement intégrer un ou des modèles épidémiologiques qui modélisent le développement des maladies à partir de données météorologiques, passées et prévisionnelles.\n\n\n\nSortie de l’OAD Decitrait précisant les périodes de risques\n\n\nPour optimiser la réduction des intrants, préférez les OAD intégrant des règles de modulation de la dose des produits phytosanitaires en cours de saison.\nLe Vinopôle Bordeaux Aquitaine propose un tableau récapitulatif des différents outils sur cette page et présente l’OAD DECIDTRAIT dédié à la protection de la vigne développé par l’IFV ici.\n\n\nLes limites d’utilisation des OAD\nLes OAD s’appuient sur des modèles épidémiologiques, qui ne sont que des estimations de la réalité et comportent une marge d’erreur.\nLa fiabilité des modèles est à la fois dépendante de leur performance intrinsèque mais également de la qualité des données météorologiques passées et des prévisions météo à venir. Certains OAD nécessitent une station météo installée à proximité, d’autres s’appuient sur des données météo dématérialisées (Météo France, Weather Measure…).\nCompléter avec des observations terrain pour sécuriser et corriger si besoin l’OAD :\n\nPluviomètre pour la pluie en cas de données météorologiques modélisées (attention à l’entretien),\nObservations sur la parcelle : relevés des stades phénologiques et de l’état sanitaire\n\n\n\nQuel coût ?\nLe coût d’un OAD varie entre 75 et 250€ par an (sans station météo), ce qui reste relativement faible au regard des coûts de production et des avantages que procurent ces outils. Certains OAD comme DECITRAIT sont éligibles au CEPP."
   },
   {
-    "objectID": "L9_oad.html#pour-aller-plus-loin",
-    "href": "L9_oad.html#pour-aller-plus-loin",
+    "objectID": "L9_oad.html#actions-complémentaires",
+    "href": "L9_oad.html#actions-complémentaires",
     "title": "Utiliser un outil d’aide à la décision pour la protection sanitaire",
-    "section": "Pour aller plus loin",
-    "text": "Pour aller plus loin\nPenser à bien régler votre pulvérisateur pour réduire les doses en toute sécurité : Optimiser sa voûte pneumatique\nN’hésitez pas à changer pour un appareil plus performant ! Bien choisir son pulvé"
+    "section": "Actions complémentaires",
+    "text": "Actions complémentaires\nPenser à bien régler votre pulvérisateur pour réduire les doses en toute sécurité : Optimiser sa voûte pneumatique\nN’hésitez pas à changer pour un appareil plus performant ! Bien choisir son pulvé"
   },
   {
-    "objectID": "L9_oad.html#ressources-complémentaires",
-    "href": "L9_oad.html#ressources-complémentaires",
+    "objectID": "L9_oad.html#pour-approfondir-le-sujet",
+    "href": "L9_oad.html#pour-approfondir-le-sujet",
     "title": "Utiliser un outil d’aide à la décision pour la protection sanitaire",
-    "section": "Ressources complémentaires",
-    "text": "Ressources complémentaires\n\nFiche sur les OAD du Vinopôle Bordeaux-Aquitaine\nFocus sur les outils pour réduire le nombre de traitements par le Vinopôle Bordeaux-Aquitaine\nLes OAD disponibles sur EcophytoPIC"
+    "section": "Pour approfondir le sujet",
+    "text": "Pour approfondir le sujet\n\nFiche sur les OAD du Vinopôle Bordeaux-Aquitaine\nFocus sur les outils pour réduire le nombre de traitements par le Vinopôle Bordeaux-Aquitaine\nLes OAD disponibles sur EcophytoPIC"
   }
 ]
