@@ -4,6 +4,12 @@ title: "A propos"
 
 Ce site a été réalisé dans le cadre du projet RIPP-Viti.
 
-Date de création : 2023
+**Date de création** : 2023
 
-Crédits : IFV, INRAE
+**Contributeurs** :
+
+-   INRAE : Marc Voltz, Cécile Dagès, Aurélie Metay, Raphaël Métral, Carole Bedos, Laure Hossard, Jean-Paul Douzals, Sonia Grimbuhler
+
+-   IFV : Xavier Delpuech, Sébastien Codis, Adrien Vergès, Alexandre Davy, Loic Lecunff
+
+**Crédits** : IFV, INRAE

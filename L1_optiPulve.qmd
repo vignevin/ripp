@@ -2,22 +2,35 @@
 title: "Optimiser sa voûte pneumatique"
 format: 
   html:
-    toc: true
+    toc: false
   pdf:
-    documentclass: scrreprt
-    number-sections: true
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{Optimiser sa voûte pneumatique}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
     colorlinks: true
-  docx: 
-    toc: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
 ---
 
 | Intérêts environnementaux                                             | Intérêts agronomiques                                                                 | Contraintes de mise en oeuvre     | Acceptabilité                           |
-|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------|-----------------------------------------|
+|------------------|---------------------|-----------------|-----------------|
 | Faible, la technologie pneumatique ne permet pas de réduire la dérive | Un bon réglage et un bon entretien permettent d'améliorer la qualité de pulvérisation | Faible (temps en début de saison) | Facile à mettre en œuvre et peu coûteux |
 
 Les voûtes pneumatiques sont très utilisées à l'heure actuelle en vignes larges (près de 70 % des appareils du parc dans les vignobles du pourtour méditerranéen). Le niveau de dérive généré par ce type d'appareil peut être très important à cause de la technologie pneumatique qui impose une vitesse de l'air importante, y compris en début de végétation Il est primordial de bien régler son appareil pour réduire autant que possible les impacts.
 
-![Voute pneumatique Grégoire](images/L1_vouteGregoire.png)
+![Voute pneumatique Grégoire](images/L1_vouteGregoire.png){width="565"}
 
 ::: callout-warning
 ## Attention à la qualité de pulvérisation !
@@ -57,7 +70,7 @@ A chaque traitement, **bien orienter les diffuseurs ouverts vers la végétation
 :::
 
 ::: {#second-column}
-![Réglage de l'orientation des diffuseurs à la plaque de fer](images/L1_PlaqueFer.png)
+![Réglage de l'orientation des diffuseurs à la plaque de fer](images/L1_PlaqueFer.png){width="200"}
 :::
 :::
 
@@ -65,7 +78,7 @@ A chaque traitement, **bien orienter les diffuseurs ouverts vers la végétation
 
 En pneumatique, les gouttelettes sont formées par la fragmentation d'une veine de liquide dans un courant d'air rapide (80-120 m/s), générant de fines gouttelettes (100 à 150 µm). Plus le flux est rapide, plus les gouttelettes générées seront fines. On peut réduire la vitesse du flux d'air, en particulier en début de saison.
 
-## Pour aller plus loin
+## Actions complémentaires
 
 ::: {layout="[ 50, 50 ]"}
 <div>
@@ -80,13 +93,33 @@ Parlez-en à votre constructeur/revendeur qui vous indiquera les différentes op
 
 <div>
 
-![Voute pneumatique équipée en jet porté](images/L1_ModifVouteJetPorté.png)
+![Voute pneumatique équipée en jet porté](images/L1_ModifVouteJetPorté.png){width="201"}
 
 </div>
 :::
 
-## Ressources complémentaires
+## Pour approfondir le sujet
 
 [Fiche pratique sur le réglage du matériel](https://www.vignevin-occitanie.com/fiches-pratiques/le-reglage-du-materiel-de-pulverisation-ou-pulverisateur/)
 
 [Guide pratique de réglage des pulvérisateurs](https://www.vignevin.com/article/guide-pratique-de-reglages-dutilisation-pulverisateurs-viticoles/)
+
+::: {.content-visible when-format="pdf"}
+## Mise à jour des fiches
+
+Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.github.io/ripp/)
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+![](images/allLogos.png)
+
+</div>
+
+<div>
+
+![](images/qrcode_vignevin.github.io.png){width="198"}
+
+</div>
+:::
+:::

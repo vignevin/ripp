@@ -6,7 +6,7 @@ bibliography: ripp.bib
 
 Vous trouverez ci-dessous une liste de références bibliographiques utilisées pour la rédaction des fiches.
 
-## Fiche sur les fossés
+## Fiche "Gérer les fossés"
 
 -   @dages:hal-01593744
 -   @dages:hal-04178090
@@ -15,8 +15,12 @@ Vous trouverez ci-dessous une liste de références bibliographiques utilisées 
 -   @dollinger2014synthese
 -   @carluer:hal-01656661
 
-## Fiche sur l'enherbement
+## Fiche "Enherber une partie des inter-rangs"
 
 -   @garcia:hal-03004389
 -   @Abad_Hermoso_de_Mendoza_Marín_Orcaray_Santesteban_2021
 -   @Abad_Hermoso_de_Mendoza_Marín_Orcaray_Santesteban_2021b
+
+## Fiches sur les stratégies d'exploitations
+
+-   @HOSSARD2022134913

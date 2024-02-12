@@ -1,18 +1,31 @@
 ---
-title: "Planter des variétés résistantes"
+title: Planter des variétés résistantes
 format: 
   html:
-    toc: true
+    toc: false
   pdf:
-    documentclass: scrreprt
-    number-sections: true
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{Planter des variétés résistantes}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
     colorlinks: true
-  docx:
-    toc: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
 ---
 
 | Intérêts environnementaux                    | Intérêts agronomiques | Contraintes de mise en oeuvre            | Acceptabilité                  |
-|--------------------|-----------------|------------------|-----------------|
+|-------------------|------------------|------------------|------------------|
 | Forte réduction des intrants phytosanitaires | Gain de productivité  | Investissement élevé. Contraintes en AOP | A prioriser en zones sensibles |
 
 ::: {layout="[ 70, 30 ]"}
@@ -78,3 +91,23 @@ Dans les zones sensibles, la plantation de haies peut venir en complément pour 
 -   [Site de l'observatoire des cépages résistants OSCAR](https://observatoire-cepages-resistants.fr/)
 
 -   [Guide technique de l'ICV](https://www.icv.fr/mediatheque-viti-vinicole/guide-technique-cepages-resistants)
+
+::: {.content-visible when-format="pdf"}
+## Mise à jour des fiches
+
+Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.github.io/ripp/)
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+![](images/allLogos.png)
+
+</div>
+
+<div>
+
+![](images/qrcode_vignevin.github.io.png){width="198"}
+
+</div>
+:::
+:::

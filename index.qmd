@@ -1,9 +1,39 @@
 ---
-title: "Fiches RIPP"
+title: "Introduction"
 ---
-
-Vous trouverez sur ces pages des fiches pratiques issues du projet RIPP viti.
 
 ::: callout-caution
 !!! SITE EN CONSTRUCTION !!! Livraison prévue en mars 2024, soyez patient :) !
 :::
+
+Vous trouverez sur ces pages des fiches pratiques issues du projet **RIPP viti "Réduire les impacts des produits phytosanitaires en viticulture méridionale à l'échelle territoriale"**, (Ecophyto Recherche & Innovation 2020 - 2023)
+
+**Objectifs**
+
+Malgré les différentes incitations à réduire l'usage des produits phytosanitaires (PP), le secteur viticole reste très consommateur en pesticides.
+
+L'objectif de ce projet est l'élaboration de nouvelles stratégies de réduction d'usage et d'impact des PP en milieu viticole, qui soient territorialisées, durables et acceptables par la diversité des acteurs agricoles. Les stratégies envisagées reposent sur trois principes :
+
+1.  la **combinaison de leviers de réduction d'usage** à l'échelle parcellaire (ex.: conduite bas-intrants, biocontrôle) avec l'implantation de zones tampons limitant la dispersion des PP à l'échelle paysagère,
+2.  la **modulation** territoriale des leviers parcellaires en fonction des contraintes d'exploitation viticole (ex. sol, climat, objectifs de rendements) afin de favoriser **l'acceptabilité et la durabilité** des leviers envisagés,
+3.  la mise en place d'une **approche participative** à l'échelle territoriale pour définir les règles de modulation des leviers ainsi que les objectifs de réduction d'impact collectif sur les écosystèmes et les riverains. Le projet est expérimenté sur le bassin versant du Rieutort (Hérault).
+
+La démarche participative associe un groupe d'acteurs viticoles et un groupe d'experts (agronomes, hydrologues...), qui élaborent en interaction les stratégies selon les principes précédents. Elle s'appuie sur un diagnostic :
+
+-   **d'impact environnemental des stratégies** élaborées par simulation numérique de l'exposition des riverains et des contaminations hydrologiques,
+-   **d'impact agronomique** (évaluation des risques de pertes de rendement).
+
+**Partenaires** :
+
+-   UMR LISAH
+-   UMR Absys
+-   UMR Ecosys
+-   UMR ITAP
+-   Chambre Régionale d'Agriculture Occitanie
+-   Captages Occitanie EPTB Orb & Libron
+-   Agence de l'Eau Rhône-Méditerranée-Corse
+-   Institut Français de la Vigne et du Vin
+
+**Financement** : Ecophyto Recherche & Innovation, Office Français de la Biodiversité.
+
+![](images/allLogos.png)

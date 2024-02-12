@@ -2,16 +2,29 @@
 title : "La Pulvérisation confinée"
 format: 
   html:
-    toc: true
+    toc: false
   pdf:
-    documentclass: scrreprt
-    number-sections: true
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{La Pulvérisation confinée}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
     colorlinks: true
-  docx:
-    toc: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
 ---
 
-| Intérêts environnementaux    | Intérêts agronomiques                          | Contraintes de mise en oeuvre              | Acceptabilité                 |
+| Intérêts environnementaux    | Intérêts agronomiques                          | Contraintes de mise en oeuvre                          | Acceptabilité                 |
 |-------------------|------------------|------------------|------------------|
 | Forte réduction de la dérive | Economie de produits, qualité de pulvérisation | Investissement élevé, temps de chantier et maniabilité | A prioriser en zone sensibles |
 
@@ -58,15 +71,13 @@ Dispositifs de ré-aspiration de la bouillie dans les panneaux : Eviter les disp
 Les économies de produits phytosanitaires compensent généralement le surcoût à l'achat et les temps de travaux plus importants. Consulter [cet article](https://www.matevi-france.com/uploads/tx_matevibase/Pulve_confinee_Approche_tech_eco_MateVi_2019.pdf) sur Matévi pour en savoir plus.
 :::
 
-## Pour aller plus loin
+## Actions complémentaires
 
 Pour réduire la dérive, utiliser des buses antidérives : [Utiliser des buses antidérive sur les pulvérisateurs à jet porté](L3_buses.qmd)
 
 Avec un tel pulvérisateur, bien réglé et bien utilisé, vous pourrez aussi réduire les doses en sécurité en complétant avec un outil d'aide à la décision pour la gestion des traitements phytosanitaires : [Utiliser un outil d'aide à la décision pour la protection sanitaire](L9_oad.qmd)
 
-## Ressources complémentaires
-
-### En ligne
+## Pour approfondir le sujet
 
 {{< video https://www.youtube.com/watch?v=EbjgyjnJKDM >}}
 
@@ -74,7 +85,6 @@ Avec un tel pulvérisateur, bien réglé et bien utilisé, vous pourrez aussi r�
 
 -   [Article sur la pulvérisation confinée](https://www.vignevin.com/article/la-pulverisation-confinee-en-viticulture/)
 
-### A télécharger
 
 -   [Guide du choix du pulvérisateur en vignes larges (PDF)](https://www.vignevin.com/wp-content/uploads/2021/05/Guide-pulve-2020-BD-2.pdf)
 
@@ -83,3 +93,25 @@ Avec un tel pulvérisateur, bien réglé et bien utilisé, vous pourrez aussi r�
 -   [Article intégrant la dimension technico-économique sur Matévi (PDF)](https://www.matevi-france.com/uploads/tx_matevibase/Pulve_confinee_Approche_tech_eco_MateVi_2019.pdf)
 
 -   [![Guide choix pulvérisateur](images/L5_link_guidePulveChoix.png)](https://www.vignevin.com/wp-content/uploads/2021/05/Guide-pulve-2020-BD-2.pdf)
+
+-   Le [guide complet](https://grandest.chambre-agriculture.fr/agro-environnement/qualite-de-lair/reppair-suivi-des-produits-phytosanitaires-dans-lair/) du projet REPP'AIR (Fiches n°16).
+
+::: {.content-visible when-format="pdf"}
+## Mise à jour des fiches
+
+Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.github.io/ripp/)
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+![](images/allLogos.png)
+
+</div>
+
+<div>
+
+![](images/qrcode_vignevin.github.io.png){width="198"}
+
+</div>
+:::
+:::

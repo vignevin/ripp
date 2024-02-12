@@ -2,17 +2,30 @@
 title: "Planter des haies antidérive à proximité des habitations"
 format: 
   html:
-    toc: true
+    toc: false
   pdf:
-    documentclass: scrreprt
-    number-sections: true
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{Planter des haies antidérive}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
     colorlinks: true
-  docx: 
-    toc: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
 ---
 
 | Intérêts environnementaux                           | Intérêts agronomiques                              | Contraintes de mise en oeuvre                                               | Acceptabilité                                           |
-|-----------------|-----------------|----------------------|-----------------|
+|-----------------|-----------------|--------------------|-----------------|
 | Réduction de la dérive des produits phytosanitaires | Services agronomiques et réservoir de biodiversité | Temps de travail important à l'installation . Entretien régulier nécessaire | Améliore l'image et l'acceptabilité sociale du vignoble |
 
 Une haie disposée au niveau de la limite de la parcelle agricole constitue un écran contre la dérive des produits. De plus, une haie apporte plusieurs services agronomiques et environnementaux : protection des sols contre l'érosion, effet brise-vent, régulation thermique, protection de la qualité des eaux. Elle présente également l'intérêt d'être un réservoir de biodiversité.
@@ -51,16 +64,34 @@ Prévoir si nécessaire des apports d'eau les premières années.
 
 Remplacer les plants morts pour éviter les trouées dans la haie.
 
-## Pour aller plus loin
+## Actions complémentaires
 
 En alternative à une haie naturelle, la mise en place de filets en bordure de parcelle permet de limiter la dérive de pulvérisation. Il est possible d'utiliser et de déployer les filets antidérives uniquement pendant les traitements, ce qui permet d'écarter les poteaux de 5 à 10 m au lieu de 2 à 3 m comme pour les brise-vent classiques. Ceci permet un moindre coût en matériel et main d'œuvre.
 
-## Ressources complémentaires :
+## Pour approfondir le sujet
 
 Un [article](https://www.vignevin.com/article/filets-anti-derive-evaluation-de-efficacite/) sur l'évaluation de l'efficacité des filets antidérives.
 
 Une [plaquette pdf](https://www.vinipole-sud-bourgogne.fr/uploads/mce/docs/Plaquette.pdf) sur les systèmes antidérives.
 
-## Sources
+Le [guide complet](https://grandest.chambre-agriculture.fr/agro-environnement/qualite-de-lair/reppair-suivi-des-produits-phytosanitaires-dans-lair/) du projet REPP'AIR (Fiches n°23 et n°24).
 
-Les données de dérive ont été obtenues dans le cadre du projet CAPRIV avec le dispositif EoleDrift de l'UMT EcoTech (Montpellier, France)
+::: {.content-visible when-format="pdf"}
+## Mise à jour des fiches
+
+Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.github.io/ripp/)
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+![](images/allLogos.png)
+
+</div>
+
+<div>
+
+![](images/qrcode_vignevin.github.io.png){width="198"}
+
+</div>
+:::
+:::

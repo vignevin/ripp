@@ -1,21 +1,35 @@
 ---
-title: "Comment changer sans tout bouleverser ?"
+title: "Stratégies d’évolutions des pratiques et impacts potentiels sur la durabilité"
+subtitle: "Cas des exploitations viticoles IGP & AOP en coopérative"    
 format: 
   html:
-    toc: true
+    toc: false
   pdf:
-    documentclass: scrreprt
-    number-sections: true
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{Stratégies d’évolutions des pratiques}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
     colorlinks: true
-  docx:
-    toc: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
 ---
 
-Avec un vignoble majoritairement IGP (75% de la production), l'exploitation est labellisée HVE et livre son raisin à la cave coopérative. **Rajouter gamme de SAU**
+L\'exploitation est labellisée HVE et livre son raisin à la cave coopérative. Sa surface est d\'une vingtaine d\'hectares avec un vignoble majoritairement IGP.
 
 ![](images/E1_bandoEx.png)
 
-L'exploitation mobilise environ 2 équivalents temps plein à l'année, dispose d'une **voûte pneumatique** pour les traitements. Elle n'est pas équipée en intercep.
+L'exploitation mobilise environ 2 équivalents temps plein à l'année, dispose d'une **voûte pneumatique** pour les traitements. Elle n'est pas équipée en intercep pour le désherbage mécanique.
 
 Sa capacité d'investissement est d'environ 15 000 € par an.
 
@@ -25,7 +39,7 @@ Sa capacité d'investissement est d'environ 15 000 € par an.
 
 L'exploitation pratique le sous-dosage pour les traitements en début de saison lorsqu'il y a peu de végétation à protéger.
 
-Pour gérer les cicadelles et les vers de la grappe 2 à 3 traitements insecticides sont appliqués par an (produits double cible) .
+Pour gérer les cicadelles et les vers de la grappe 2 à 3 traitements insecticides sont appliqués par an (produits double cible).
 
 ![IFT moyen sur l'exploitation](images/E1_IFT.png)
 
@@ -38,7 +52,7 @@ Les inter-rangs sont labourés, environ 4 passages par an dont 1 labour d'automn
 ### Des leviers simples et peu contraignants à mettre en œuvre
 
 | Objectif                                       | Pratique                                                                                                                                                              |
-|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | Réduire l'IFT                                  | Mieux raisonner les traitements et optimiser les réglages de son pulvérisateur                                                                                        |
 | Réduire les risques de transfert dans les eaux | Mettre en œuvre l'enherbement systématique des tournières, supprimer le labour d'automne et sur les parcelles où c'est possible, enherber une partie des inter-rangs. |
 | Protéger les riverains                         | Planter des haies à proximité des habitations                                                                                                                         |

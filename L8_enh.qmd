@@ -2,13 +2,26 @@
 title: "Enherber une partie des inter-rangs"
 format: 
   html:
-    toc: true
+    toc: false
   pdf:
-    documentclass: scrreprt
-    number-sections: true
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{Enherber une partie des inter-rangs}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
     colorlinks: true
-  docx:
-    toc: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
 ---
 
 +-----------------------------------+--------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------------+
@@ -75,3 +88,23 @@ Il est possible [d'enherber les fossés](L7_fosses.qmd). Des [bandes enherbées]
 L'enherbement de la vigne en [10 questions réponses](https://www.vignevin.com/article/lenherbement-de-la-vigne/)
 
 Des [fiches pratiques](https://www.vignevin-occitanie.com/fiches-pratiques/enherbement-permanent/) sur l'enherbement permanent sur le site de l'IFV Occitanie
+
+::: {.content-visible when-format="pdf"}
+## Mise à jour des fiches
+
+Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.github.io/ripp/)
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+![](images/allLogos.png)
+
+</div>
+
+<div>
+
+![](images/qrcode_vignevin.github.io.png){width="198"}
+
+</div>
+:::
+:::

@@ -2,13 +2,26 @@
 title: "Gérer les fossés"
 format: 
   html:
-    toc: true
+    toc: false
   pdf:
-    documentclass: scrreprt
-    number-sections: true
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{Gérer les fossés}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
     colorlinks: true
-  docx:
-    toc: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
 ---
 
 +-----------------------------------------+-----------------------------------+-------------------------------+---------------+
@@ -120,3 +133,24 @@ Vous pouvez en savoir plus sur les [zones tampons](https://professionnels.ofb.fr
 Dollinger, J., Dages, C., Bailly, J., Lagacherie, P. and M., Voltz , ONEMA, (eds.) [Synthèse bibliographique](https://professionnels.ofb.fr/sites/default/files/pdf/Dollinger%20at%20al%20(2014).pdf) des différentes fonctions des réseaux de fossés aux échelles du fossé élémentaire et du réseau, ONEMA, 2014.
 
 Cécile Dagès, Jean-Stéphane Bailly, [J. Dollinger,]{.underline} P. Lagacherie, Marc Voltz (2016). *Méthodologie de diagnostic et de gestion des réseaux de fossés agricoles infiltrants pour la limitation de la contamination des masses d'eau par les pesticides.* (Onema), <https://hal.inrae.fr/hal-01593744>
+
+::: {.content-visible when-format="pdf"}
+## Mise à jour des fiches
+
+Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.github.io/ripp/)
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+![](images/allLogos.png)
+
+</div>
+
+<div>
+
+![](images/qrcode_vignevin.github.io.png){width="198"}
+
+</div>
+:::
+:::
+

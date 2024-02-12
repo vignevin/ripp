@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Site Web RIPP"
+  title: "Fiches RIPP"
   page-navigation: true
   reader-mode: true
   sidebar:
@@ -14,15 +14,15 @@ website:
         text: Home
       - section: "Les leviers pour réduire les impacts environnementaux"
         contents:
-          - L1_optiPulve.qmd
-          - L2_haies.qmd
-          - L3_buses.qmd
-          - L4_varietes.qmd
-          - L5_pulveConfinee.qmd
           - L6_choixPulve.qmd
-          - L7_fosses.qmd
-          - L8_enh.qmd
+          - L1_optiPulve.qmd
+          - L5_pulveConfinee.qmd 
+          - L3_buses.qmd
           - L9_oad.qmd
+          - L8_enh.qmd
+          - L2_haies.qmd
+          - L7_fosses.qmd
+          - L4_varietes.qmd
       - section: "La stratégie exploitation"
         contents:
           - E1_AE11.qmd

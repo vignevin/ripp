@@ -2,13 +2,26 @@
 title: "Utiliser un outil d’aide à la décision pour la protection sanitaire"
 format: 
   html:
-    toc: true
+    toc: false
   pdf:
-    documentclass: scrreprt
-    number-sections: true
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{Utiliser un outil d’aide à la décision}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
     colorlinks: true
-  docx:
-    toc: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
 ---
 
 | Intérêts environnementaux | Intérêts agronomiques                                            | Contraintes de mise en oeuvre | Acceptabilité |
@@ -55,16 +68,39 @@ Compléter avec des observations terrain pour sécuriser et corriger si besoin l
 
 Le coût d'un OAD varie entre 75 et 250€ par an (sans station météo), ce qui reste relativement faible au regard des coûts de production et des avantages que procurent ces outils. Certains OAD comme DECITRAIT sont éligibles au CEPP.
 
-## Pour aller plus loin
+## Actions complémentaires
 
 Penser à bien régler votre pulvérisateur pour réduire les doses en toute sécurité : [Optimiser sa voûte pneumatique](L1_optiPulve.qmd)
 
 N'hésitez pas à changer pour un appareil plus performant ! [Bien choisir son pulvé](L6_choixPulve.qmd)
 
-## Ressources complémentaires
+## Pour approfondir le sujet
 
 -   [Fiche](https://www.vinopole.com/fiches-pratiques/agro-ecologie/diminution-des-intrants/choisir-et-bien-utiliser-un-outil-daide-a-la-decision/) sur les OAD du Vinopôle Bordeaux-Aquitaine
 
 -   [Focus](https://www.vinopole.com/recherches-experimentations-vitivinicoles/agro-ecologie/diminution-des-intrants/modelisation-nombre-de-traitements/) sur les outils pour réduire le nombre de traitements par le Vinopôle Bordeaux-Aquitaine
 
 -   Les [OAD disponibles](https://ecophytopic.fr/cuivre-viticulture/piloter/les-outils-daide-la-decision-dans-la-lutte-contre-le-mildiou-de-la-vigne) sur EcophytoPIC
+
+
+::: {.content-visible when-format="pdf"}
+## Mise à jour des fiches
+
+Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.github.io/ripp/)
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+![](images/allLogos.png)
+
+</div>
+
+<div>
+
+![](images/qrcode_vignevin.github.io.png){width="198"}
+
+</div>
+:::
+:::
+
+
