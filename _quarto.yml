@@ -3,17 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Fiches RIPP"
+  title: "Fiches Ripp-Viti"
   page-navigation: true
-  reader-mode: true
-  sidebar:
+  reader-mode: false
+  navbar:
+    background: secondary
     style: "docked"
     search: true
-    contents: 
+    left: 
       - href: index.qmd
-        text: Home
-      - section: "Les leviers pour réduire les impacts environnementaux"
-        contents:
+        text: Introduction
+      - text: La démarche
+        href: methodo.qmd
+      - text: "Fiches Leviers"
+        menu:
           - L6_choixPulve.qmd
           - L1_optiPulve.qmd
           - L5_pulveConfinee.qmd 
@@ -23,13 +26,16 @@ website:
           - L2_haies.qmd
           - L7_fosses.qmd
           - L4_varietes.qmd
-      - section: "La stratégie exploitation"
-        contents:
-          - E1_AE11.qmd
+      - text: "Fiches Exploitations"
+        menu:
+          - EA11.qmd
+          - EA12.qmd
+          - EA2A.qmd
+          - EA2B.qmd
       - about.qmd
       - biblio.qmd
   page-footer:
-    right: "Projet RIPPviti, 2023"
+    right: "Projet RIPPviti, 2024"
     left: "&copy; CC BY-NC-ND"
 
 format:

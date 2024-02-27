@@ -24,3 +24,4 @@ Vous trouverez ci-dessous une liste de références bibliographiques utilisées 
 ## Fiches sur les stratégies d'exploitations
 
 -   @HOSSARD2022134913
+-   @metral:hal-01506482

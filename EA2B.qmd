@@ -1,0 +1,98 @@
+---
+title: "Exploitation en cave particulière AOP Saint-Chinian"    
+format: 
+  html:
+    toc: false
+  pdf:
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{Stratégies d’évolutions des pratiques}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
+    colorlinks: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
+---
+
+L'exploitation vend en cave particulière, avec 50% de vente en vrac et 50% de vente en bouteille. Sa surface est d'une trentaine d'hectares avec un vignoble en AOP Saint-Chinian, sans label spécifique. Le rendement moyen est de 39 hL/ha.
+
+![](images/EA2B_bando.png)
+
+L'exploitation mobilise 3,5 équivalents temps plein à l'année.
+
+Sa capacité d'investissement est d'environ 25 000 € par an.
+
+## La situation initiale de l'exploitation
+
+### Les pratiques actuelles
+
+#### La protection phytosanitaire
+
+L'exploitation est équipée d'une voûte pneumatique et pratique le sous-dosage pour les traitements en début de saison lorsqu'il y a peu de végétation à protéger ou lorsque la pression fongique est estimée faible par le viticulteur.
+
+Des produits insecticides à double cible sont appliqués pour gérer les cicadelles et les vers de la grappe.
+
+L'IFT varie de 9,9 en année à faible pression à 13,9 en année à forte pression @fig-EA2B_ift
+
+![IFT moyen sur l'exploitation](images/EA2B_ift.png){#fig-EA2B_ift}
+
+#### Gestion de l'herbe
+
+Les inter-rangs sont labourés, environ 4 passages par an dont 1 labour d'automne. Sur le rang, l'exploitation a recours au désherbage chimique, avec 2 passages de glyphosate.
+
+### Évaluation de la durabilité initiale
+
+L'évaluation de la durabilité de la stratégie est réalisée avec l'outil [DEXi PM Vigne](methodo.qmd). DEXiPM Vigne note de 0 à 5 la durabilité des exploitations agricoles selon les trois piliers : économique, sociale et environnementale.
+
+Les grandes caractéristiques de cette situation initiale sont la valorisation de la production en cave particulière (50% en bouteille et 50% en vrac), le sol des inter-rang est travaillé, avec le maintien d'un désherbage sous le rang, la mise en place de haies et d'une couverture végétale un inter-rang sur deux, mais seulement en hiver.
+L'évaluation de durabilité environnementale est moyenne (3/5), celle de la durabilité sociale très élevée (5/5) et celle de la durabilité économique élevée (4/5) (@fig-EA2B_Dexi). 
+
+## Quelles évolutions des pratiques ?
+
+### Les stratégies co-construites en atelier
+
+Lors d'ateliers participatifs, des stratégies combinant différents leviers sur l'exploitation ont été proposées par un **groupe d'experts** (DRAAF, Syndicat AOP, Chambre Agriculture, Agence de l'Eau, chercheurs) et deux groupes de viticulteurs (**acteurs locaux**). Une sélection des stratégies les plus ambitieuses proposées (@fig-carte) ont été retenues pour évaluation avec DEXi PM vigne.
+
+![Mise en oeuvre des leviers sur le parcellaire de l'exploitation](images/EA2B_carte.png){#fig-carte}
+
+### Évolution de la durabilité
+
+La nouvelle stratégie co-conçue par le **groupe d'experts** permet un gain important de durabilité environnementale en portant la note à de 3 à 5/5 par rapport à la situation initiale (@fig-EA2B_Dexi). 
+Il est proposé l'arrêt des herbicides sous le rang grâce à un investissement possible dans du matériel de gestion du sol sous le rang, l'enherbement des tournières et d'une partie des inter-rangs. La couverture végétale toute l'année diminue le risque de compactage du sol et de ruissellement. 
+La mise en place d’une protection mieux raisonner des traitements phytos (adhésion à un GDON pour limiter les traitements insecticides contre la cicadelle de la flavescence dorée) couplée à l'acquisition d’un pulvérisateur à panneaux récupérateurs réduit l'impact (dérive) des pesticides dans cette stratégie de gestion. 
+
+La stratégie des **acteurs locaux** repose sur une protection raisonnée en réduisant à un seul passage herbicide l'entretien du rang et en supprimant le labour d'automne. Un changement de pulvérisateur est envisagé (modèle à jet projeté). Aucune amélioration dans l'un des trois piliers de durabilité n'est cependant notée. La poursuite de l'utilisation d'herbicides, même avec une seule application, impacte fortement l'évaluation environnementale, car une application est considérée comme élevée dans cette région. Dans l'ensemble, l'impact sur l'environnement diminue, mais pas suffisamment pour être sensible avec DEXiPM Vigne (@fig-EA2B_Dexi). 
+
+Les durabilités sociale et économique n'évoluent pas, quelque soit la stratégie d'évolution proposée. 
+
+![Note de durabilité économique, environnementale et sociale pour les systèmes conçus par les acteurs locaux (bleu), les experts (orange) en comparaison avec la situation initiale d'une exploitation en cave particulière AOP Saint-Chinian](images/EA2B_Dexi.png){#fig-EA2B_Dexi}
+
+::: {.content-visible when-format="pdf"}
+## Mise à jour des fiches
+
+Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.github.io/ripp/)
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+![](images/allLogos.png)
+
+</div>
+
+<div>
+
+![](images/qrcode_vignevin.github.io.png){width="198"}
+
+</div>
+:::
+:::

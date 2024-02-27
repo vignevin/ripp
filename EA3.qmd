@@ -1,0 +1,79 @@
+---
+title: "Exploitation en cave particulière en AB et AOP Faugères"    
+format: 
+  html:
+    toc: false
+  pdf:
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{Stratégies d’évolutions des pratiques}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
+    colorlinks: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
+---
+
+L'exploitation vend en cave particulière, avec une majorité de la production vendue en bouteilles. Son vignoble d'une vingtaine d'hectares est en AOP Faugères, sur sol de schistes. Le rendement moyen est de 18 hL/ha.
+
+![](images/EA3_bando.png)
+
+L'exploitation mobilise 3 équivalents temps plein à l'année.
+
+Sa capacité d'investissement est d'environ 15 000 € par an.
+
+## La situation initiale de l'exploitation
+
+### Les pratiques actuelles
+
+#### La protection phytosanitaire
+
+L'exploitation est équipée d'une voûte pneumatique et pratique un sous-dosage systématique pour les traitements, sauf en cas de forte pression.
+
+Des produits insecticides à double cible sont appliqués pour gérer les cicadelles et les vers de la grappe.
+
+L'IFT varie de 5,3 en année à faible pression à 12,5 en année à forte pression @fig-EA3_ift
+
+![IFT moyen sur l'exploitation](images/EA3_ift.png){#fig-EA3_ift}
+
+#### Gestion de l'herbe
+
+Les inter-rangs sont parfois labourés (0 à 1 passage selon les années). Sur le rang, l'exploitation passe les interceps.
+
+### Évaluation de la durabilité initiale
+
+*La durabilité initiale n'a pas été évaluée.*
+
+## Quelles évolutions des pratiques ?
+
+*Cette exploitation n'a pas été jouée ni évaluée.*
+
+::: {.content-visible when-format="pdf"}
+## Mise à jour des fiches
+
+Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.github.io/ripp/)
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+![](images/allLogos.png)
+
+</div>
+
+<div>
+
+![](images/qrcode_vignevin.github.io.png){width="198"}
+
+</div>
+:::
+:::

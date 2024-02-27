@@ -4,12 +4,16 @@ title: "A propos"
 
 Ce site a été réalisé dans le cadre du projet RIPP-Viti.
 
-**Date de création** : 2023
+**Date de création** : 2024
 
 **Contributeurs** :
 
--   INRAE : Marc Voltz, Cécile Dagès, Aurélie Metay, Raphaël Métral, Carole Bedos, Laure Hossard, Jean-Paul Douzals, Sonia Grimbuhler
+-   INRAE : Marc Voltz, Cécile Dagès, Aurélie Metay, Raphaël Métral, Carole Bedos, Laure Hossard, Jean-Paul Douzals
 
 -   IFV : Xavier Delpuech, Sébastien Codis, Adrien Vergès, Alexandre Davy, Loic Lecunff
 
 **Crédits** : IFV, INRAE
+
+**Financement** : Ecophyto Recherche & Innovation, Office Français de la Biodiversité.
+
+![](images/allLogos.png)

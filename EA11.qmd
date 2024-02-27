@@ -1,0 +1,99 @@
+---
+title: "Exploitation HVE en coopérative mixte AOP-IGP"    
+format: 
+  html:
+    toc: false
+  pdf:
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{Stratégies d’évolutions des pratiques}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
+    colorlinks: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
+---
+
+L'exploitation est labellisée HVE et livre son raisin à la cave coopérative. Sa surface est d'une vingtaine d'hectares avec un vignoble au 3/4 en IGP. Le rendement moyen est de 65 hL/ha.
+
+![](images/E1_bandoEx.png)
+
+L'exploitation mobilise environ 2 équivalents temps plein à l'année, dispose d'une **voûte pneumatique** pour les traitements. Elle n'est pas équipée en intercep pour le désherbage mécanique.
+
+Sa capacité d'investissement est d'environ 15 000 € par an.
+
+## La situation initiale de l'exploitation
+
+### Les pratiques actuelles
+
+#### La protection phytosanitaire
+
+L'exploitation pratique le sous-dosage pour les traitements en début de saison lorsqu'il y a peu de végétation à protéger.
+
+Des produits insecticides à double cible sont appliqués pour gérer les cicadelles et les vers de la grappe.
+
+L'IFT varie de 12.9 en année à faible pression à 15.7 en année à forte pression @fig-EA11_ift
+
+![IFT moyen sur l'exploitation](images/EA11_ift.png){#fig-EA11_ift}
+
+#### Gestion de l'herbe
+
+Les inter-rangs sont labourés, environ 4 passages par an dont 1 labour d'automne. Sur le rang, l'exploitation a recours au désherbage chimique, avec 2 passages de glyphosate et 1 anti-germinatif.
+
+### Évaluation de la durabilité initiale
+
+L'évaluation de la durabilité de la stratégie est réalisée avec l'outil [DEXi PM Vigne](methodo.qmd). DEXiPM Vigne note de 0 à 5 la durabilité des exploitations agricoles selon les trois piliers : économique, sociale et environnementale.
+
+La situation initiale du type "Exploitation viticole HVE coopérative mixte" implique une utilisation élevée d'herbicides et de labour, et une utilisation moyenne de fongicides et d'insecticides.
+
+L'exploitation ne dispose pas de haies ni de couverture végétale importante (en surface et dans le temps) et présente des rendements élevés et un prix de vente bas.
+
+Pour atteindre ces rendements élevés, la stratégie consiste à adopter des pratiques éliminant tous les risques de perte de rendement dus à des maladies ou à la concurrence avec des adventices grâce à des traitements préventifs et à un sol nu.
+
+D'après DEXiPM Vigne, la situation initiale a une évaluation faible sur le plan environnemental (1/5), moyenne sur le plan économique (3/5) et élevée sur le plan social (4/5) @fig-EA11_Dexi.
+
+## Quelles évolutions des pratiques ?
+
+### Les stratégies co-construites en atelier
+
+Lors d'ateliers participatifs, des stratégies combinant différents leviers sur l'exploitation ont été proposées par un **groupe d'experts** (DRAAF, Syndicat AOP, Chambre Agriculture, Agence de l'Eau, chercheurs) et deux groupes de viticulteurs (**acteurs locaux**). Une sélection des stratégies les plus ambitieuses proposées (@fig-carte) ont été retenues pour évaluation avec DEXi PM vigne.
+
+![Mise en oeuvre des leviers sur le parcellaire de l'exploitation](images/EA11_carte.png){#fig-carte}
+
+### Évolution de la durabilité
+
+**La stratégie proposée lors de l'atelier d'experts** améliore fortement la durabilité (@fig-EA11_Dexi) grâce au choix du passage sous label AB, avec le maintien d'une couverture végétale un inter-rang sur deux : la note environnementale passe de 1 à 3, la durabilité économique augmente de 3 à 4. L'amélioration de la durabilité économique pourrait s'expliquer par une moindre intervention mécanique (moins de travail du sol et un IFT plus bas) tout en maintenant un faible risque de perte de rendement. La durabilité sociale augmente d'une classe passant au maximum de 5.
+
+**Les acteurs locaux** ont converti l'exploitation en agriculture intégrée, réduisant l'utilisation de pesticides notamment des herbicides, sans impact a priori sur le prix de vente. Cette stratégie n'améliore que la durabilité environnementale (de 1 à 2), les durabilités économique et sociale restent au niveau de la situation initiale (@fig-EA11_Dexi).
+
+![Note de durabilité économique, environnementale et sociale pour les systèmes conçus par les acteurs locaux (bleu), les experts (orange) en comparaison avec la situation initiale d'une exploitation viticole en coopérative mixte](images/EA11_Dexi.png){#fig-EA11_Dexi}
+
+::: {.content-visible when-format="pdf"}
+## Mise à jour des fiches
+
+Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.github.io/ripp/)
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+![](images/allLogos.png)
+
+</div>
+
+<div>
+
+![](images/qrcode_vignevin.github.io.png){width="198"}
+
+</div>
+:::
+:::

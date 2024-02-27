@@ -1,0 +1,102 @@
+---
+title: "Exploitation en cave particulière en AB AOP Saint Chinian"    
+format: 
+  html:
+    toc: false
+  pdf:
+    papersize: a4paper
+    documentclass: scrartcl
+    date: last-modified
+    date-format: "[Dernière mise à jour] MMM, YYYY"
+    shift-heading-level-by: -1
+    number-sections: false
+    mainfont: Ebrima
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \rohead{Stratégies d’évolutions des pratiques}
+        \lofoot{Projet RIPP-Viti, 2024. CC BY-NC-ND}
+    colorlinks: true
+    license: "CC BY-NC-ND"
+    geometry:
+      - top=20mm
+      - left=20mm
+      - heightrounded
+---
+
+L'exploitation est labellisée en Agriculture Biologique et vend son vin en cave particulière, en majorité en bouteille. Son vignoble d'une vingtaine d'hectares est entièrement en AOP Saint-Chinian. Le rendement moyen est de 36 hL/ha.
+
+![](images/EA2A_bando.png)
+
+L'exploitation mobilise 2,5 équivalents temps plein à l'année. Sa capacité d'investissement est d'environ 30 000 € par an.
+
+## La situation initiale de l'exploitation
+
+### Les pratiques actuelles
+
+#### La protection phytosanitaire
+
+L'exploitation est équipée d'une voûte pneumatique, et pratique le sous-dosage pour les traitements : - en début de saison, lorsqu'il y a peu de végétation à protéger, - en fin de saison, - pour une partie des traitements en association avec de l'huile essentielle d'orange.
+
+Des produits insecticides à double cible sont appliqués pour gérer les cicadelles et les vers de la grappe.
+
+L'IFT varie de 10,3 en année à faible pression à 10,8 en année à forte pression @fig-EA2A_ift
+
+![IFT moyen sur l'exploitation](images/EA2A_ift.png){#fig-EA2A_ift}
+
+#### Gestion de l'herbe
+
+L'exploitation, en Agriculture biologique, réalise 2 labours dans l'inter-rang et 2 passages d'inter-ceps. L'herbe pousse peu du fait du type de sol.
+
+### Évaluation de la durabilité initiale
+
+L'évaluation de la durabilité de la stratégie est réalisée avec l'outil [DEXi PM Vigne](methodo.qmd). DEXiPM Vigne note de 0 à 5 la durabilité des exploitations agricoles selon les trois piliers : économique, sociale et environnementale.
+
+La stratégie initiale du type "Exploitation viticole en cave particulière AB Saint Chinian" a une évaluation globale de durabilité très élevée (@fig-EA2A_Dexi) : durabilités environnementale et économique élevée (4/5) et évaluation très élevée de la durabilité sociale (5/5).
+
+Les facteurs clés de ces évaluations élevées sont le label Agriculture Biologique ainsi que la valorisation en cave particulière, permettant des prix de vente plus élevés compensant d'éventuelles pertes de rendement dues à la concurrence ou aux maladies.
+
+Ce type d'exploitation présente un risque plus élevé de perte de rendement par rapport aux exploitations (voir [exploitation HVE en coopérative mixte](EA11.qmd) et [exploitation HVE en coopérative 100% IGP](EA12.qmd)) avec une couverture végétale un inter-rang sur deux et une utilisation réduite de pesticides. Cependant, cela rend également plus durable cette situation sur le plan environnemental et social.
+
+L'Agriculture Biologique bénéficie également de subventions plus importantes ce qui peut également expliquer l'évaluation économique élevée.
+
+## Quelles évolutions des pratiques ?
+
+### Les stratégies co-construites en atelier
+
+Lors d'ateliers participatifs, des stratégies combinant différents leviers sur l'exploitation ont été proposées par un **groupe d'experts** (DRAAF, Syndicat AOP, Chambre Agriculture, Agence de l'Eau, chercheurs)[^1]. Une sélection des stratégies les plus ambitieuses proposées (@fig-carte) ont été retenues pour évaluation avec DEXi PM vigne.
+
+[^1]: Seul le groupe d'experts a été sollicité pour re-concevoir un système dans cette situation.
+
+![Mise en oeuvre des leviers sur le parcellaire de l'exploitation](images/EA2A_carte.png){#fig-carte}
+
+### Évolution de la durabilité
+
+La nouvelle stratégie proposée lors de l'atelier d'experts présente des pratiques améliorées avec une couverture végétale de 1 inter-rang sur 4 toute l'année et une réduction de l'utilisation d'insecticides en rejoignant un GDON (lutte contre la cicadelle de la Flavescence dorée). 
+
+Un investissement dans un meilleur équipement de pulvérisation permet de réduire également le risque de dérive des pesticides appliqués. La durabilité environnementale s'améliore ainsi d'une classe en atteignant le maximum de 5/5 (@fig-EA2A_Dexi). 
+
+La durabilité économique (4/5) et sociale (5/5) sont maintenues au niveau de la situation initiale déjà élevée et satisfaisante.
+
+
+![Note de durabilité économique, environnementale et sociale pour les systèmes conçus par les acteurs locaux (bleu), les experts (orange) en comparaison avec la situation initiale d'une exploitation en cave particulière AB AOP Saint-Chinian](images/EA2A_Dexi.png){#fig-EA2A_Dexi}
+
+::: {.content-visible when-format="pdf"}
+## Mise à jour des fiches
+
+Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.github.io/ripp/)
+
+::: {layout="[ 70, 30 ]"}
+<div>
+
+![](images/allLogos.png)
+
+</div>
+
+<div>
+
+![](images/qrcode_vignevin.github.io.png){width="198"}
+
+</div>
+:::
+:::
