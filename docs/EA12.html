@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.361">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Fiches Ripp-Viti - Exploitation HVE en coopérative 100% IGP</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "Pas de résultats",
+    "search-matching-documents-text": "documents trouvés",
+    "search-copy-link-title": "Copier le lien vers la recherche",
+    "search-hide-matches-text": "Cacher les correspondances additionnelles",
+    "search-more-match-text": "correspondance de plus dans ce document",
+    "search-more-matches-text": "correspondances de plus dans ce document",
+    "search-clear-button-title": "Effacer",
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Envoyer",
+    "search-label": "Recherche"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Fiches Ripp-Viti</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html" rel="" target="">
+ <span class="menu-text">Introduction</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./methodo.html" rel="" target="">
+ <span class="menu-text">La démarche</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-fiches-leviers" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Fiches Leviers</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-fiches-leviers">    
+        <li>
+    <a class="dropdown-item" href="./L6_choixPulve.html" rel="" target="">
+ <span class="dropdown-text">Bien choisir son pulvérisateur</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./L1_optiPulve.html" rel="" target="">
+ <span class="dropdown-text">Optimiser sa voûte pneumatique</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./L5_pulveConfinee.html" rel="" target="">
+ <span class="dropdown-text">La Pulvérisation confinée</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./L3_buses.html" rel="" target="">
+ <span class="dropdown-text">Utiliser des buses antidérive sur les pulvérisateurs à jet porté</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./L9_oad.html" rel="" target="">
+ <span class="dropdown-text">Utiliser un outil d’aide à la décision pour la protection sanitaire</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./L8_enh.html" rel="" target="">
+ <span class="dropdown-text">Enherber une partie des inter-rangs</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./L2_haies.html" rel="" target="">
+ <span class="dropdown-text">Planter des haies antidérive à proximité des habitations</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./L7_fosses.html" rel="" target="">
+ <span class="dropdown-text">Gérer les fossés</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./L4_varietes.html" rel="" target="">
+ <span class="dropdown-text">Planter des variétés résistantes</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-fiches-exploitations" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Fiches Exploitations</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-fiches-exploitations">    
+        <li>
+    <a class="dropdown-item" href="./EA11.html" rel="" target="">
+ <span class="dropdown-text">Exploitation HVE en coopérative mixte AOP-IGP</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./EA12.html" rel="" target="">
+ <span class="dropdown-text">Exploitation HVE en coopérative 100% IGP</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./EA2A.html" rel="" target="">
+ <span class="dropdown-text">Exploitation en cave particulière en AB AOP Saint Chinian</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./EA2B.html" rel="" target="">
+ <span class="dropdown-text">Exploitation en cave particulière AOP Saint-Chinian</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html" rel="" target="">
+ <span class="menu-text">A propos</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./biblio.html" rel="" target="">
+ <span class="menu-text">Bibliographie</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div class="quarto-alternate-formats"><h2>Autres formats</h2><ul><li><a href="EA12.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Exploitation HVE en coopérative 100% IGP</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>L’exploitation est labellisée HVE et livre son raisin à la cave coopérative. Sa surface est d’une vingtaine d’hectares avec un vignoble en IGP. Le rendement moyen est de 72 hL/ha.</p>
+<p><img src="images/EA12_bando.png" class="img-fluid"></p>
+<p>L’exploitation mobilise environ 2 équivalents temps plein à l’année, dispose d’une <strong>voûte pneumatique</strong> pour les traitements. Elle n’est pas équipée en intercep pour le désherbage mécanique.</p>
+<p>Sa capacité d’investissement est d’environ 15 000 € par an.</p>
+<section id="la-situation-initiale-de-lexploitation" class="level2">
+<h2 class="anchored" data-anchor-id="la-situation-initiale-de-lexploitation">La situation initiale de l’exploitation</h2>
+<section id="les-pratiques-actuelles" class="level3">
+<h3 class="anchored" data-anchor-id="les-pratiques-actuelles">Les pratiques actuelles</h3>
+<section id="la-protection-phytosanitaire" class="level4">
+<h4 class="anchored" data-anchor-id="la-protection-phytosanitaire">La protection phytosanitaire</h4>
+<p>L’exploitation est équipée d’une voûte pneumatique et pratique le sous-dosage pour les traitements en début de saison lorsqu’il y a peu de végétation à protéger.</p>
+<p>Des produits insecticides à double cible sont appliqués pour gérer les cicadelles et les vers de la grappe.</p>
+<p>L’IFT varie de 12.9 en année à faible pression à 15.7 en année à forte pression <a href="#fig-EA11_ift">Figure&nbsp;1</a></p>
+<div id="fig-EA11_ift" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/EA12_ift.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: IFT moyen sur l’exploitation</figcaption>
+</figure>
+</div>
+</section>
+<section id="gestion-de-lherbe" class="level4">
+<h4 class="anchored" data-anchor-id="gestion-de-lherbe">Gestion de l’herbe</h4>
+<p>Les inter-rangs sont labourés, environ 4 passages par an dont 1 labour d’automne. Sur le rang, l’exploitation a recours au désherbage chimique, avec 2 passages de glyphosate et 1 anti-germinatif.</p>
+</section>
+</section>
+<section id="évaluation-de-la-durabilité-initiale" class="level3">
+<h3 class="anchored" data-anchor-id="évaluation-de-la-durabilité-initiale">Évaluation de la durabilité initiale</h3>
+<p>L’évaluation de la durabilité de la stratégie est réalisée avec l’outil <a href="./methodo.html">DEXi PM Vigne</a>. DEXiPM Vigne note de 0 à 5 la durabilité des exploitations agricoles selon les trois piliers : économique, sociale et environnementale.</p>
+<p>La situation initiale du type “Exploitation viticole HVE coopérative 100% IGP” est peu durable sur le plan environnemental (1/5, voir <a href="#fig-EA12_Dexi">Figure&nbsp;3</a>). La durabilité économique est évaluée comme moyenne et la durabilité sociale comme élevée. La stratégie initiale est identique à l’<a href="./EA11.html">exploitation en coopérative mixte</a> : utilisation élevée d’herbicides et de labour et utilisation moyenne de fongicides et d’insecticides.</p>
+</section>
+</section>
+<section id="quelles-évolutions-des-pratiques" class="level2">
+<h2 class="anchored" data-anchor-id="quelles-évolutions-des-pratiques">Quelles évolutions des pratiques ?</h2>
+<section id="les-stratégies-co-construites-en-atelier" class="level3">
+<h3 class="anchored" data-anchor-id="les-stratégies-co-construites-en-atelier">Les stratégies co-construites en atelier</h3>
+<p>Lors d’ateliers participatifs, des stratégies combinant différents leviers sur l’exploitation ont été proposées par un <strong>groupe d’experts</strong> (DRAAF, Syndicat AOP, Chambre Agriculture, Agence de l’Eau, chercheurs) et deux groupes de viticulteurs (<strong>acteurs locaux</strong>). Une sélection des stratégies les plus ambitieuses proposées (<a href="#fig-carte">Figure&nbsp;2</a>) ont été retenues pour évaluation avec DEXi PM vigne.</p>
+<div id="fig-carte" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/EA12_carte.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;2: Mise en oeuvre des leviers sur le parcellaire de l’exploitation</figcaption>
+</figure>
+</div>
+</section>
+<section id="évolution-de-la-durabilité" class="level3">
+<h3 class="anchored" data-anchor-id="évolution-de-la-durabilité">Évolution de la durabilité</h3>
+<p><strong>La stratégie proposée lors de l’atelier d’experts</strong> améliore l’évaluation de la durabilité environnementale de 1/5 à 3/5 (<a href="#fig-EA12_Dexi">Figure&nbsp;3</a>). La durabilité économique est améliorée d’une classe passant de 3/5 à 4/5, également grâce au choix du passage sous label AB augmentant le prix de vente. La durabilité sociale augmente d’une classe en passant de 4/5 à 5/5.</p>
+<p>Pour <strong>les acteurs locaux</strong> l’ensemble des notes est amélioré par rapport à la situation initiale. L’augmentation de la durabilité environnementale est due notamment à la diminution des indices IFT globaux des pesticides grâce à la plantation de variétés résistantes (baisse des fongicides) et en rejoignant un GDON (baisse des insecticides obligatoires pour la lutte contre la flavescence dorée). La durabilité économique (4/5) et la durabilité sociale (5/5) s’améliorent d’une classe par rapport à la situation initiale..</p>
+<div id="fig-EA12_Dexi" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/EA12_Dexi.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;3: Note de durabilité économique, environnementale et sociale pour les systèmes conçus par les acteurs locaux (bleu), les experts (orange) en comparaison avec la situation initiale d’une exploitation viticole en coopérative 100% IGP</figcaption>
+</figure>
+</div>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copié");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copié");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">© CC BY-NC-ND</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">Projet RIPPviti, 2024</div>
+  </div>
+</footer>
+
+
+
+</body></html>
