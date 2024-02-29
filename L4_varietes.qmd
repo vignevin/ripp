@@ -24,9 +24,9 @@ format:
       - heightrounded
 ---
 
-| Intérêts environnementaux                    | Intérêts agronomiques | Contraintes de mise en oeuvre            | Acceptabilité                  |
+| Intérêts environnementaux                    | Intérêts agronomiques | Contraintes de mise en oeuvre            | Acceptabilité |
 |-------------------|------------------|------------------|------------------|
-| Forte réduction des intrants phytosanitaires | Gain de productivité  | Investissement élevé. Contraintes en AOP | A prioriser en zones sensibles |
+| Forte réduction des intrants phytosanitaires | Gain de productivité  | Investissement élevé. Contraintes en AOP | Bonne         |
 
 ::: {layout="[ 70, 30 ]"}
 ::: {#first-column}
@@ -56,7 +56,9 @@ Observer régulièrement vos parcelles et signalez toute anomalie à votre conse
 
 ## Quels impacts agronomiques et sur les vins ?
 
-Ces variétés étant relativement nouvelles, les références sur leur comportement et les vins produits sont en cours d'acquisition. Consultez les fiches en lignes [ici](https://observatoire-cepages-resistants.fr/les-fiches-cepages-resistants/) ou [là](https://www.vignevin-occitanie.com/fiches-pratiques/les-varietes-resistantes/) pour connaitre leurs caractéristiques agronomiques et leurs aptitudes œnologiques.
+Ces variétés étant relativement nouvelles, les références sur leur comportement et les vins produits sont en cours d'acquisition. L'analyse sensorielle de vins incluant jusqu'à 10 à 20% de variétés résistantes a montré que cela ne dénaturait pas la typicité des produits.
+
+Consultez les fiches en lignes [ici](https://observatoire-cepages-resistants.fr/les-fiches-cepages-resistants/) ou [là](https://www.vignevin-occitanie.com/fiches-pratiques/les-varietes-resistantes/) pour connaitre leurs caractéristiques agronomiques et leurs aptitudes œnologiques.
 
 ## Planter des variétés résistantes
 
@@ -66,12 +68,13 @@ Favoriser les variétés polygéniques, c'est-à-dire possédant plusieurs gène
 
 ### La plantation
 
-Sélectionner en priorité les parcelles à enjeux (zones sensibles, hors ZNT). La plantation est mise en œuvre de façon classique.
+Sélectionner en priorité les parcelles à enjeux (zones proches des habitations, mais hors ZNT). La plantation est mise en œuvre de façon classique.
 
 ::: callout-warning
 ## Attention aux autres maladies !
 
-Il est possible de constater la réapparition de maladies normalement gérées par les couvertures mildiou/oïdium (Anthracnose, black rot, érinose). Maintenir une protection minimale !
+Il est possible de constater la réapparition de maladies normalement gérées par les couvertures mildiou/oïdium (Anthracnose, black rot, érinose). 
+**Maintenir une protection minimale** qui permettra en outre de préserver la durabilité des résistances. En conséquence, évitez de planter en ZNT.
 :::
 
 ## Actions complémentaires
@@ -80,7 +83,7 @@ Lors des traitements recommandés, utilisez un appareil bien réglé et respecte
 
 En jet porté, pour réduire la dérive, utiliser des buses antidérives : [Utiliser des buses antidérive sur les pulvérisateurs à jet porté](L3_buses.qmd)
 
-Dans les zones sensibles, la plantation de haies peut venir en complément pour limiter les risques de dérive : [Planter des haies antidérive à proximité des habitations](L2_haies.qmd)
+Dans les zones proches des habitations, la plantation de haies peut venir en complément pour limiter les risques de dérive : [Planter des haies antidérive à proximité des habitations](L2_haies.qmd)
 
 ## Pour approfondir le sujet
 
