@@ -12,10 +12,11 @@ La démarche du projet a été menée en trois étapes principales (@fig-demarch
 
 ### Un diagnostic initial
 
-Un diagnostic initial des exploitations viticoles existantes sur un territoire d'étude, le bassin du Rieutort (Hérault, France). Cette étape a permis de caractériser la situation viticole de référence du territoire et d'élaborer une typologie des exploitations selon leurs caractéristiques propres, notamment :
+Un diagnostic initial a été réalisé sur la base de l'analyse de 22 exploitations du territoire d'étude, le bassin du Rieutort (Hérault, France). Cette étape a permis de caractériser la situation viticole de référence du territoire et d'élaborer une typologie des exploitations selon leurs caractéristiques propres, notamment :
 
 -   label de production (HVE, AB...),
 -   mode de valorisation du raisin (cave particulière, cave coopérative),
+-   type de production (IGP, AOP),
 -   taille et structure d'exploitation,
 -   pratiques de gestion des bioagresseurs.
 
@@ -23,7 +24,7 @@ Un diagnostic initial des exploitations viticoles existantes sur un territoire d
 
 Une approche participative a été conduite pour réfléchir et élaborer des stratégies de réduction des usages et impacts des PP adaptées aux différents types d'exploitation viticoles en fonction de leurs contraintes spécifiques (par ex. main d'œuvre, sols...).
 
-Cette approche participative a été menée sous forme de "jeu sérieux", avec en parallèle un groupe **d'experts** (acteurs de la filière viticole et du conseil, gestionnaires des ressources en eau, chercheurs) et deux groupes **d'acteurs viticoles** (producteurs, conseillers viticoles) du bassin du Rieutort.
+Cette approche participative a été menée sous forme de "jeu sérieux", avec en parallèle un groupe **d'experts** (acteurs de la filière viticole et du conseil, gestionnaires des ressources en eau, chercheurs) et deux groupes **d'acteurs viticoles** (producteurs, conseillers viticoles) du bassin du Rieutort [@HOSSARD2022134913].
 
 Le choix d'opérer l'approche participative avec plusieurs groupes de natures différentes avait pour objectif de favoriser une diversité d'ambitions et de points de vue dans la conception des stratégies. Il en ressort plusieurs options de stratégies d'évolution des pratiques et de réduction des usages pour chaque type d'exploitation identifié lors de l'étape de diagnostic.
 
@@ -33,7 +34,7 @@ L'évaluation approfondie des stratégies élaborées aux plans de la durabilit�
 
 #### L'évaluation de la durabilité avec l'outil DEXi PM Vigne
 
-L'évaluation de la durabilité des stratégies a été réalisée avec l'outil d'analyse multicritère DEXi PM Vigne (@metral:hal-01506482).
+L'évaluation de la durabilité des stratégies a été réalisée avec l'outil d'analyse multicritère DEXi PM Vigne [@metral:hal-01506482].
 
 DEXiPM Vigne® est un outil d'aide à la décision qui évalue la contribution des systèmes de culture à la durabilité des exploitations agricoles pour ses trois piliers économique, social et environnemental.Son fonctionnement repose sur une arborescence détaillée et transparente qui agrège des informations simples (nombre d'interventions culturales, IFT, etc.) pour estimer des variables complexes (ressources utilisées, biodiversité faunistique, etc.). Entièrement qualitatif, ce modèle se renseigne à dire d'experts (ses 65 entrées sont décrites par des classes qualitatives telles que faible, moyen, élevé par exemple) à partir de données, chiffrées ou non, converties en classes qualitatives. L'évaluation des entrées (ou « critère de base ») ne requiert pas de références technico-économiques particulières et ne fait appel à aucun modèle externe. L'outil DEXiPM Vigne note de 0 à 5 la durabilité des exploitations agricoles selon les trois piliers : économique, sociale et environnementale.
 
