@@ -44,26 +44,33 @@ Les fossés jouent un rôle important pour limiter la contamination de surface e
 
 La rétention varie principalement selon les propriétés des molécules, la capacité du sol et des matériaux présents dans le fossé (végétation vivante, litières) à retenir les pesticides (adsorption) ou encore de la largeur du fossé. Un fossé plus large offre plus de surface de contact pour l'adsorption. Le mode de gestion du fossé permet le contrôle de la nature des matériaux présents dans les fossés et est en conséquence un levier pour moduler la rétention.
 
-### Le brûlis
 
 ::: {layout="[ 70, 30 ]"}
-::: {#first-column}
+<div>
+
+### Le brûlis
+
 Le brûlis a un effet **très positif sur la rétention de toutes les molécules grâce aux cendres produites**.
 
 ::: callout-warning
 Attention, le brûlis est une pratique soumise à autorisation préfectorale dérogatoire et est déclassante pour les aides européennes en raison des émissions de gaz à effet de serre qu'il provoque.
 :::
-:::
 
-::: {#second-column}
+</div>
+
+<div>
+
 ![Brûlis d'un fossé](images/L7_brulis.png)
-:::
+
+</div>
+
 :::
 
-### La fauche
 
 ::: {layout="[ 70, 30 ]"}
 <div>
+
+### La fauche
 
 La fauche a en général un **effet positif sur la rétention** car elle augmente la quantité de matières végétales en décomposition dans le fossé qui sont des adsorbants importants de nombreuses molécules. Mais cet effet est limité pour certaines molécules, comme le glyphosate, qui s'adsorbent peu sur la matière végétale.
 
@@ -76,10 +83,12 @@ La fauche a en général un **effet positif sur la rétention** car elle augment
 </div>
 :::
 
-### Le curage
 
 ::: {layout="[ 70, 30 ]"}
 <div>
+
+### Le curage
+
 
 ::: callout-warning
 A éviter ! Le **curage a un effet négatif** sur la rétention de toutes les molécules car ce sont les matériaux les plus favorables à la rétention et dégradation (riches en matières organiques et organismes du sol) qui sont excavés.
@@ -94,10 +103,10 @@ A éviter ! Le **curage a un effet négatif** sur la rétention de toutes les mo
 </div>
 :::
 
-### Le désherbage chimique
-
 ::: {layout="[ 70, 30 ]"}
 <div>
+
+### Le désherbage chimique
 
 Le désherbage chimique accentue la contamination par l'herbicide utilisé (habituellement le glyphosate) mais peut améliorer la rétention des autres molécules en augmentant la teneur en matière organique des fonds de fossés. Cette pratique n'est plus autorisée dans un nombre croissant de départements (arrêtés préfectoraux "fossés").
 
@@ -130,9 +139,9 @@ Vous pouvez en savoir plus sur les [zones tampons](https://professionnels.ofb.fr
 
 ## Pour approfondir le sujet
 
-Dollinger, J., Dages, C., Bailly, J., Lagacherie, P. and M., Voltz , ONEMA, (eds.) [Synthèse bibliographique](https://professionnels.ofb.fr/sites/default/files/pdf/Dollinger%20at%20al%20(2014).pdf) des différentes fonctions des réseaux de fossés aux échelles du fossé élémentaire et du réseau, ONEMA, 2014.
+Dollinger J., Dagès C., Bailly JS., Lagacherie P. et Voltz M., ONEMA, (eds.) [Synthèse bibliographique](https://professionnels.ofb.fr/sites/default/files/pdf/Dollinger%20at%20al%20(2014).pdf) des différentes fonctions des réseaux de fossés aux échelles du fossé élémentaire et du réseau, ONEMA, 2014.
 
-Cécile Dagès, Jean-Stéphane Bailly, [J. Dollinger,]{.underline} P. Lagacherie, Marc Voltz (2016). *Méthodologie de diagnostic et de gestion des réseaux de fossés agricoles infiltrants pour la limitation de la contamination des masses d'eau par les pesticides.* (Onema), <https://hal.inrae.fr/hal-01593744>
+Dagès C., Bailly JS., Dollinger J., Lagacherie P. et Voltz M. (2016). *Méthodologie de diagnostic et de gestion des réseaux de fossés agricoles infiltrants pour la limitation de la contamination des masses d'eau par les pesticides.* (Onema), <https://hal.inrae.fr/hal-01593744>
 
 ::: {.content-visible when-format="pdf"}
 ## Mise à jour des fiches
@@ -153,4 +162,3 @@ Retrouvez les dernières mises à jour sur le [site web RIPP](https://vignevin.g
 </div>
 :::
 :::
-
