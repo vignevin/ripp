@@ -12,6 +12,10 @@ Ce site a été réalisé dans le cadre du projet RIPP-Viti.
 
 -   IFV : Xavier Delpuech, Sébastien Codis, Adrien Vergès, Alexandre Davy, Loic Lecunff
 
+**Pour citer ce travail** :
+
+Xavier Delpuech, Marc Voltz, Laure Hossard, Cécile Dagès, Aurélie Metay, et al.. Fiches techniques du projet Ripp-Viti Réduire les impacts des produits phytosanitaires en viticulture méridionale à l'échelle territoriale. 2024. ⟨[hal-04491653](https://hal.science/hal-04491653)⟩
+
 **Crédits** : IFV, INRAE
 
 **Financement** : Ecophyto Recherche & Innovation, Office Français de la Biodiversité.
